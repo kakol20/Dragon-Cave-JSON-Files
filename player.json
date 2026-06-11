@@ -134,10 +134,10 @@
   },
   {
     "id"        : "skystrider",
-    "view"      : ["cRHFA", "F0xRe"],
+    "view"      : ["cRHFA", "F0xRe", "07Mbo"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260604
+    "date"      : 20260611
   },
   {
     "id"        : "storm",
@@ -150,7 +150,7 @@
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260608
   },
   {

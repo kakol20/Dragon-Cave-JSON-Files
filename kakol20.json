@@ -1,0 +1,184 @@
+[
+  {
+    "id"        : "alcedine",
+    "view"      : ["r5HjG", "2SQzP", "P3sIf", "HEuw0", "e5D3n"],
+    "adults"    : 4,
+    "hatchlings": 1,
+    "date"      : 20260606
+  },
+  {
+    "id"        : "antarean",
+    "view"      : ["qZzsu", "DPAkt", "IIfXU"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260601
+  },
+  {
+    "id"        : "aranoa",
+    "view"      : ["8uNNc", "wUEuM", "Y596p"],
+    "adults"    : 0,
+    "hatchlings": 3,
+    "date"      : 20260605
+  },
+  {
+    "id"        : "black",
+    "view"      : ["WUMhA", "3Kp8e", "3Ouyy"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260602
+  },
+  {
+    "id"        : "blazeback",
+    "view"      : ["7NryX", "jaDcR", "0IAIg"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260524
+  },
+  {
+    "id"        : "daydream",
+    "view"      : ["sYh9W", "2JDND", "9ovoC"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260526
+  },
+  {
+    "id"        : "delta",
+    "view"      : ["QJ0vb", "97vSI", "CGWe7"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260530
+  },
+  {
+    "id"        : "diamondwing",
+    "view"      : ["XovTd"],
+    "adults"    : 0,
+    "hatchlings": 1,
+    "date"      : 20260605
+  },
+  {
+    "id"        : "flamingo",
+    "view"      : ["jlPOW", "6qpZB", "aWDRa"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260526
+  },
+  {
+    "id"        : "galvanic",
+    "view"      : ["zcYmY", "Rqz6H", "b3d8o"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260523
+  },
+  {
+    "id"        : "green",
+    "view"      : ["MP0ky"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260610
+  },
+  {
+    "id"        : "hellfire",
+    "view"      : ["Gbbwu", "IwEOZ", "hPQWU"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260531
+  },
+  {
+    "id"        : "ignimbri",
+    "view"      : ["QpDm7"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260610
+  },
+  {
+    "id"        : "kymatumi",
+    "view"      : ["hkVjs", "E1xsz"],
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260610
+  },
+  {
+    "id"        : "miufu",
+    "view"      : ["qZdKE"],
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260602
+  },
+  {
+    "id"        : "nocturne",
+    "view"      : ["YDcCw", "0l7K5", "y45IJ"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260529
+  },
+  {
+    "id"        : "papillune",
+    "view"      : ["lOhDj", "z6O7C", "SWkjF"],
+    "adults"    : 0,
+    "hatchlings": 3,
+    "date"      : 20260604
+  },
+  {
+    "id"        : "ridgewing",
+    "view"      : ["7CN9X", "F8s9w", "0fp1c"],
+    "adults"    : 2,
+    "hatchlings": 0,
+    "date"      : 20260604
+  },
+  {
+    "id"        : "skystrider",
+    "view"      : ["cRHFA", "F0xRe"],
+    "adults"    : 2,
+    "hatchlings": 0,
+    "date"      : 20260604
+  },
+  {
+    "id"        : "storm",
+    "view"      : ["AlWtg", "bemjs", "GEjct"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260523
+  },
+  {
+    "id"        : "stormherald",
+    "view"      : ["avdaG", "X4zm4"],
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260608
+  },
+  {
+    "id"        : "striped_river",
+    "view"      : ["IL62o"],
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260602
+  },
+  {
+    "id"        : "sunstone",
+    "view"      : ["scqGD", "6fJ3J", "C4y4m"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260602
+  },
+  {
+    "id"        : "thousand_wish",
+    "view"      : ["hdlZG", "dmcM5"],
+    "adults"    : 0,
+    "hatchlings": 2,
+    "date"      : 20260606
+  },
+  {
+    "id"        : "turpentine",
+    "view"      : ["BsGfE", "Qb4mK", "2Odso"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260524
+  },
+  {
+    "id"        : "white",
+    "view"      : ["dwXyL", "hDWez", "FIKTC"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260520
+  }
+]

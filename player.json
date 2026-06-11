@@ -16,8 +16,8 @@
   {
     "id"        : "aranoa",
     "view"      : ["8uNNc", "wUEuM", "Y596p"],
-    "adults"    : 0,
-    "hatchlings": 3,
+    "adults"    : 1,
+    "hatchlings": 2,
     "date"      : 20260605
   },
   {
@@ -128,7 +128,7 @@
   {
     "id"        : "ridgewing",
     "view"      : ["7CN9X", "F8s9w", "0fp1c"],
-    "adults"    : 2,
+    "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260604
   },

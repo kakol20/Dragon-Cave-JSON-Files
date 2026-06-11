@@ -68,6 +68,12 @@
     "description" : "This egg shines like a diamond",
     "encyclopedia": "https://dragcave.net/dragonopedia/173"
   },
+  "electric"     : {
+    "name": ["Electric Dragon"],
+    "img": ["https://s.dcave.net/cache/images/1/19pa56n.png"],
+    "description": "Bright sparks glide across the surface of this egg's shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/36"
+  },
   "fire_gem"     : {
     "name": [
       "Fire Gem Dragon Red",

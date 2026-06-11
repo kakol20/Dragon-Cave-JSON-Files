@@ -120,9 +120,9 @@
   },
   {
     "id"        : "papillune",
-    "view"      : ["lOhDj", "z6O7C", "SWkjF"],
-    "adults"    : 1,
-    "hatchlings": 2,
+    "view"      : ["lOhDj", "SWkjF", "z6O7C"],
+    "adults"    : 3,
+    "hatchlings": 0,
     "date"      : 20260604
   },
   {

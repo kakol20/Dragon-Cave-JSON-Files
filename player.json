@@ -2,8 +2,8 @@
   {
     "id"        : "alcedine",
     "view"      : ["r5HjG", "2SQzP", "P3sIf", "HEuw0", "e5D3n"],
-    "adults"    : 4,
-    "hatchlings": 1,
+    "adults"    : 5,
+    "hatchlings": 0,
     "date"      : 20260606
   },
   {
@@ -16,7 +16,7 @@
   {
     "id"        : "aranoa",
     "view"      : ["8uNNc", "wUEuM", "Y596p"],
-    "adults"    : 2,
+    "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260605
   },
@@ -170,8 +170,8 @@
   {
     "id"        : "thousand_wish",
     "view"      : ["hdlZG", "dmcM5"],
-    "adults"    : 0,
-    "hatchlings": 2,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260606
   },
   {

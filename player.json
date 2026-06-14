@@ -35,6 +35,13 @@
     "date"      : 20260524
   },
   {
+    "id"        : "celestial",
+    "view"      : ["VW27P", "qHlsJ", "kHjvK"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260611
+  },
+  {
     "id"        : "daydream",
     "view"      : ["sYh9W", "2JDND", "9ovoC"],
     "adults"    : 3,
@@ -52,7 +59,14 @@
     "id"        : "diamondwing",
     "view"      : ["XovTd", "frhlu", "BRcg5"],
     "adults"    : 1,
-    "hatchlings": 1,
+    "hatchlings": 2,
+    "date"      : 20260611
+  },
+  {
+    "id"        : "duotone",
+    "view"      : ["nqX4v"],
+    "adults"    : 0,
+    "hatchlings": 0,
     "date"      : 20260611
   },
   {
@@ -73,7 +87,7 @@
     "id"        : "frostbite",
     "view"      : ["4yPVY", "NQy3c", "cwZuw"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 3,
     "date"      : 20260610
   },
   {

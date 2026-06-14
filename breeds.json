@@ -46,7 +46,7 @@
   },
   "celestial"    : {
     "name": ["Celestial Dragon"],
-    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "img": ["https://s.dcave.net/cache/images/n/niaryz.png"],
     "description": "This egg's slick shell is covered in lustrous, vibrant scales",
     "encyclopedia": "https://dragcave.net/dragonopedia/973"
   },
@@ -67,6 +67,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1sccqdv.gif"],
     "description" : "This egg shines like a diamond",
     "encyclopedia": "https://dragcave.net/dragonopedia/173"
+  },
+  "duotone"      : {
+    "name"        : ["Duotone Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1gupqg2.png"],
+    "description" : "This egg can't seem to make up its mind what color it is",
+    "encyclopedia": "https://dragcave.net/dragonopedia/35"
   },
   "electric"     : {
     "name": ["Electric Dragon"],

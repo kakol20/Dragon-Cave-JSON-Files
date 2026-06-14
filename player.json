@@ -190,10 +190,10 @@
   },
   {
     "id"        : "thousand_wish",
-    "view"      : ["hdlZG", "dmcM5"],
+    "view"      : ["hdlZG", "dmcM5", "igQZh"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260606
+    "date"      : 20260611
   },
   {
     "id"        : "turpentine",

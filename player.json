@@ -36,7 +36,7 @@
   },
   {
     "id"        : "celestial",
-    "view"      : ["VW27P", "qHlsJ", "kHjvK"],
+    "view"      : ["qHlsJ", "VW27P", "kHjvK"],
     "adults"    : 0,
     "hatchlings": 3,
     "date"      : 20260611

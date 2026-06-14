@@ -94,6 +94,12 @@
     "description" : "It's bright. And pink",
     "encyclopedia": "https://dragcave.net/dragonopedia/40"
   },
+  "frostbite"    : {
+    "name"        : ["Frostbite Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/3/38gvlc.png"],
+    "description" : "Frost is creeping over this cold egg",
+    "encyclopedia": "https://dragcave.net/dragonopedia/140"
+  },
   "galvanic"     : {
     "name"        : ["Galvanic Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/6/6cxaba.gif"],

@@ -50,16 +50,16 @@
   },
   {
     "id"        : "diamondwing",
-    "view"      : ["XovTd", "frhlu"],
+    "view"      : ["XovTd", "frhlu", "BRcg5"],
     "adults"    : 1,
-    "hatchlings": 0,
-    "date"      : 20260610
+    "hatchlings": 1,
+    "date"      : 20260611
   },
   {
     "id"        : "electric",
     "view"      : ["YfLxN"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260610
   },
   {
@@ -68,6 +68,13 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260526
+  },
+  {
+    "id"        : "frostbite",
+    "view"      : ["4yPVY", "NQy3c", "cwZuw"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260610
   },
   {
     "id"        : "galvanic",
@@ -80,7 +87,7 @@
     "id"        : "green",
     "view"      : ["MP0ky"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260610
   },
   {
@@ -101,7 +108,7 @@
     "id"        : "kymatumi",
     "view"      : ["hkVjs", "E1xsz"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260610
   },
   {

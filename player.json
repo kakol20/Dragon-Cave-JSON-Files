@@ -170,8 +170,8 @@
   {
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260608
   },
   {

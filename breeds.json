@@ -112,6 +112,12 @@
     "description" : "Powerful energy emanates from this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/1654"
   },
+  "golden"       : {
+    "name"        : ["Golden Wyvern"],
+    "img"         : ["https://s.dcave.net/cache/images/1/19s01zk.gif"],
+    "description" : "This egg shimmers like gold",
+    "encyclopedia": "https://dragcave.net/dragonopedia/51"
+  },
   "green"        : {
     "name"        : ["Green Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/j/jno5sl.gif"],

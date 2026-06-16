@@ -182,6 +182,13 @@
     "date"      : 20260602
   },
   {
+    "id"        : "golden",
+    "view"      : ["sknbk"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260613
+  },
+  {
     "id"        : "sunstone",
     "view"      : ["scqGD", "6fJ3J", "C4y4m"],
     "adults"    : 3,

@@ -36,7 +36,7 @@
   },
   {
     "id"        : "celestial",
-    "view"      : ["qHlsJ", "VW27P", "kHjvK"],
+    "view"      : ["kHjvK", "qHlsJ", "VW27P"],
     "adults"    : 0,
     "hatchlings": 3,
     "date"      : 20260611
@@ -85,7 +85,7 @@
   },
   {
     "id"        : "frostbite",
-    "view"      : ["4yPVY", "NQy3c", "cwZuw"],
+    "view"      : ["cwZuw", "NQy3c", "4yPVY"],
     "adults"    : 0,
     "hatchlings": 3,
     "date"      : 20260610

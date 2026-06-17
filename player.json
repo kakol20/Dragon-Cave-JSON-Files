@@ -9,9 +9,9 @@
   },
   {
     "id"        : "celestial",
-    "view"      : ["qHlsJ", "kHjvK", "VW27P"],
-    "adults"    : 0,
-    "hatchlings": 3,
+    "view"      : ["qHlsJ", "VW27P", "kHjvK"],
+    "adults"    : 3,
+    "hatchlings": 0,
     "date"      : 20260611,
     "finished"  : false
   },

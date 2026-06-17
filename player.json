@@ -24,14 +24,6 @@
     "finished"  : false
   },
   {
-    "id"        : "diamondwing",
-    "view"      : ["XovTd", "frhlu", "BRcg5"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260611,
-    "finished"  : false
-  },
-  {
     "id"        : "duotone",
     "view"      : ["nqX4v"],
     "adults"    : 0,
@@ -45,14 +37,6 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260617,
-    "finished"  : false
-  },
-  {
-    "id"        : "frostbite",
-    "view"      : ["4yPVY", "cwZuw", "NQy3c"],
-    "adults"    : 0,
-    "hatchlings": 3,
-    "date"      : 20260610,
     "finished"  : false
   },
   {
@@ -192,11 +176,27 @@
     "finished"  : true
   },
   {
+    "id"        : "diamondwing",
+    "view"      : ["XovTd", "frhlu", "BRcg5"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260611,
+    "finished"  : true
+  },
+  {
     "id"        : "flamingo",
     "view"      : ["jlPOW", "6qpZB", "aWDRa"],
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260526,
+    "finished"  : true
+  },
+  {
+    "id"        : "frostbite",
+    "view"      : ["4yPVY", "cwZuw", "NQy3c"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260610,
     "finished"  : true
   },
   {

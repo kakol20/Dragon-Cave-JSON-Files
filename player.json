@@ -112,14 +112,6 @@
     "finished"  : false
   },
   {
-    "id"        : "thousand_wish",
-    "view"      : ["hdlZG", "dmcM5", "igQZh"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260611,
-    "finished"  : false
-  },
-  {
     "id"        : "warden",
     "view"      : ["nj7cU"],
     "adults"    : 0,
@@ -237,6 +229,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260602,
+    "finished"  : true
+  },
+  {
+    "id"        : "thousand_wish",
+    "view"      : ["hdlZG", "dmcM5", "igQZh"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260611,
     "finished"  : true
   },
   {

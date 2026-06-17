@@ -96,14 +96,6 @@
     "finished"  : false
   },
   {
-    "id"        : "skystrider",
-    "view"      : ["cRHFA", "F0xRe", "07Mbo"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260611,
-    "finished"  : false
-  },
-  {
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4", "eHE7D"],
     "adults"    : 2,
@@ -221,6 +213,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260604,
+    "finished"  : true
+  },
+  {
+    "id"        : "skystrider",
+    "view"      : ["cRHFA", "F0xRe", "07Mbo"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260611,
     "finished"  : true
   },
   {

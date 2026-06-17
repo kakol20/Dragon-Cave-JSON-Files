@@ -65,10 +65,10 @@
   },
   {
     "id"        : "kymatumi",
-    "view"      : ["hkVjs", "E1xsz", "eHE7D"],
+    "view"      : ["hkVjs", "E1xsz"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260610,
     "finished"  : false
   },
   {

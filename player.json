@@ -17,7 +17,7 @@
   },
   {
     "id"        : "celestial",
-    "view"      : ["kHjvK", "qHlsJ", "VW27P"],
+    "view"      : ["qHlsJ", "kHjvK", "VW27P"],
     "adults"    : 0,
     "hatchlings": 3,
     "date"      : 20260611,
@@ -26,8 +26,8 @@
   {
     "id"        : "diamondwing",
     "view"      : ["XovTd", "frhlu", "BRcg5"],
-    "adults"    : 1,
-    "hatchlings": 2,
+    "adults"    : 2,
+    "hatchlings": 1,
     "date"      : 20260611,
     "finished"  : false
   },
@@ -48,14 +48,6 @@
     "finished"  : false
   },
   {
-    "id"        : "electric",
-    "view"      : ["YfLxN"],
-    "adults"    : 0,
-    "hatchlings": 1,
-    "date"      : 20260610,
-    "finished"  : false
-  },
-  {
     "id"        : "green",
     "view"      : ["MP0ky"],
     "adults"    : 0,
@@ -72,6 +64,14 @@
     "finished"  : false
   },
   {
+    "id"        : "electric",
+    "view"      : ["YfLxN"],
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260610,
+    "finished"  : false
+  },
+  {
     "id"        : "ignimbri",
     "view"      : ["QpDm7"],
     "adults"    : 1,
@@ -82,8 +82,8 @@
   {
     "id"        : "kymatumi",
     "view"      : ["hkVjs", "E1xsz"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260610,
     "finished"  : false
   },

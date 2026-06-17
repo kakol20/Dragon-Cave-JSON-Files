@@ -56,12 +56,12 @@
     "finished"  : true
   },
   {
-    "id"        : "delta",
+    "id"        : "delta_small",
     "view"      : ["QJ0vb", "97vSI", "CGWe7"],
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260530,
-    "finished"  : true
+    "finished"  : false
   },
   {
     "id"        : "diamondwing",
@@ -81,10 +81,10 @@
   },
   {
     "id"        : "electric",
-    "view"      : ["YfLxN"],
+    "view"      : ["YfLxN", "aKbg6"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260610,
+    "date"      : 20260617,
     "finished"  : false
   },
   {
@@ -137,10 +137,10 @@
   },
   {
     "id"        : "ignimbri",
-    "view"      : ["QpDm7"],
+    "view"      : ["QpDm7", "Jchlj"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260610,
+    "date"      : 20260617,
     "finished"  : false
   },
   {
@@ -169,10 +169,10 @@
   },
   {
     "id"        : "papillune",
-    "view"      : ["lOhDj", "SWkjF", "z6O7C"],
+    "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H"],
     "adults"    : 3,
     "hatchlings": 0,
-    "date"      : 20260604,
+    "date"      : 20260617,
     "finished"  : false
   },
   {
@@ -238,6 +238,14 @@
     "hatchlings": 0,
     "date"      : 20260524,
     "finished"  : true
+  },
+  {
+    "id"        : "warden",
+    "view"      : ["nj7cU"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260617,
+    "finished"  : false
   },
   {
     "id"        : "white",

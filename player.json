@@ -26,8 +26,8 @@
   {
     "id"        : "duotone",
     "view"      : ["nqX4v"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260611,
     "finished"  : false
   },

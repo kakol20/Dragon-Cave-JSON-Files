@@ -81,10 +81,10 @@
   },
   {
     "id"        : "miufu",
-    "view"      : ["qZdKE"],
+    "view"      : ["qZdKE", "Hg2J4"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260602,
+    "date"      : 20260620,
     "finished"  : false
   },
   {
@@ -131,7 +131,7 @@
     "id"        : "warden",
     "view"      : ["nj7cU"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260617,
     "finished"  : false
   },

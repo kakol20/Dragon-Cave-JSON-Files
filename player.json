@@ -33,7 +33,7 @@
   },
   {
     "id"        : "electric",
-    "view"      : ["YfLxN", "aKbg6"],
+    "view"      : ["YfLxN", "aKbg6", "B4wzF"],
     "adults"    : 1,
     "hatchlings": 1,
     "date"      : 20260617,
@@ -41,9 +41,9 @@
   },
   {
     "id"        : "ember",
-    "view"      : ["Mzr7p", "PduIk"],
+    "view"      : ["PduIk", "Mzr7p"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260617,
     "finished"  : false
   },

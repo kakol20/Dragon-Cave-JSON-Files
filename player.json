@@ -35,6 +35,14 @@
     "id"        : "electric",
     "view"      : ["YfLxN", "aKbg6"],
     "adults"    : 1,
+    "hatchlings": 1,
+    "date"      : 20260617,
+    "finished"  : false
+  },
+  {
+    "id"        : "ember",
+    "view"      : ["Mzr7p", "PduIk"],
+    "adults"    : 0,
     "hatchlings": 0,
     "date"      : 20260617,
     "finished"  : false
@@ -59,7 +67,7 @@
     "id"        : "ignimbri",
     "view"      : ["QpDm7", "Jchlj"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260617,
     "finished"  : false
   },
@@ -91,8 +99,16 @@
     "id"        : "papillune",
     "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H"],
     "adults"    : 3,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260617,
+    "finished"  : false
+  },
+  {
+    "id"        : "seasonal_spring",
+    "view"      : ["tJq8z"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260620,
     "finished"  : false
   },
   {

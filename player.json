@@ -43,7 +43,7 @@
     "id"        : "ember",
     "view"      : ["PduIk", "Mzr7p"],
     "adults"    : 0,
-    "hatchlings": 1,
+    "hatchlings": 2,
     "date"      : 20260617,
     "finished"  : false
   },

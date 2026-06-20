@@ -20,6 +20,12 @@
     "description" : "This dull mottled egg blends into the surrounding algae",
     "encyclopedia": "https://dragcave.net/dragonopedia/1711"
   },
+  "almerald"       : {
+    "name"        : ["Almerald Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/7/7ua47z.gif"],
+    "description" : "This glossy green egg is rather warm",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1594"
+  },
   "antarean"       : {
     "name"        : ["Antarean Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/q/q6r6p3.gif"],

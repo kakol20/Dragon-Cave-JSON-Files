@@ -8,6 +8,14 @@
     "finished"  : false
   },
   {
+    "id"        : "almerald",
+    "view"      : ["dI3Hf"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260617,
+    "finished"  : false
+  },
+  {
     "id"        : "celestial",
     "view"      : ["qHlsJ", "VW27P", "kHjvK"],
     "adults"    : 3,

@@ -51,7 +51,7 @@
     "id"        : "electric",
     "view"      : ["YfLxN", "aKbg6", "B4wzF"],
     "adults"    : 1,
-    "hatchlings": 1,
+    "hatchlings": 2,
     "date"      : 20260617,
     "finished"  : false
   },
@@ -149,6 +149,14 @@
     "adults"    : 0,
     "hatchlings": 1,
     "date"      : 20260617,
+    "finished"  : false
+  },
+  {
+    "id"        : "wisteria",
+    "view"      : ["RDi4W"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260618,
     "finished"  : false
   },
   {

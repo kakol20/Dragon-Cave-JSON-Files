@@ -38,6 +38,12 @@
     "description" : "The vibrant scales on this egg glisten in the sunlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1662"
   },
+  "avin"           : {
+    "name"        : ["Avin Pygmy"],
+    "img"         : ["https://s.dcave.net/cache/images/m/mznvlu.gif"],
+    "description" : "This tiny white egg shakes sometimes",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1712"
+  },
   "black"          : {
     "name"        : ["Black Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/d/dqb23h.gif"],

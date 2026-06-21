@@ -3,7 +3,7 @@
     "id"        : "alcedine",
     "view"      : ["r5HjG", "2SQzP", "P3sIf", "HEuw0", "e5D3n", "cKhD4"],
     "adults"    : 5,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260618,
     "finished"  : false
   },

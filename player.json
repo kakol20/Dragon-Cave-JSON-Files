@@ -1,10 +1,10 @@
 [
   {
     "id"        : "alcedine",
-    "view"      : ["r5HjG", "2SQzP", "P3sIf", "HEuw0", "e5D3n"],
+    "view"      : ["r5HjG", "2SQzP", "P3sIf", "HEuw0", "e5D3n", "cKhD4"],
     "adults"    : 5,
     "hatchlings": 0,
-    "date"      : 20260606,
+    "date"      : 20260618,
     "finished"  : false
   },
   {
@@ -19,7 +19,7 @@
     "id"        : "avin",
     "view"      : ["ddTDa"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260617,
     "finished"  : false
   },

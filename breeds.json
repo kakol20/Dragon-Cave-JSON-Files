@@ -216,8 +216,8 @@
   },
   "seraph"         : {
     "name"        : ["Seraph Dragon"],
-    "img"         : ["This egg is covered in soft, downy feathers"],
-    "description" : "This is a template egg",
+    "img"         : ["https://s.dcave.net/cache/images/6/6fo32p.png"],
+    "description" : "This egg is covered in soft, downy feathers",
     "encyclopedia": "https://dragcave.net/dragonopedia/1763"
   },
   "skystrider"     : {

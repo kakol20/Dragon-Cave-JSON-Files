@@ -11,7 +11,7 @@
     "id"        : "almerald",
     "view"      : ["dI3Hf"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260617,
     "finished"  : false
   },
@@ -125,6 +125,14 @@
     "adults"    : 0,
     "hatchlings": 0,
     "date"      : 20260620,
+    "finished"  : false
+  },
+  {
+    "id"        : "seraph",
+    "view"      : ["4hpyj"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260618,
     "finished"  : false
   },
   {

@@ -38,6 +38,12 @@
     "description" : "The vibrant scales on this egg glisten in the sunlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1662"
   },
+  "aspect_form"    : {
+    "name"        : ["Aspect of Form"],
+    "img"         : ["https://s.dcave.net/cache/images/n/n7q4fc.webp"],
+    "description" : "This resplendent egg emanates a constantly shifting aura",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1801"
+  },
   "avin"           : {
     "name"        : ["Avin Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/m/mznvlu.gif"],

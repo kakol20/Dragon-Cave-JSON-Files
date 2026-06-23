@@ -136,6 +136,14 @@
     "finished"  : false
   },
   {
+    "id"        : "spitfire",
+    "view"      : ["0OZkS", "fSBO7", "aP6OO"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260621,
+    "finished"  : false
+  },
+  {
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4", "eHE7D"],
     "adults"    : 2,

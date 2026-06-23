@@ -226,6 +226,12 @@
     "description" : "This plain blue egg almost seems to float",
     "encyclopedia": "https://dragcave.net/dragonopedia/1669"
   },
+  "spitfire"       : {
+    "name"        : ["Spitfire Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1xf9u5y.png"],
+    "description" : "This egg has brightly colored markings on it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/100"
+  },
   "storm"          : {
     "name"        : ["Storm Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/o/oe0see.gif"],

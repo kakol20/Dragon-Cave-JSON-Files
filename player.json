@@ -48,14 +48,6 @@
     "finished"  : false
   },
   {
-    "id"        : "electric",
-    "view"      : ["YfLxN", "aKbg6", "B4wzF"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260617,
-    "finished"  : false
-  },
-  {
     "id"        : "ember",
     "view"      : ["PduIk", "Mzr7p"],
     "adults"    : 2,
@@ -229,6 +221,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260611,
+    "finished"  : true
+  },
+  {
+    "id"        : "electric",
+    "view"      : ["YfLxN", "aKbg6", "B4wzF"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260617,
     "finished"  : true
   },
   {

@@ -5,7 +5,7 @@
     "adults"    : 5,
     "hatchlings": 1,
     "date"      : 20260618,
-    "finished"  : false
+    "finished"  : true
   },
   {
     "id"        : "almerald",

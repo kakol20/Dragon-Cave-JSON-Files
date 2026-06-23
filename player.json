@@ -33,10 +33,10 @@
   },
   {
     "id"        : "celestial",
-    "view"      : ["qHlsJ", "VW27P", "kHjvK"],
+    "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta"],
     "adults"    : 3,
     "hatchlings": 0,
-    "date"      : 20260611,
+    "date"      : 20260621,
     "finished"  : false
   },
   {
@@ -65,9 +65,9 @@
   },
   {
     "id"        : "ember",
-    "view"      : ["Mzr7p", "PduIk"],
-    "adults"    : 0,
-    "hatchlings": 2,
+    "view"      : ["PduIk", "Mzr7p"],
+    "adults"    : 1,
+    "hatchlings": 1,
     "date"      : 20260617,
     "finished"  : false
   },

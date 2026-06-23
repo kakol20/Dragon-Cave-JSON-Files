@@ -2,8 +2,8 @@
   {
     "id"        : "almerald",
     "view"      : ["dI3Hf"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260617,
     "finished"  : false
   },

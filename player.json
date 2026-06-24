@@ -18,8 +18,8 @@
   {
     "id"        : "avin",
     "view"      : ["ddTDa"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260617,
     "finished"  : false
   },
@@ -122,8 +122,8 @@
   {
     "id"        : "seraph",
     "view"      : ["4hpyj"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260618,
     "finished"  : false
   },
@@ -162,8 +162,8 @@
   {
     "id"        : "wisteria",
     "view"      : ["RDi4W"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260618,
     "finished"  : false
   },

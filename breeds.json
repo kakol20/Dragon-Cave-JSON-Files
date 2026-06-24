@@ -148,6 +148,12 @@
     "description" : "Powerful energy emanates from this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/1654"
   },
+  "gemshard"       : {
+    "name"        : ["Gemshard Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/z/zb0ha3.png"],
+    "description" : "This egg is encrusted with colorful gemstones",
+    "encyclopedia": "https://dragcave.net/dragonopedia/972"
+  },
   "golden"         : {
     "name"        : ["Golden Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/1/19s01zk.gif"],

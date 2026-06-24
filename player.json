@@ -49,10 +49,18 @@
   },
   {
     "id"        : "ember",
-    "view"      : ["PduIk", "Mzr7p"],
+    "view"      : ["PduIk", "Mzr7p", "BCtYG"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260622,
+    "finished"  : false
+  },
+  {
+    "id"        : "germshard",
+    "view"      : ["FrA15", "WUbnQ", "WCA6W"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260622,
     "finished"  : false
   },
   {

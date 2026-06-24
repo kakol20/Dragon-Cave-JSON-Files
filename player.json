@@ -33,8 +33,8 @@
   },
   {
     "id"        : "delta_small",
-    "view"      : ["QJ0vb", "97vSI", "CGWe7"],
-    "adults"    : 3,
+    "view"      : ["97vSI", "CGWe7"],
+    "adults"    : 2,
     "hatchlings": 0,
     "date"      : 20260530,
     "finished"  : false
@@ -221,6 +221,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260526,
+    "finished"  : true
+  },
+  {
+    "id"        : "delta",
+    "view"      : ["QJ0vb"],
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260529,
     "finished"  : true
   },
   {

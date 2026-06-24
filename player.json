@@ -27,7 +27,7 @@
     "id"        : "celestial",
     "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta"],
     "adults"    : 3,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260621,
     "finished"  : false
   },
@@ -131,7 +131,7 @@
     "id"        : "spitfire",
     "view"      : ["0OZkS", "aP6OO", "fSBO7"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 3,
     "date"      : 20260621,
     "finished"  : false
   },

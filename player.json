@@ -65,7 +65,7 @@
   },
   {
     "id"        : "gemshard",
-    "view"      : ["FrA15", "WUbnQ", "WCA6W"],
+    "view"      : ["FrA15", "WCA6W", "WUbnQ"],
     "adults"    : 0,
     "hatchlings": 3,
     "date"      : 20260622,

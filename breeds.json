@@ -88,7 +88,7 @@
   },
   "delta_small"    : {
     "name"        : ["Delta Dragon (Small)"],
-    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "img"         : ["https://s.dcave.net/cache/images/z/zn43lt.gif"],
     "description" : "This speckled egg has deep blue spots",
     "encyclopedia": "https://dragcave.net/dragonopedia/1754"
   },
@@ -135,6 +135,12 @@
     "img"         : ["https://s.dcave.net/cache/images/z/zlrspw.gif"],
     "description" : "It's bright. And pink",
     "encyclopedia": "https://dragcave.net/dragonopedia/40"
+  },
+  "floret"         : {
+    "name"        : ["Floret Wyvern"],
+    "img"         : ["https://s.dcave.net/cache/images/b/blygm7.gif"],
+    "description" : "This shiny egg smells faintly like flowers",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1619"
   },
   "frostbite"      : {
     "name"        : ["Frostbite Dragon"],
@@ -285,6 +291,12 @@
     "img": ["https://s.dcave.net/cache/images/l/lpca0j.webp"],
     "description": "This egg hums with a quiet power, as though something within is beginning to stir",
     "encyclopedia": "https://dragcave.net/dragonopedia/1800"
+  },
+  "water"          : {
+    "name"        : ["Water Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/a/aqbfpm.gif"],
+    "description" : "This egg is sitting in a shallow puddle",
+    "encyclopedia": "https://dragcave.net/dragonopedia/63"
   },
   "white"          : {
     "name": ["White Dragon"],

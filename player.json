@@ -33,10 +33,10 @@
   },
   {
     "id"        : "delta_small",
-    "view"      : ["97vSI", "CGWe7"],
+    "view"      : ["97vSI", "CGWe7", "nDHah"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260530,
+    "date"      : 20260625,
     "finished"  : false
   },
   {
@@ -51,15 +51,23 @@
     "id"        : "ember",
     "view"      : ["PduIk", "Mzr7p", "BCtYG"],
     "adults"    : 2,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260622,
+    "finished"  : false
+  },
+  {
+    "id"        : "floret",
+    "view"      : ["B2rS5"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260625,
     "finished"  : false
   },
   {
     "id"        : "gemshard",
     "view"      : ["FrA15", "WUbnQ", "WCA6W"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 3,
     "date"      : 20260622,
     "finished"  : false
   },
@@ -73,10 +81,10 @@
   },
   {
     "id"        : "green",
-    "view"      : ["MP0ky"],
+    "view"      : ["MP0ky", "n42QN"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260610,
+    "date"      : 20260625,
     "finished"  : false
   },
   {
@@ -165,6 +173,14 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260617,
+    "finished"  : false
+  },
+  {
+    "id"        : "water",
+    "view"      : ["LeLaf"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260625,
     "finished"  : false
   },
   {

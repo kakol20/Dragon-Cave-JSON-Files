@@ -130,8 +130,8 @@
   {
     "id"        : "seasonal_spring",
     "view"      : ["tJq8z"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260620,
     "finished"  : false
   },

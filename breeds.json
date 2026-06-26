@@ -262,6 +262,24 @@
     "description": "This metal egg discharges bolts of electricity occasionally",
     "encyclopedia": "https://dragcave.net/dragonopedia/1799"
   },
+  "striped"        : {
+    "name"        : [
+      "Striped Dragon (White)",
+      "Striped Dragon (Blue)",
+      "Striped Dragon (Red)",
+      "Striped Dragon (Green)",
+      "Striped Dragon (Black)"
+    ],
+    "img"         : [
+      "https://s.dcave.net/cache/images/8/8itcaf.gif",
+      "https://s.dcave.net/cache/images/8/8itcaf.gif",
+      "https://s.dcave.net/cache/images/8/8itcaf.gif",
+      "https://s.dcave.net/cache/images/8/8itcaf.gif",
+      "https://s.dcave.net/cache/images/1/14v8e1h.png"
+    ],
+    "description" : "This egg has brightly colored markings on it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/102"
+  },
   "striped_river"  : {
     "name": ["Striped River Dragon"],
     "img": ["https://s.dcave.net/cache/images/1/15798k.gif"],

@@ -153,9 +153,9 @@
   },
   {
     "id"        : "striped",
-    "view"      : ["X3ssP", "ek3Po"],
+    "view"      : ["X3ssP", "ek3Po", "O9fBj"],
     "adults"    : 0,
-    "hatchlings": 1,
+    "hatchlings": 2,
     "date"      : 20260624,
     "finished"  : false
   },

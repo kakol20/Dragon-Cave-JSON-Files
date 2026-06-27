@@ -153,10 +153,10 @@
   },
   {
     "id"        : "striped",
-    "view"      : ["X3ssP"],
+    "view"      : ["X3ssP", "ek3Po"],
     "adults"    : 0,
     "hatchlings": 1,
-    "date"      : 20260623,
+    "date"      : 20260624,
     "finished"  : false
   },
   {

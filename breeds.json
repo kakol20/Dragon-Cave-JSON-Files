@@ -6,7 +6,8 @@
     "encyclopedia": "https://forums.dragcave.net/topic/195587-2026-06-28-june-dragon-release/"
   },
   "@notes"         : [
-    "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide"
+    "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
+    "Main Repo Update: 074ff609167940fdd7d3d155b3b6eb7b31708057"
   ],
   "_template"      : {
     "name"        : ["Unknown Breed"],

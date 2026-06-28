@@ -3,10 +3,10 @@
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide"
   ],
   "_template"      : {
-    "name"        : ["Template Dragon"],
+    "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description" : "This is a template egg",
-    "encyclopedia": "https://dragcave.net/dragonopedia/1"
+    "description" : "This dragon's breed is unknown",
+    "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
   "alcedine"       : {
     "name"        : ["Alcedine Wyvern"],

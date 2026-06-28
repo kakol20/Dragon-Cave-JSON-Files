@@ -1,5 +1,13 @@
 [
   {
+    "id"        : "_template",
+    "view"      : ["9difb"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260626,
+    "finished"  : false
+  },
+  {
     "id"        : "almerald",
     "view"      : ["dI3Hf"],
     "adults"    : 1,
@@ -155,7 +163,7 @@
     "id"        : "striped",
     "view"      : ["X3ssP", "ek3Po", "O9fBj"],
     "adults"    : 0,
-    "hatchlings": 2,
+    "hatchlings": 3,
     "date"      : 20260624,
     "finished"  : false
   },

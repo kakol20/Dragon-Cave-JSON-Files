@@ -1,11 +1,17 @@
 {
-  "_notes"         : [
+  "@new"           : {
+    "name": ["2026-06-28 - June Dragon Release"],
+    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "description": "Now that we’ve all had our fill of 20th Birthday cake, let's get back to hunting. Catch these new breeds in the Alpine, Desert, and Volcano.",
+    "encyclopedia": "https://forums.dragcave.net/topic/195587-2026-06-28-june-dragon-release/"
+  },
+  "@notes"         : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide"
   ],
   "_template"      : {
-    "name"        : ["New Release Breed"],
+    "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description" : "The dragons in this group are newly released",
+    "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
   "alcedine"       : {

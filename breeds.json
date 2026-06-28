@@ -3,9 +3,9 @@
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide"
   ],
   "_template"      : {
-    "name"        : ["Unknown Breed"],
+    "name"        : ["New Release Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description" : "This dragon's breed is unknown",
+    "description" : "The dragons in this group are newly released",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
   "alcedine"       : {

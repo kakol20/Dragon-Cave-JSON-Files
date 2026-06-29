@@ -18,8 +18,8 @@
   {
     "id"        : "aspect_form",
     "view"      : ["C2OUz"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260623,
     "finished"  : false
   },

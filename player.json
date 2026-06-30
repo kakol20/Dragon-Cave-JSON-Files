@@ -96,14 +96,6 @@
     "finished"  : false
   },
   {
-    "id"        : "kymatumi",
-    "view"      : ["hkVjs", "E1xsz", "TizfI"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260623,
-    "finished"  : false
-  },
-  {
     "id"        : "miufu",
     "view"      : ["qZdKE", "Hg2J4"],
     "adults"    : 2,
@@ -301,6 +293,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260531,
+    "finished"  : true
+  },
+  {
+    "id"        : "kymatumi",
+    "view"      : ["hkVjs", "E1xsz", "TizfI"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260623,
     "finished"  : true
   },
   {

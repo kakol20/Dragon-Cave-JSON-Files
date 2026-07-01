@@ -239,6 +239,12 @@
     "description" : "The markings on this egg match the weather outside",
     "encyclopedia": "https://dragcave.net/dragonopedia/1077"
   },
+  "seasonal_summer": {
+    "name"        : ["Seasonal Dragon (Summer)"],
+    "img"         : ["https://s.dcave.net/cache/images/z/zwj4e6.png"],
+    "description" : "The markings on this egg match the weather outside",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1078"
+  },
   "seraph"         : {
     "name"        : ["Seraph Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/6/6fo32p.png"],

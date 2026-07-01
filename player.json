@@ -3,7 +3,7 @@
     "id"        : "@new",
     "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer"],
     "adults"    : 0,
-    "hatchlings": 1,
+    "hatchlings": 2,
     "date"      : 20260628,
     "finished"  : false
   },
@@ -42,8 +42,8 @@
   {
     "id"        : "delta_small",
     "view"      : ["97vSI", "CGWe7", "nDHah"],
-    "adults"    : 2,
-    "hatchlings": 1,
+    "adults"    : 3,
+    "hatchlings": 0,
     "date"      : 20260625,
     "finished"  : false
   },
@@ -58,8 +58,8 @@
   {
     "id"        : "floret",
     "view"      : ["B2rS5"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260625,
     "finished"  : false
   },
@@ -82,8 +82,8 @@
   {
     "id"        : "green",
     "view"      : ["MP0ky", "n42QN"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260625,
     "finished"  : false
   },
@@ -125,6 +125,14 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260620,
+    "finished"  : false
+  },
+  {
+    "id"        : "seasonal_summer",
+    "view"      : ["qyTkv"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260628,
     "finished"  : false
   },
   {
@@ -170,8 +178,8 @@
   {
     "id"        : "water",
     "view"      : ["LeLaf"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260625,
     "finished"  : false
   },

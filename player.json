@@ -1,10 +1,10 @@
 [
   {
     "id"        : "@new",
-    "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer"],
+    "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer", "3ZWgz"],
     "adults"    : 0,
     "hatchlings": 4,
-    "date"      : 20260628,
+    "date"      : 20260701,
     "finished"  : false
   },
   {
@@ -51,7 +51,7 @@
     "id"        : "duotone",
     "view"      : ["nqX4v", "Wfo8K"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260628,
     "finished"  : false
   },

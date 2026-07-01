@@ -105,10 +105,10 @@
   },
   {
     "id"        : "nocturne",
-    "view"      : ["YDcCw", "0l7K5", "y45IJ"],
+    "view"      : ["YDcCw", "0l7K5", "y45IJ", "nV0Fc"],
     "adults"    : 3,
     "hatchlings": 0,
-    "date"      : 20260529,
+    "date"      : 20260701,
     "finished"  : false
   },
   {
@@ -179,7 +179,7 @@
     "id"        : "water",
     "view"      : ["LeLaf", "x6HAC"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260628,
     "finished"  : false
   },

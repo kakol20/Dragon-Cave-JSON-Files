@@ -146,8 +146,8 @@
   {
     "id"        : "striped",
     "view"      : ["X3ssP", "ek3Po", "O9fBj"],
-    "adults"    : 2,
-    "hatchlings": 1,
+    "adults"    : 3,
+    "hatchlings": 0,
     "date"      : 20260624,
     "finished"  : false
   },

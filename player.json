@@ -73,10 +73,10 @@
   },
   {
     "id"        : "gemshard",
-    "view"      : ["WCA6W", "FrA15", "WUbnQ"],
+    "view"      : ["WCA6W", "FrA15", "WUbnQ", "NfxC7"],
     "adults"    : 3,
     "hatchlings": 0,
-    "date"      : 20260622,
+    "date"      : 20260701,
     "finished"  : false
   },
   {
@@ -113,10 +113,10 @@
   },
   {
     "id"        : "papillune",
-    "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H"],
+    "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H", "SjNrR"],
     "adults"    : 4,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260701,
     "finished"  : false
   },
   {
@@ -130,7 +130,7 @@
   {
     "id"        : "seasonal_summer",
     "view"      : ["qyTkv", "RrvnZ"],
-    "adults"    : 0,
+    "adults"    : 2,
     "hatchlings": 0,
     "date"      : 20260628,
     "finished"  : false

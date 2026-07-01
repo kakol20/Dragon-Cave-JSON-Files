@@ -3,7 +3,7 @@
     "id"        : "@new",
     "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260628,
     "finished"  : false
   },
@@ -145,10 +145,10 @@
   },
   {
     "id"        : "striped",
-    "view"      : ["X3ssP", "ek3Po", "O9fBj"],
+    "view"      : ["X3ssP", "ek3Po", "O9fBj", "oxWE1"],
     "adults"    : 3,
     "hatchlings": 0,
-    "date"      : 20260624,
+    "date"      : 20260628,
     "finished"  : false
   },
   {

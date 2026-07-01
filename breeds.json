@@ -51,6 +51,12 @@
     "description" : "This resplendent egg emanates a constantly shifting aura",
     "encyclopedia": "https://dragcave.net/dragonopedia/1801"
   },
+  "aspect_mana"    : {
+    "name"        : ["Aspect of Mana"],
+    "img"         : ["https://s.dcave.net/cache/images/t/tls6jr.webp"],
+    "description" : "This radiant egg emanates a magical aura",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1802"
+  },
   "avin"           : {
     "name"        : ["Avin Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/m/mznvlu.gif"],

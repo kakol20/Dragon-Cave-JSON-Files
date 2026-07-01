@@ -3,7 +3,7 @@
     "id"        : "@new",
     "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer", "3ZWgz"],
     "adults"    : 0,
-    "hatchlings": 4,
+    "hatchlings": 5,
     "date"      : 20260701,
     "finished"  : false
   },
@@ -21,6 +21,14 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260623,
+    "finished"  : false
+  },
+  {
+    "id"        : "aspect_mana",
+    "view"      : ["b6sBq"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260701,
     "finished"  : false
   },
   {
@@ -77,14 +85,6 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260613,
-    "finished"  : false
-  },
-  {
-    "id"        : "green",
-    "view"      : ["MP0ky", "n42QN"],
-    "adults"    : 2,
-    "hatchlings": 0,
-    "date"      : 20260625,
     "finished"  : false
   },
   {
@@ -293,6 +293,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260523,
+    "finished"  : true
+  },
+  {
+    "id"        : "green",
+    "view"      : ["MP0ky", "n42QN"],
+    "adults"    : 2,
+    "hatchlings": 0,
+    "date"      : 20260625,
     "finished"  : true
   },
   {

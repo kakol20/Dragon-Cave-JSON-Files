@@ -3,7 +3,7 @@
     "id"        : "@new",
     "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer"],
     "adults"    : 0,
-    "hatchlings": 3,
+    "hatchlings": 4,
     "date"      : 20260628,
     "finished"  : false
   },
@@ -177,10 +177,10 @@
   },
   {
     "id"        : "water",
-    "view"      : ["LeLaf"],
+    "view"      : ["LeLaf", "x6HAC"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260625,
+    "date"      : 20260628,
     "finished"  : false
   },
   {

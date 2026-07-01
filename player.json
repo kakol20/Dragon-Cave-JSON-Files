@@ -3,7 +3,7 @@
     "id"        : "@new",
     "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer"],
     "adults"    : 0,
-    "hatchlings": 2,
+    "hatchlings": 3,
     "date"      : 20260628,
     "finished"  : false
   },
@@ -129,7 +129,7 @@
   },
   {
     "id"        : "seasonal_summer",
-    "view"      : ["qyTkv"],
+    "view"      : ["qyTkv", "RrvnZ"],
     "adults"    : 0,
     "hatchlings": 0,
     "date"      : 20260628,

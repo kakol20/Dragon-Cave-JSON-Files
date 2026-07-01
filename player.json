@@ -130,8 +130,8 @@
   {
     "id"        : "seasonal_summer",
     "view"      : ["qyTkv", "RrvnZ"],
-    "adults"    : 2,
-    "hatchlings": 0,
+    "adults"    : 0,
+    "hatchlings": 2,
     "date"      : 20260628,
     "finished"  : false
   },

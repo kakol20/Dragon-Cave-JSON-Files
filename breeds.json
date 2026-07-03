@@ -7,7 +7,7 @@
   },
   "@notes"         : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
-    "Main Repo Update: b26ae84b8c93f874fcce90bd9b503dceaebbf4fa"
+    "Main Repo Update: d09fafacb1c4b19443a05fdb2deb9642207fcfd5"
   ],
   "_template"      : {
     "name"        : ["Unknown Breed"],
@@ -56,6 +56,12 @@
     "img"         : ["https://s.dcave.net/cache/images/t/tls6jr.webp"],
     "description" : "This radiant egg emanates a magical aura",
     "encyclopedia": "https://dragcave.net/dragonopedia/1802"
+  },
+  "avarice"        : {
+    "name"        : ["Avarice Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1oki67v.webp"],
+    "description" : "This egg is large and ornate",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1805"
   },
   "avin"           : {
     "name"        : ["Avin Pygmy"],
@@ -262,6 +268,12 @@
     "img"         : ["https://s.dcave.net/cache/images/8/8ogx7x.gif"],
     "description" : "This plain blue egg almost seems to float",
     "encyclopedia": "https://dragcave.net/dragonopedia/1669"
+  },
+  "slag_tail"      : {
+    "name"        : ["Slag-Tail Behemoth"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1bj3alj.webp"],
+    "description" : "This heavy egg is enveloped in thick, sturdy plates",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1804"
   },
   "spitfire"       : {
     "name"        : ["Spitfire Dragon"],

@@ -32,6 +32,14 @@
     "finished"  : false
   },
   {
+    "id"        : "avarice",
+    "view"      : ["loRFf", "9haer", "3ZWgz"],
+    "adults"    : 0,
+    "hatchlings": 2,
+    "date"      : 20260701,
+    "finished"  : false
+  },
+  {
     "id"        : "avin",
     "view"      : ["ddTDa"],
     "adults"    : 1,
@@ -141,6 +149,14 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260618,
+    "finished"  : false
+  },
+  {
+    "id"        : "slag_tail",
+    "view"      : ["9difb", "3s8EV", "I15st"],
+    "adults"    : 0,
+    "hatchlings": 3,
+    "date"      : 20260628,
     "finished"  : false
   },
   {

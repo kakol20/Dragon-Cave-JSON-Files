@@ -1,13 +1,5 @@
 [
   {
-    "id"        : "@new",
-    "view"      : ["9difb", "3s8EV", "I15st", "loRFf", "9haer", "3ZWgz"],
-    "adults"    : 0,
-    "hatchlings": 5,
-    "date"      : 20260701,
-    "finished"  : false
-  },
-  {
     "id"        : "almerald",
     "view"      : ["dI3Hf"],
     "adults"    : 1,

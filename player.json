@@ -146,8 +146,8 @@
   {
     "id"        : "slag_tail",
     "view"      : ["9difb", "3s8EV", "I15st"],
-    "adults"    : 0,
-    "hatchlings": 3,
+    "adults"    : 1,
+    "hatchlings": 2,
     "date"      : 20260628,
     "finished"  : false
   },

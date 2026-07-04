@@ -1,10 +1,10 @@
 [
   {
     "id"        : "almerald",
-    "view"      : ["dI3Hf"],
+    "view"      : ["dI3Hf", "mGH4u"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260701,
     "finished"  : false
   },
   {
@@ -19,7 +19,7 @@
     "id"        : "aspect_mana",
     "view"      : ["b6sBq"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260701,
     "finished"  : false
   },
@@ -75,7 +75,7 @@
     "id"        : "gemshard",
     "view"      : ["WCA6W", "FrA15", "WUbnQ", "NfxC7"],
     "adults"    : 3,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260701,
     "finished"  : false
   },
@@ -115,8 +115,16 @@
     "id"        : "papillune",
     "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H", "SjNrR"],
     "adults"    : 4,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260701,
+    "finished"  : false
+  },
+  {
+    "id"        : "sapo",
+    "view"      : ["KkIye"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260702,
     "finished"  : false
   },
   {
@@ -130,17 +138,17 @@
   {
     "id"        : "seasonal_summer",
     "view"      : ["qyTkv", "RrvnZ"],
-    "adults"    : 0,
-    "hatchlings": 2,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260628,
     "finished"  : false
   },
   {
     "id"        : "seraph",
-    "view"      : ["4hpyj"],
+    "view"      : ["4hpyj", "2grLO"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260618,
+    "date"      : 20260702,
     "finished"  : false
   },
   {

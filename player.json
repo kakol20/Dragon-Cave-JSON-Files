@@ -144,14 +144,6 @@
     "finished"  : false
   },
   {
-    "id"        : "slag_tail",
-    "view"      : ["9difb", "3s8EV", "I15st"],
-    "adults"    : 1,
-    "hatchlings": 2,
-    "date"      : 20260628,
-    "finished"  : false
-  },
-  {
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4", "eHE7D"],
     "adults"    : 3,
@@ -341,6 +333,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260611,
+    "finished"  : true
+  },
+  {
+    "id"        : "slag_tail",
+    "view"      : ["9difb", "3s8EV", "I15st"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260628,
     "finished"  : true
   },
   {

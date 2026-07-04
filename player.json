@@ -26,7 +26,7 @@
   {
     "id"        : "avarice",
     "view"      : ["loRFf", "9haer", "3ZWgz"],
-    "adults"    : 0,
+    "adults"    : 1,
     "hatchlings": 2,
     "date"      : 20260701,
     "finished"  : false
@@ -41,10 +41,10 @@
   },
   {
     "id"        : "celestial",
-    "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta"],
+    "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW"],
     "adults"    : 4,
     "hatchlings": 0,
-    "date"      : 20260621,
+    "date"      : 20260701,
     "finished"  : false
   },
   {

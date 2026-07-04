@@ -3,7 +3,7 @@
     "id"        : "almerald",
     "view"      : ["dI3Hf", "mGH4u"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260701,
     "finished"  : false
   },
@@ -153,10 +153,10 @@
   },
   {
     "id"        : "stormherald",
-    "view"      : ["avdaG", "X4zm4", "eHE7D"],
+    "view"      : ["avdaG", "X4zm4", "eHE7D", "AmUPB"],
     "adults"    : 3,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260704,
     "finished"  : false
   },
   {

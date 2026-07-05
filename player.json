@@ -43,7 +43,7 @@
     "id"        : "celestial",
     "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW"],
     "adults"    : 4,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260701,
     "finished"  : false
   },
@@ -89,10 +89,10 @@
   },
   {
     "id"        : "ignimbri",
-    "view"      : ["QpDm7", "Jchlj"],
+    "view"      : ["QpDm7", "Jchlj", "zlenE"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260705,
     "finished"  : false
   },
   {

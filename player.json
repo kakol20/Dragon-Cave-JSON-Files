@@ -18,8 +18,8 @@
   {
     "id"        : "aspect_mana",
     "view"      : ["b6sBq"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260701,
     "finished"  : false
   },

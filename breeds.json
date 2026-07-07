@@ -87,6 +87,12 @@
     "description": "This egg has a dull metallic luster and is hot to the touch",
     "encyclopedia": "https://dragcave.net/dragonopedia/1693"
   },
+  "carmine"        : {
+    "name"        : ["Carmine Wyvern"],
+    "img"         : ["https://s.dcave.net/cache/images/o/ogoc0e.png"],
+    "description" : "This pink and red egg wobbles occasionally",
+    "encyclopedia": "https://dragcave.net/dragonopedia/18"
+  },
   "celestial"      : {
     "name": ["Celestial Dragon"],
     "img": ["https://s.dcave.net/cache/images/n/niaryz.png"],

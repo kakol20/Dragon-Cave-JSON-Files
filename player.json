@@ -66,8 +66,8 @@
   {
     "id"        : "gemshard",
     "view"      : ["WCA6W", "FrA15", "WUbnQ", "NfxC7"],
-    "adults"    : 3,
-    "hatchlings": 1,
+    "adults"    : 4,
+    "hatchlings": 0,
     "date"      : 20260701,
     "finished"  : false
   },
@@ -106,8 +106,8 @@
   {
     "id"        : "papillune",
     "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H", "SjNrR"],
-    "adults"    : 4,
-    "hatchlings": 1,
+    "adults"    : 5,
+    "hatchlings": 0,
     "date"      : 20260701,
     "finished"  : false
   },

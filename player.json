@@ -17,10 +17,10 @@
   },
   {
     "id"        : "aspect_mana",
-    "view"      : ["b6sBq"],
+    "view"      : ["b6sBq", "uLDEB"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260701,
+    "date"      : 20260708,
     "finished"  : false
   },
   {
@@ -33,18 +33,18 @@
   },
   {
     "id"        : "carmine",
-    "view"      : ["5vtLW"],
+    "view"      : ["5vtLW", "q3PiL", "VcDtm"],
     "adults"    : 0,
-    "hatchlings": 0,
-    "date"      : 20260705,
+    "hatchlings": 1,
+    "date"      : 20260706,
     "finished"  : false
   },
   {
     "id"        : "celestial",
-    "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW"],
+    "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW", "ptMv2"],
     "adults"    : 5,
     "hatchlings": 0,
-    "date"      : 20260701,
+    "date"      : 20260705,
     "finished"  : false
   },
   {
@@ -67,7 +67,7 @@
     "id"        : "floret",
     "view"      : ["B2rS5", "B6WB4"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260705,
     "finished"  : false
   },
@@ -99,7 +99,7 @@
     "id"        : "miufu",
     "view"      : ["qZdKE", "Hg2J4", "tBHOl"],
     "adults"    : 2,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260705,
     "finished"  : false
   },
@@ -130,8 +130,8 @@
   {
     "id"        : "sapo",
     "view"      : ["KkIye"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260702,
     "finished"  : false
   },
@@ -154,8 +154,8 @@
   {
     "id"        : "seraph",
     "view"      : ["4hpyj", "2grLO"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260702,
     "finished"  : false
   },
@@ -178,8 +178,8 @@
   {
     "id"        : "striped_river",
     "view"      : ["IL62o", "2OmFz"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260702,
     "finished"  : false
   },
@@ -203,7 +203,7 @@
     "id"        : "wisteria",
     "view"      : ["RDi4W", "Oknvh"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260705,
     "finished"  : false
   },

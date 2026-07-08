@@ -57,10 +57,10 @@
   },
   {
     "id"        : "duotone",
-    "view"      : ["nqX4v", "Wfo8K"],
+    "view"      : ["nqX4v", "Wfo8K", "wN0Io"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260628,
+    "date"      : 20260705,
     "finished"  : false
   },
   {
@@ -91,7 +91,7 @@
     "id"        : "ignimbri",
     "view"      : ["QpDm7", "Jchlj", "zlenE"],
     "adults"    : 2,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260705,
     "finished"  : false
   },

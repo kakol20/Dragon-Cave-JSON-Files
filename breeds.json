@@ -7,7 +7,7 @@
   },
   "@notes"         : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
-    "Main Repo Update: 018dfad8358a02ebc7f7b583f8a11fef8b6c7727"
+    "Main Repo Update: 8b5328c5c2672fc45c41ef4d9dde1a948001f42d"
   ],
   "_template"      : {
     "name"        : ["Unknown Breed"],
@@ -161,9 +161,17 @@
     "description" : "It's bright. And pink",
     "encyclopedia": "https://dragcave.net/dragonopedia/40"
   },
-  "floret"         : {
-    "name"        : ["Floret Wyvern"],
-    "img"         : ["https://s.dcave.net/cache/images/b/blygm7.gif"],
+  "floret_iris"         : {
+    "name"        : [
+      "Floret Wyvern (Iris - Purple)",
+      "Floret Wyvern (Iris - Gold)",
+      "Floret Wyvern (Iris - Pink)"
+    ],
+    "img"         : [
+      "https://s.dcave.net/cache/images/8/8itcaf.gif",
+      "https://s.dcave.net/cache/images/b/blygm7.gif",
+      "https://s.dcave.net/cache/images/8/8itcaf.gif"
+    ],
     "description" : "This shiny egg smells faintly like flowers",
     "encyclopedia": "https://dragcave.net/dragonopedia/1619"
   },

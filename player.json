@@ -34,8 +34,8 @@
   {
     "id"        : "carmine",
     "view"      : ["5vtLW", "q3PiL", "VcDtm"],
-    "adults"    : 0,
-    "hatchlings": 3,
+    "adults"    : 1,
+    "hatchlings": 2,
     "date"      : 20260706,
     "finished"  : false
   },

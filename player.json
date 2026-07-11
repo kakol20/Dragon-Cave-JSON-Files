@@ -74,8 +74,8 @@
   {
     "id"        : "floret_iris",
     "view"      : ["B2rS5", "B6WB4"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260705,
     "finished"  : false
   },
@@ -93,14 +93,6 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260613,
-    "finished"  : false
-  },
-  {
-    "id"        : "miufu",
-    "view"      : ["qZdKE", "Hg2J4", "tBHOl"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260705,
     "finished"  : false
   },
   {
@@ -202,8 +194,8 @@
   {
     "id"        : "wisteria",
     "view"      : ["RDi4W", "Oknvh"],
-    "adults"    : 1,
-    "hatchlings": 1,
+    "adults"    : 2,
+    "hatchlings": 0,
     "date"      : 20260705,
     "finished"  : false
   },
@@ -349,6 +341,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260623,
+    "finished"  : true
+  },
+  {
+    "id"        : "miufu",
+    "view"      : ["qZdKE", "Hg2J4", "tBHOl"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260705,
     "finished"  : true
   },
   {

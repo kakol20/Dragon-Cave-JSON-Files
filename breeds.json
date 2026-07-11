@@ -1,147 +1,147 @@
 {
-  "@new": {
+  "@new"               : {
     "name": ["June Dragon Release 2026"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description": "Now that we've all had our fill of 20th Birthday cake, let's get back to hunting. Catch these new breeds in the Alpine, Desert, and Volcano",
     "encyclopedia": "https://forums.dragcave.net/topic/195587-2026-06-28-june-dragon-release/"
   },
-  "@notes": [
+  "@notes"             : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
-    "Main Repo Update: https://github.com/kakol20/Dragon_Cave-Breeds/commit/173d944341afcdd59bca876f51b51cab0d57b313"
+    "Main Repo Commit: https://github.com/kakol20/Dragon_Cave-Breeds/commit/570ba7a43b4570b25aa0a78ea75af3c603b47147"
   ],
-  "_template": {
+  "_template"          : {
     "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "alcedine": {
+  "alcedine"           : {
     "name"        : ["Alcedine Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/7/7k67sd.png"],
     "description" : "The brilliant blue spots on this egg stand out",
     "encyclopedia": "https://dragcave.net/dragonopedia/1676"
   },
-  "algarre": {
+  "algarre"            : {
     "name"        : ["Algarre Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This dull mottled egg blends into the surrounding algae",
     "encyclopedia": "https://dragcave.net/dragonopedia/1711"
   },
-  "almerald": {
+  "almerald"           : {
     "name"        : ["Almerald Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/7/7ua47z.gif"],
     "description" : "This glossy green egg is rather warm",
     "encyclopedia": "https://dragcave.net/dragonopedia/1594"
   },
-  "antarean": {
+  "antarean"           : {
     "name"        : ["Antarean Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/q/q6r6p3.gif"],
     "description" : "This egg is surrounded by mysterious, reflective dust",
     "encyclopedia": "https://dragcave.net/dragonopedia/175"
   },
-  "aranoa": {
+  "aranoa"             : {
     "name"        : ["Aranoa Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/o/oz6rgz.png"],
     "description" : "The vibrant scales on this egg glisten in the sunlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1662"
   },
-  "aspect_form": {
+  "aspect_form"        : {
     "name"        : ["Aspect of Form"],
     "img"         : ["https://s.dcave.net/cache/images/n/n7q4fc.webp"],
     "description" : "This resplendent egg emanates a constantly shifting aura",
     "encyclopedia": "https://dragcave.net/dragonopedia/1801"
   },
-  "aspect_mana": {
+  "aspect_mana"        : {
     "name"        : ["Aspect of Mana"],
     "img"         : ["https://s.dcave.net/cache/images/t/tls6jr.webp"],
     "description" : "This radiant egg emanates a magical aura",
     "encyclopedia": "https://dragcave.net/dragonopedia/1802"
   },
-  "avarice": {
+  "avarice"            : {
     "name"        : ["Avarice Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1oki67v.webp"],
     "description" : "This egg is large and ornate",
     "encyclopedia": "https://dragcave.net/dragonopedia/1805"
   },
-  "avin": {
+  "avin"               : {
     "name"        : ["Avin Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/m/mznvlu.gif"],
     "description" : "This tiny white egg shakes sometimes",
     "encyclopedia": "https://dragcave.net/dragonopedia/1712"
   },
-  "black": {
+  "black"              : {
     "name"        : ["Black Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/d/dqb23h.gif"],
     "description" : "This egg has a faint green glow around it",
     "encyclopedia": "https://dragcave.net/dragonopedia/6"
   },
-  "black_tea": {
+  "black_tea"          : {
     "name"        : ["Black Tea Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This egg has a faintly exotic scent",
     "encyclopedia": "https://dragcave.net/dragonopedia/7"
   },
-  "blazeback": {
+  "blazeback"          : {
     "name": ["Blazeback Dragon"],
     "img": ["https://s.dcave.net/cache/images/a/ar4nek.gif"],
     "description": "This egg has a dull metallic luster and is hot to the touch",
     "encyclopedia": "https://dragcave.net/dragonopedia/1693"
   },
-  "carmine": {
+  "carmine"            : {
     "name"        : ["Carmine Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/o/ogoc0e.png"],
     "description" : "This pink and red egg wobbles occasionally",
     "encyclopedia": "https://dragcave.net/dragonopedia/18"
   },
-  "celestial": {
+  "celestial"          : {
     "name": ["Celestial Dragon"],
     "img": ["https://s.dcave.net/cache/images/n/niaryz.png"],
     "description": "This egg's slick shell is covered in lustrous, vibrant scales",
     "encyclopedia": "https://dragcave.net/dragonopedia/973"
   },
-  "daydream": {
+  "daydream"           : {
     "name"        : ["Daydream Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/p/p91sp4.png"],
     "description" : "This egg is sitting on a cloud",
     "encyclopedia": "https://dragcave.net/dragonopedia/31"
   },
-  "delta": {
+  "delta"              : {
     "name"        : ["Delta Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1etuu0g.png"],
     "description" : "This speckled egg has deep blue spots",
     "encyclopedia": "https://dragcave.net/dragonopedia/1753"
   },
-  "delta_small": {
+  "delta_small"        : {
     "name"        : ["Delta Dragon (Small)"],
     "img"         : ["https://s.dcave.net/cache/images/z/zn43lt.gif"],
     "description" : "This speckled egg has deep blue spots",
     "encyclopedia": "https://dragcave.net/dragonopedia/1754"
   },
-  "diamondwing": {
+  "diamondwing"        : {
     "name"        : ["Diamondwing Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1sccqdv.gif"],
     "description" : "This egg shines like a diamond",
     "encyclopedia": "https://dragcave.net/dragonopedia/173"
   },
-  "duotone": {
+  "duotone"            : {
     "name"        : ["Duotone Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1gupqg2.png"],
     "description" : "This egg can't seem to make up its mind what color it is",
     "encyclopedia": "https://dragcave.net/dragonopedia/35"
   },
-  "electric": {
+  "electric"           : {
     "name": ["Electric Dragon"],
     "img": ["https://s.dcave.net/cache/images/1/19pa56n.png"],
     "description": "Bright sparks glide across the surface of this egg's shell",
     "encyclopedia": "https://dragcave.net/dragonopedia/36"
   },
-  "ember": {
+  "ember"              : {
     "name"        : ["Ember Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/t/tfgqhk.gif"],
     "description" : "This egg is really hot",
     "encyclopedia": "https://dragcave.net/dragonopedia/37"
   },
-  "fire_gem": {
+  "fire_gem"           : {
     "name": [
       "Fire Gem Dragon Red",
       "Fire Gem Dragon Green",
@@ -155,7 +155,7 @@
     "description": "This rough egg has shimmering veins of crystal running across its surface",
     "encyclopedia": "https://dragcave.net/dragonopedia/1606"
   },
-  "flamingo": {
+  "flamingo"           : {
     "name"        : ["Flamingo Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/z/zlrspw.gif"],
     "description" : "It's bright. And pink",
@@ -175,7 +175,7 @@
     "description" : "This shiny egg smells faintly like flowers",
     "encyclopedia": "https://dragcave.net/dragonopedia/1705"
   },
-  "floret_iris": {
+  "floret_iris"        : {
     "name"        : [
       "Floret Wyvern (Iris - Purple)",
       "Floret Wyvern (Iris - Gold)",
@@ -189,73 +189,73 @@
     "description" : "This shiny egg smells faintly like flowers",
     "encyclopedia": "https://dragcave.net/dragonopedia/1619"
   },
-  "frostbite": {
+  "frostbite"          : {
     "name"        : ["Frostbite Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/3/38gvlc.png"],
     "description" : "Frost is creeping over this cold egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/140"
   },
-  "galvanic": {
+  "galvanic"           : {
     "name"        : ["Galvanic Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/6/6cxaba.gif"],
     "description" : "Powerful energy emanates from this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/1654"
   },
-  "gemshard": {
+  "gemshard"           : {
     "name"        : ["Gemshard Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/z/zb0ha3.png"],
     "description" : "This egg is encrusted with colorful gemstones",
     "encyclopedia": "https://dragcave.net/dragonopedia/972"
   },
-  "golden": {
+  "golden"             : {
     "name"        : ["Golden Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/1/19s01zk.gif"],
     "description" : "This egg shimmers like gold",
     "encyclopedia": "https://dragcave.net/dragonopedia/51"
   },
-  "green": {
+  "green"              : {
     "name"        : ["Green Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/j/jno5sl.gif"],
     "description" : "This egg is sitting in a pile of small pebbles",
     "encyclopedia": "https://dragcave.net/dragonopedia/48"
   },
-  "hellfire": {
+  "hellfire"           : {
     "name"        : ["Hellfire Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/z/zfngfs.gif"],
     "description" : "This egg radiates the heat of a fell flame",
     "encyclopedia": "https://dragcave.net/dragonopedia/58"
   },
-  "ignimbri": {
+  "ignimbri"           : {
     "name"        : ["Ignimbri Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/16mqzph.webp"],
     "description" : "This egg sits atop a pile of smoldering ash",
     "encyclopedia": "https://dragcave.net/dragonopedia/1797"
   },
-  "kymatumi": {
+  "kymatumi"           : {
     "name"        : ["Kymatumi Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/5/5lsdsd.webp"],
     "description" : "This glimmering egg emanates the ocean's sounds",
     "encyclopedia": "https://dragcave.net/dragonopedia/1798"
   },
-  "miufu": {
+  "miufu"              : {
     "name"        : ["Miufu Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/16l0l87.gif"],
     "description" : "This golden egg is shiny and warm",
     "encyclopedia": "https://dragcave.net/dragonopedia/1785"
   },
-  "nebula": {
+  "nebula"             : {
     "name"        : ["Nebula Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/n/nkcfft.gif"],
     "description" : "This egg glows with a brilliant radiance",
     "encyclopedia": "https://dragcave.net/dragonopedia/70"
   },
-  "nocturne": {
+  "nocturne"           : {
     "name"        : ["Nocturne Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/2/2hbvir.gif"],
     "description" : "This egg appears to be made of limestone",
     "encyclopedia": "https://dragcave.net/dragonopedia/72"
   },
-  "papillune": {
+  "papillune"          : {
     "name"        : ["Papillune Pygmy Gold", "Papillune Pygmy Blue"],
     "img"         : [
       "https://s.dcave.net/cache/images/b/bvjzcl.webp",
@@ -264,7 +264,7 @@
     "description" : "This tiny egg glints in the moonlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1794"
   },
-  "ridgewing": {
+  "ridgewing"          : {
     "name"        : ["Ridgewing Dragon Purple", "Ridgewing Dragon Tan"],
     "img"         : [
       "https://s.dcave.net/cache/images/1/18zixzn.gif",
@@ -273,61 +273,61 @@
     "description" : "A cool mountain breeze blows around this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/90"
   },
-  "sapo": {
+  "sapo"               : {
     "name"        : ["Sapo Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/t/t6i9zu.png"],
     "description" : "This egg's shell is slippery and clean",
     "encyclopedia": "https://dragcave.net/dragonopedia/1682"
   },
-  "seasonal_spring": {
+  "seasonal_spring"    : {
     "name"        : ["Seasonal Dragon (Spring)"],
     "img"         : ["https://s.dcave.net/cache/images/t/t814qi.gif"],
     "description" : "The markings on this egg match the weather outside",
     "encyclopedia": "https://dragcave.net/dragonopedia/1077"
   },
-  "seasonal_summer": {
+  "seasonal_summer"    : {
     "name"        : ["Seasonal Dragon (Summer)"],
     "img"         : ["https://s.dcave.net/cache/images/z/zwj4e6.png"],
     "description" : "The markings on this egg match the weather outside",
     "encyclopedia": "https://dragcave.net/dragonopedia/1078"
   },
-  "seraph": {
+  "seraph"             : {
     "name"        : ["Seraph Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/6/6fo32p.png"],
     "description" : "This egg is covered in soft, downy feathers",
     "encyclopedia": "https://dragcave.net/dragonopedia/1763"
   },
-  "skystrider": {
+  "skystrider"         : {
     "name"        : ["Skystrider Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/8/8ogx7x.gif"],
     "description" : "This plain blue egg almost seems to float",
     "encyclopedia": "https://dragcave.net/dragonopedia/1669"
   },
-  "slag_tail": {
+  "slag_tail"          : {
     "name"        : ["Slag-Tail Behemoth"],
     "img"         : ["https://s.dcave.net/cache/images/1/1bj3alj.webp"],
     "description" : "This heavy egg is enveloped in thick, sturdy plates",
     "encyclopedia": "https://dragcave.net/dragonopedia/1804"
   },
-  "spitfire": {
+  "spitfire"           : {
     "name"        : ["Spitfire Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1xf9u5y.png"],
     "description" : "This egg has brightly colored markings on it",
     "encyclopedia": "https://dragcave.net/dragonopedia/100"
   },
-  "storm": {
+  "storm"              : {
     "name"        : ["Storm Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/o/oe0see.gif"],
     "description" : "This egg is surrounded by fog",
     "encyclopedia": "https://dragcave.net/dragonopedia/47"
   },
-  "stormherald": {
+  "stormherald"        : {
     "name": ["Stormherald Dragon"],
     "img": ["https://s.dcave.net/cache/images/w/wyx8qb.webp"],
     "description": "This metal egg discharges bolts of electricity occasionally",
     "encyclopedia": "https://dragcave.net/dragonopedia/1799"
   },
-  "striped": {
+  "striped"            : {
     "name"        : [
       "Striped Dragon (White)",
       "Striped Dragon (Blue)",
@@ -345,49 +345,49 @@
     "description" : "This egg has brightly colored markings on it",
     "encyclopedia": "https://dragcave.net/dragonopedia/102"
   },
-  "striped_river": {
+  "striped_river"      : {
     "name": ["Striped River Dragon"],
     "img": ["https://s.dcave.net/cache/images/1/15798k.gif"],
     "description": "A small puddle of condensation has collected under this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/971"
   },
-  "sunstone": {
+  "sunstone"           : {
     "name"        : ["Sunstone Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1fjh196.gif"],
     "description" : "This egg resembles a glowing stone",
     "encyclopedia": "https://dragcave.net/dragonopedia/107"
   },
-  "thousand_wish": {
+  "thousand_wish"      : {
     "name": ["Thousand Wish Dragon"],
     "img": ["https://s.dcave.net/cache/images/u/uqike3.gif"],
     "description": "A serene calm washes over you as you approach this navy egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/1760"
   },
-  "turpentine": {
+  "turpentine"         : {
     "name"        : ["Turpentine Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1xqv2oz.png"],
     "description" : "This egg smells strongly of turpentine",
     "encyclopedia": "https://dragcave.net/dragonopedia/116"
   },
-  "warden": {
+  "warden"             : {
     "name": ["Warden of Realms"],
     "img": ["https://s.dcave.net/cache/images/l/lpca0j.webp"],
     "description": "This egg hums with a quiet power, as though something within is beginning to stir",
     "encyclopedia": "https://dragcave.net/dragonopedia/1800"
   },
-  "water": {
+  "water"              : {
     "name"        : ["Water Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/a/aqbfpm.gif"],
     "description" : "This egg is sitting in a shallow puddle",
     "encyclopedia": "https://dragcave.net/dragonopedia/63"
   },
-  "white": {
+  "white"              : {
     "name": ["White Dragon"],
     "img": ["https://s.dcave.net/cache/images/n/n19bd4.gif"],
     "description": "This egg has a very clean look; it's completely devoid of dirt and scratches",
     "encyclopedia": "https://dragcave.net/dragonopedia/130"
   },
-  "wisteria": {
+  "wisteria"           : {
     "name"        : ["Wisteria Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1amwhgb.gif"],
     "description" : "This egg is surrounded by beautiful flowers",

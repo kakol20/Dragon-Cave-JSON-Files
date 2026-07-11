@@ -19,7 +19,7 @@
     "id"        : "aspect_mana",
     "view"      : ["b6sBq", "uLDEB"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260708,
     "finished"  : false
   },
@@ -161,10 +161,10 @@
   },
   {
     "id"        : "striped",
-    "view"      : ["X3ssP", "ek3Po", "O9fBj", "oxWE1"],
+    "view"      : ["X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7"],
     "adults"    : 4,
     "hatchlings": 0,
-    "date"      : 20260628,
+    "date"      : 20260708,
     "finished"  : false
   },
   {

@@ -25,10 +25,10 @@
   },
   {
     "id"        : "avin",
-    "view"      : ["ddTDa"],
+    "view"      : ["ddTDa", "r8dUA"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260617,
+    "date"      : 20260708,
     "finished"  : false
   },
   {
@@ -93,14 +93,6 @@
     "adults"    : 1,
     "hatchlings": 0,
     "date"      : 20260613,
-    "finished"  : false
-  },
-  {
-    "id"        : "ignimbri",
-    "view"      : ["QpDm7", "Jchlj", "zlenE"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260705,
     "finished"  : false
   },
   {
@@ -341,6 +333,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260531,
+    "finished"  : true
+  },
+  {
+    "id"        : "ignimbri",
+    "view"      : ["QpDm7", "Jchlj", "zlenE"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260705,
     "finished"  : true
   },
   {

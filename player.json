@@ -169,10 +169,10 @@
   },
   {
     "id"        : "stormherald",
-    "view"      : ["avdaG", "X4zm4", "eHE7D", "AmUPB"],
+    "view"      : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
     "adults"    : 4,
     "hatchlings": 0,
-    "date"      : 20260704,
+    "date"      : 20260710,
     "finished"  : false
   },
   {

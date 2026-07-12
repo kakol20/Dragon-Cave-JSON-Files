@@ -7,7 +7,8 @@
   },
   "@notes"             : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
-    "Main Repo Commit: https://github.com/kakol20/Dragon_Cave-Breeds/commit/ac7b62072104df72c4f96d481f6a3077da688328"
+    "Main Repo Commit: https://github.com/kakol20/Dragon_Cave-Breeds/commit/a8b0a57e04306b17bd1ff770c858715b771cb7fa",
+    "JSON Editor: https://jsoneditoronline.org/"
   ],
   "_template"          : {
     "name"        : ["Unknown Breed"],

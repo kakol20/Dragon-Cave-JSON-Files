@@ -27,23 +27,15 @@
     "id"        : "avin",
     "view"      : ["ddTDa", "r8dUA"],
     "adults"    : 1,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260708,
-    "finished"  : false
-  },
-  {
-    "id"        : "carmine",
-    "view"      : ["5vtLW", "q3PiL", "VcDtm"],
-    "adults"    : 1,
-    "hatchlings": 2,
-    "date"      : 20260706,
     "finished"  : false
   },
   {
     "id"        : "celestial",
     "view"      : ["qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW", "ptMv2"],
-    "adults"    : 5,
-    "hatchlings": 1,
+    "adults"    : 6,
+    "hatchlings": 0,
     "date"      : 20260705,
     "finished"  : false
   },
@@ -99,7 +91,7 @@
     "id"        : "nocturne",
     "view"      : ["YDcCw", "0l7K5", "y45IJ", "nV0Fc", "7hBNo"],
     "adults"    : 4,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260709,
     "finished"  : false
   },
@@ -161,7 +153,9 @@
   },
   {
     "id"        : "striped",
-    "view"      : ["X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4"],
+    "view"      : [
+      "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl"
+    ],
     "adults"    : 4,
     "hatchlings": 1,
     "date"      : 20260709,
@@ -245,6 +239,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260524,
+    "finished"  : true
+  },
+  {
+    "id"        : "carmine",
+    "view"      : ["5vtLW", "q3PiL", "VcDtm"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260706,
     "finished"  : true
   },
   {

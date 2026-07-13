@@ -150,7 +150,7 @@
       "VIrn3", "gO2fj"
     ],
     "adults"    : 4,
-    "hatchlings": 2,
+    "hatchlings": 3,
     "date"      : 20260709,
     "finished"  : false
   },
@@ -180,10 +180,10 @@
   },
   {
     "id"        : "wisteria",
-    "view"      : ["RDi4W", "Oknvh"],
+    "view"      : ["RDi4W", "Oknvh", "3VJIk"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260705,
+    "date"      : 20260710,
     "finished"  : false
   },
   {

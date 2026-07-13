@@ -265,6 +265,12 @@
     "description" : "This tiny egg glints in the moonlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1794"
   },
+  "purple"             : {
+    "name"        : ["Purple Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/6/661wle.gif"],
+    "description" : "Wow, purple isn't a color of egg you expected to see",
+    "encyclopedia": "https://dragcave.net/dragonopedia/82"
+  },
   "ridgewing"          : {
     "name"        : ["Ridgewing Dragon Purple", "Ridgewing Dragon Tan"],
     "img"         : [

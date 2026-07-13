@@ -88,11 +88,11 @@
     "finished"  : false
   },
   {
-    "id"        : "papillune",
-    "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H", "SjNrR", "SPc1l"],
-    "adults"    : 5,
-    "hatchlings": 1,
-    "date"      : 20260707,
+    "id"        : "purple",
+    "view"      : ["CSVMN"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260711,
     "finished"  : false
   },
   {
@@ -352,6 +352,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260705,
+    "finished"  : true
+  },
+  {
+    "id"        : "papillune",
+    "view"      : ["lOhDj", "SWkjF", "z6O7C", "C1S2H", "SjNrR", "SPc1l"],
+    "adults"    : 6,
+    "hatchlings": 0,
+    "date"      : 20260707,
     "finished"  : true
   },
   {

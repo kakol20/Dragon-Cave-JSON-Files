@@ -50,8 +50,8 @@
   {
     "id"        : "floret_alstroemeria",
     "view"      : ["4Vnm0"],
-    "adults"    : 0,
-    "hatchlings": 1,
+    "adults"    : 1,
+    "hatchlings": 0,
     "date"      : 20260707,
     "finished"  : false
   },
@@ -147,7 +147,7 @@
     "id"        : "striped",
     "view"      : [
       "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl",
-      "VIrn3", "gO2fj", "j5Juq"
+      "VIrn3", "gO2fj", "j5Juq", "VYvWx"
     ],
     "adults"    : 4,
     "hatchlings": 6,

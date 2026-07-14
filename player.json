@@ -139,7 +139,7 @@
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
     "adults"    : 4,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260710,
     "finished"  : false
   },

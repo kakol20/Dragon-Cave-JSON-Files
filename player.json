@@ -18,9 +18,9 @@
   {
     "id"        : "aspect_mana",
     "view"      : ["b6sBq", "uLDEB"],
-    "adults"    : 1,
-    "hatchlings": 1,
-    "date"      : 20260711,
+    "adults"    : 2,
+    "hatchlings": 0,
+    "date"      : 20260714.1418,
     "finished"  : false
   },
   {
@@ -147,7 +147,7 @@
     "id"        : "striped",
     "view"      : [
       "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl",
-      "VIrn3", "gO2fj", "j5Juq", "VYvWx"
+      "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP"
     ],
     "adults"    : 4,
     "hatchlings": 8,

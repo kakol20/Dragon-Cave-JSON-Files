@@ -57,6 +57,12 @@
     "description" : "This radiant egg emanates a magical aura",
     "encyclopedia": "https://dragcave.net/dragonopedia/1802"
   },
+  "aspect_soul"        : {
+    "name"        : ["Aspect of Soul"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1g1t1py.webp"],
+    "description" : "This warm egg emanates an otherworldly aura",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1803"
+  },
   "avarice"            : {
     "name"        : ["Avarice Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1oki67v.webp"],
@@ -263,6 +269,12 @@
     ],
     "description" : "This tiny egg glints in the moonlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1794"
+  },
+  "pink"               : {
+    "name"        : ["Pink Drgon"],
+    "img"         : ["https://s.dcave.net/cache/images/m/mg0129.gif"],
+    "description" : "It's bright. And pink",
+    "encyclopedia": "https://dragcave.net/dragonopedia/79"
   },
   "purple"             : {
     "name"        : ["Purple Dragon"],

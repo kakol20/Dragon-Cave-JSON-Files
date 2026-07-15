@@ -67,10 +67,10 @@
   },
   {
     "id"        : "floret_iris",
-    "view"      : ["B2rS5", "B6WB4"],
+    "view"      : ["B2rS5", "B6WB4", "5ikSf"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260711,
+    "date"      : 20260715.1001,
     "finished"  : false
   },
   {
@@ -168,8 +168,8 @@
       "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP"
     ],
     "adults"    : 5,
-    "hatchlings": 7,
-    "date"      : 20260714.1938,
+    "hatchlings": 8,
+    "date"      : 20260715.0959,
     "finished"  : false
   },
   {

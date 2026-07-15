@@ -45,7 +45,7 @@
       "qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW", "ptMv2", "Nh1qX", "iqI9T"
     ],
     "adults"    : 7,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260715.1103,
     "finished"  : false
   },
@@ -101,7 +101,7 @@
     "id"        : "pink",
     "view"      : ["hWUCJ"],
     "adults"    : 0,
-    "hatchlings": 0,
+    "hatchlings": 1,
     "date"      : 20260715.1153,
     "finished"  : false
   },

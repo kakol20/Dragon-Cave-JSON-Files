@@ -190,10 +190,10 @@
   },
   {
     "id"        : "water",
-    "view"      : ["LeLaf", "x6HAC"],
+    "view"      : ["LeLaf", "x6HAC", "3Yw0w"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260704,
+    "date"      : 20260715.1301,
     "finished"  : false
   },
   {

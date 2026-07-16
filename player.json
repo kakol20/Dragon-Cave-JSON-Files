@@ -167,8 +167,8 @@
       "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl",
       "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP"
     ],
-    "adults"    : 10,
-    "hatchlings": 3,
+    "adults"    : 11,
+    "hatchlings": 2,
     "date"      : 20260715.0959,
     "finished"  : false
   },
@@ -194,14 +194,6 @@
     "adults"    : 2,
     "hatchlings": 0,
     "date"      : 20260715.1301,
-    "finished"  : false
-  },
-  {
-    "id"        : "wisteria",
-    "view"      : ["RDi4W", "Oknvh", "3VJIk"],
-    "adults"    : 2,
-    "hatchlings": 1,
-    "date"      : 20260713.1320,
     "finished"  : false
   },
   {
@@ -442,6 +434,14 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260520,
+    "finished"  : true
+  },
+  {
+    "id"        : "wisteria",
+    "view"      : ["RDi4W", "Oknvh", "3VJIk"],
+    "adults"    : 3,
+    "hatchlings": 0,
+    "date"      : 20260716.1320,
     "finished"  : true
   }
 ]

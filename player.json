@@ -156,9 +156,9 @@
   {
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
-    "adults"    : 4,
-    "hatchlings": 1,
-    "date"      : 20260713.2012,
+    "adults"    : 5,
+    "hatchlings": 0,
+    "date"      : 20260716.2012,
     "finished"  : false
   },
   {

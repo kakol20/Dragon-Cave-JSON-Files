@@ -108,9 +108,9 @@
   {
     "id"        : "purple",
     "view"      : ["CSVMN"],
-    "adults"    : 0,
-    "hatchlings": 1,
-    "date"      : 20260714.0853,
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260717.0854,
     "finished"  : false
   },
   {

@@ -109,9 +109,9 @@
   {
     "id"        : "pink",
     "view"      : ["hWUCJ"],
-    "adults"    : 0,
-    "hatchlings": 1,
-    "date"      : 20260715.1153,
+    "adults"    : 1,
+    "hatchlings": 0,
+    "date"      : 20260718.1153,
     "finished"  : false
   },
   {

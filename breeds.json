@@ -105,6 +105,12 @@
     "description": "This egg's slick shell is covered in lustrous, vibrant scales",
     "encyclopedia": "https://dragcave.net/dragonopedia/973"
   },
+  "common"             : {
+    "name"        : ["Common Pygmy"],
+    "img"         : ["https://s.dcave.net/cache/images/l/l3zjvc.gif"],
+    "description" : "This egg is so tiny you almost didn’t see it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/88"
+  },
   "daydream"           : {
     "name"        : ["Daydream Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/p/p91sp4.png"],

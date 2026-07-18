@@ -108,7 +108,7 @@
   "common"             : {
     "name"        : ["Common Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/l/l3zjvc.gif"],
-    "description" : "This egg is so tiny you almost didn’t see it",
+    "description" : "This egg is so tiny you almost didn't see it",
     "encyclopedia": "https://dragcave.net/dragonopedia/88"
   },
   "daydream"           : {
@@ -344,6 +344,12 @@
     "img"         : ["https://s.dcave.net/cache/images/o/oe0see.gif"],
     "description" : "This egg is surrounded by fog",
     "encyclopedia": "https://dragcave.net/dragonopedia/47"
+  },
+  "storm_rider"        : {
+    "name": ["Storm-Rider Dragon"],
+    "img": ["https://s.dcave.net/cache/images/5/5zrvam.png"],
+    "description": "You can feel the static electricity that surrounds this egg",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1589"
   },
   "stormherald"        : {
     "name": ["Stormherald Dragon"],

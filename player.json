@@ -1,10 +1,10 @@
 [
   {
     "id"        : "almerald",
-    "view"      : ["dI3Hf", "mGH4u"],
+    "view"      : ["dI3Hf", "mGH4u", "1WiWL"],
     "adults"    : 2,
     "hatchlings": 0,
-    "date"      : 20260707,
+    "date"      : 20260716.0340,
     "finished"  : false
   },
   {
@@ -46,8 +46,8 @@
       "M054q"
     ],
     "adults"    : 8,
-    "hatchlings": 0,
-    "date"      : 20260715.1320,
+    "hatchlings": 1,
+    "date"      : 20260718.1247,
     "finished"  : false
   },
   {
@@ -163,6 +163,14 @@
     "finished"  : false
   },
   {
+    "id"        : "storm_rider",
+    "view"      : ["qYqyU"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260716.0639,
+    "finished"  : false
+  },
+  {
     "id"        : "stormherald",
     "view"      : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
     "adults"    : 5,
@@ -201,8 +209,8 @@
     "id"        : "water",
     "view"      : ["LeLaf", "x6HAC", "3Yw0w"],
     "adults"    : 2,
-    "hatchlings": 0,
-    "date"      : 20260715.1301,
+    "hatchlings": 1,
+    "date"      : 20260718.1303,
     "finished"  : false
   },
   {

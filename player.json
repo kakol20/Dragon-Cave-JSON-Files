@@ -27,8 +27,8 @@
     "id"        : "aspect_soul",
     "view"      : ["VosiN"],
     "adults"    : 0,
-    "hatchlings": 0,
-    "date"      : 20260715.0708,
+    "hatchlings": 1,
+    "date"      : 20260718.1004,
     "finished"  : false
   },
   {
@@ -78,8 +78,8 @@
     "id"        : "floret_iris",
     "view"      : ["B2rS5", "B6WB4", "5ikSf"],
     "adults"    : 2,
-    "hatchlings": 0,
-    "date"      : 20260715.1001,
+    "hatchlings": 1,
+    "date"      : 20260718.1003,
     "finished"  : false
   },
   {
@@ -100,10 +100,10 @@
   },
   {
     "id"        : "nocturne",
-    "view"      : ["YDcCw", "0l7K5", "y45IJ", "nV0Fc", "7hBNo"],
+    "view"      : ["YDcCw", "0l7K5", "y45IJ", "nV0Fc", "7hBNo", "DmKwq"],
     "adults"    : 5,
     "hatchlings": 0,
-    "date"      : 20260715.0658,
+    "date"      : 20260715.2023,
     "finished"  : false
   },
   {
@@ -132,10 +132,10 @@
   },
   {
     "id"        : "sapo",
-    "view"      : ["KkIye"],
+    "view"      : ["KkIye", "ls3dG"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260708,
+    "date"      : 20260716.0037,
     "finished"  : false
   },
   {
@@ -176,9 +176,9 @@
       "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl",
       "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP"
     ],
-    "adults"    : 12,
-    "hatchlings": 1,
-    "date"      : 20260715.0959,
+    "adults"    : 13,
+    "hatchlings": 0,
+    "date"      : 20260718.0959,
     "finished"  : false
   },
   {

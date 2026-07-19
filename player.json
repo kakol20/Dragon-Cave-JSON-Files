@@ -92,18 +92,18 @@
   },
   {
     "id"        : "golden",
-    "view"      : ["sknbk"],
+    "view"      : ["sknbk", "eKMTm"],
     "adults"    : 1,
     "hatchlings": 0,
-    "date"      : 20260619,
+    "date"      : 20260716.2053,
     "finished"  : false
   },
   {
     "id"        : "nocturne",
     "view"      : ["YDcCw", "0l7K5", "y45IJ", "nV0Fc", "7hBNo", "DmKwq"],
     "adults"    : 5,
-    "hatchlings": 0,
-    "date"      : 20260715.2023,
+    "hatchlings": 1,
+    "date"      : 20260718.2159,
     "finished"  : false
   },
   {

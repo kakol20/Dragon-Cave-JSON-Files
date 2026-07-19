@@ -84,10 +84,10 @@
   },
   {
     "id"        : "gemshard",
-    "view"      : ["WCA6W", "FrA15", "WUbnQ", "NfxC7"],
+    "view"      : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb"],
     "adults"    : 4,
     "hatchlings": 0,
-    "date"      : 20260707,
+    "date"      : 20260716.1404,
     "finished"  : false
   },
   {
@@ -193,8 +193,8 @@
     "id"        : "striped_river",
     "view"      : ["IL62o", "2OmFz", "59Oqp"],
     "adults"    : 2,
-    "hatchlings": 0,
-    "date"      : 20260715.2051,
+    "hatchlings": 1,
+    "date"      : 20260718.2051,
     "finished"  : false
   },
   {

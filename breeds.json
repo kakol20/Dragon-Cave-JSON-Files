@@ -1,9 +1,15 @@
 {
-  "@new"               : {
-    "name": ["June Dragon Release 2026"],
+  "@new_1"             : {
+    "name": ["July 19 Dragon Release 2026 - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description": "Now that we've all had our fill of 20th Birthday cake, let's get back to hunting. Catch these new breeds in the Alpine, Desert, and Volcano",
-    "encyclopedia": "https://forums.dragcave.net/topic/195587-2026-06-28-june-dragon-release/"
+    "description": "This egg has a remarkably hard shell",
+    "encyclopedia": "https://forums.dragcave.net/topic/195643-2026-07-19-july-dragon-release/"
+  },
+  "@new_2"             : {
+    "name": ["July 19 Dragon Release 2026 - Breed #2"],
+    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "description": "Delicate fractures glimmer faintly across the shell of this egg",
+    "encyclopedia": "https://forums.dragcave.net/topic/195643-2026-07-19-july-dragon-release/"
   },
   "@notes"             : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",

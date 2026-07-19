@@ -1,10 +1,26 @@
 [
   {
+    "id"        : "@new_1",
+    "view"      : ["iHJc8", "GVIVd"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260719.0720,
+    "finished"  : false
+  },
+  {
+    "id"        : "@new_2",
+    "view"      : ["18dCB", "KJerS"],
+    "adults"    : 0,
+    "hatchlings": 0,
+    "date"      : 20260719.0740,
+    "finished"  : false
+  },
+  {
     "id"        : "almerald",
     "view"      : ["dI3Hf", "mGH4u", "1WiWL"],
     "adults"    : 2,
-    "hatchlings": 0,
-    "date"      : 20260716.0340,
+    "hatchlings": 1,
+    "date"      : 20260719.0709,
     "finished"  : false
   },
   {
@@ -54,8 +70,8 @@
     "id"        : "common",
     "view"      : ["cXNeC"],
     "adults"    : 0,
-    "hatchlings": 0,
-    "date"      : 20260715.2327,
+    "hatchlings": 1,
+    "date"      : 20260719.0701,
     "finished"  : false
   },
   {
@@ -134,8 +150,8 @@
     "id"        : "sapo",
     "view"      : ["KkIye", "ls3dG"],
     "adults"    : 1,
-    "hatchlings": 0,
-    "date"      : 20260716.0037,
+    "hatchlings": 1,
+    "date"      : 20260719.0707,
     "finished"  : false
   },
   {
@@ -166,8 +182,8 @@
     "id"        : "storm_rider",
     "view"      : ["qYqyU"],
     "adults"    : 0,
-    "hatchlings": 0,
-    "date"      : 20260716.0639,
+    "hatchlings": 1,
+    "date"      : 20260719.0716,
     "finished"  : false
   },
   {

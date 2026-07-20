@@ -9,10 +9,10 @@
   },
   {
     "id"        : "@new_2",
-    "view"      : ["18dCB", "KJerS"],
+    "view"      : ["18dCB", "KJerS", "7VkJ3"],
     "adults"    : 0,
     "hatchlings": 0,
-    "date"      : 20260719.0740,
+    "date"      : 20260719.2230,
     "finished"  : false
   },
   {
@@ -53,17 +53,6 @@
     "adults"    : 2,
     "hatchlings": 0,
     "date"      : 20260715.0125,
-    "finished"  : false
-  },
-  {
-    "id"        : "celestial",
-    "view"      : [
-      "qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW", "ptMv2", "Nh1qX", "iqI9T",
-      "M054q"
-    ],
-    "adults"    : 8,
-    "hatchlings": 1,
-    "date"      : 20260718.1247,
     "finished"  : false
   },
   {
@@ -283,6 +272,17 @@
     "adults"    : 3,
     "hatchlings": 0,
     "date"      : 20260712.0711,
+    "finished"  : true
+  },
+  {
+    "id"        : "celestial",
+    "view"      : [
+      "qHlsJ", "VW27P", "kHjvK", "tBZta", "Ye8tW", "ptMv2", "Nh1qX", "iqI9T",
+      "M054q"
+    ],
+    "adults"    : 9,
+    "hatchlings": 0,
+    "date"      : 20260719.2228,
     "finished"  : true
   },
   {

@@ -110,8 +110,8 @@
     "id"        : "golden",
     "view"      : ["sknbk", "eKMTm"],
     "adults"    : 1,
-    "hatchlings": 0,
-    "date"      : 20260716.2053,
+    "hatchlings": 1,
+    "date"      : 20260719.2140,
     "finished"  : false
   },
   {

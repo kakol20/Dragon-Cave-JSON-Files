@@ -89,7 +89,7 @@
   },
   "black_tea"          : {
     "name"        : ["Black Tea Dragon"],
-    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "img"         : ["https://s.dcave.net/cache/images/9/9qkqyr.png"],
     "description" : "This egg has a faintly exotic scent",
     "encyclopedia": "https://dragcave.net/dragonopedia/7"
   },
@@ -255,6 +255,12 @@
     "description" : "This glimmering egg emanates the ocean's sounds",
     "encyclopedia": "https://dragcave.net/dragonopedia/1798"
   },
+  "lalopias"           : {
+    "name"        : ["Lalopias Leviathan"],
+    "img"         : ["https://s.dcave.net/cache/images/1/10l0egj.gif"],
+    "description" : "This egg looks like cooled lava",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1752"
+  },
   "miufu"              : {
     "name"        : ["Miufu Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/16l0l87.gif"],
@@ -293,6 +299,12 @@
     "img"         : ["https://s.dcave.net/cache/images/6/661wle.gif"],
     "description" : "Wow, purple isn't a color of egg you expected to see",
     "encyclopedia": "https://dragcave.net/dragonopedia/82"
+  },
+  "pyrovar"            : {
+    "name"        : ["Pyrovar Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1bmc52.gif"],
+    "description" : "This glassy egg is too hot to hold with your bare hands",
+    "encyclopedia": "https://dragcave.net/dragonopedia/183"
   },
   "ridgewing"          : {
     "name"        : ["Ridgewing Dragon Purple", "Ridgewing Dragon Tan"],
@@ -404,6 +416,15 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1xqv2oz.png"],
     "description" : "This egg smells strongly of turpentine",
     "encyclopedia": "https://dragcave.net/dragonopedia/116"
+  },
+  "vespine"            : {
+    "name"        : ["Vespine Drake (Yellow)", "Vespine Drake (White)"],
+    "img"         : [
+      "https://s.dcave.net/cache/images/u/uerfew.gif",
+      "https://s.dcave.net/cache/images/8/8itcaf.gif"
+    ],
+    "description" : "This smooth egg has dark markings",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1743"
   },
   "warden"             : {
     "name": ["Warden of Realms"],

@@ -90,9 +90,9 @@
   {
     "id"      : "gemshard",
     "view"    : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb"],
-    "adults"  : 4,
-    "hatch"   : 1,
-    "date"    : 20260719.1618,
+    "adults"  : 5,
+    "hatch"   : 0,
+    "date"    : 20260722.1618,
     "finished": false
   },
   {

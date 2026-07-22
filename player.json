@@ -179,14 +179,6 @@
     "finished": false
   },
   {
-    "id"      : "striped_river",
-    "view"    : ["IL62o", "2OmFz", "59Oqp"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 20260718.2051,
-    "finished": false
-  },
-  {
     "id"      : "warden",
     "view"    : ["nj7cU"],
     "adults"  : 1,
@@ -427,6 +419,14 @@
     "adults"  : 3,
     "hatch"   : 0,
     "date"    : 20260523,
+    "finished": true
+  },
+  {
+    "id"      : "striped_river",
+    "view"    : ["IL62o", "2OmFz", "59Oqp"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 20260721.2055,
     "finished": true
   },
   {

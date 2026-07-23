@@ -107,8 +107,8 @@
     "id"      : "lalopias",
     "view"    : ["jUj3x"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 20260719.2135,
+    "hatch"   : 1,
+    "date"    : 20260723.0757,
     "finished": false
   },
   {
@@ -121,10 +121,10 @@
   },
   {
     "id"      : "purple",
-    "view"    : ["CSVMN"],
+    "view"    : ["CSVMN", "1Duho"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260717.0854,
+    "date"    : 20260723.0821,
     "finished": false
   },
   {

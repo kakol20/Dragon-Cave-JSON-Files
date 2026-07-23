@@ -33,10 +33,10 @@
   },
   {
     "id"      : "aspect_soul",
-    "view"    : ["VosiN"],
+    "view"    : ["VosiN", "pYZ4H"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260721.1231,
+    "date"    : 20260723.1604,
     "finished": false
   },
   {

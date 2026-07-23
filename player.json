@@ -11,8 +11,8 @@
     "id"      : "@new_2",
     "view"    : ["18dCB", "KJerS", "7VkJ3"],
     "adults"  : 0,
-    "hatch"   : 2,
-    "date"    : 20260719.2230,
+    "hatch"   : 3,
+    "date"    : 20260722.2230,
     "finished": false
   },
   {
@@ -98,9 +98,9 @@
   {
     "id"      : "golden",
     "view"    : ["sknbk", "eKMTm"],
-    "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 20260719.2140,
+    "adults"  : 2,
+    "hatch"   : 0,
+    "date"    : 20260722.2146,
     "finished": false
   },
   {
@@ -190,8 +190,8 @@
     "id"      : "vespine",
     "view"    : ["3x6bb"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 20260719.2021,
+    "hatch"   : 1,
+    "date"    : 20260722.2139,
     "finished": false
   },
   {

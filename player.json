@@ -51,8 +51,8 @@
     "id"      : "black_tea",
     "view"    : ["BuRyK"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 20260719.1930,
+    "hatch"   : 1,
+    "date"    : 20260722.2053,
     "finished": false
   },
   {
@@ -131,8 +131,8 @@
     "id"      : "pyrovar",
     "view"    : ["4brVl"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 20260719.1927,
+    "hatch"   : 1,
+    "date"    : 20260722.2110,
     "finished": false
   },
   {
@@ -161,10 +161,10 @@
   },
   {
     "id"      : "seraph",
-    "view"    : ["4hpyj", "2grLO"],
+    "view"    : ["4hpyj", "2grLO", "pjGE1"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 20260708,
+    "date"    : 20260722.2118,
     "finished": false
   },
   {
@@ -176,22 +176,14 @@
     "finished": false
   },
   {
-    "id"      : "stormherald",
-    "view"    : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
-    "adults"  : 5,
-    "hatch"   : 0,
-    "date"    : 20260716.2012,
-    "finished": false
-  },
-  {
     "id"      : "striped",
     "view"    : [
       "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl",
-      "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP"
+      "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP", "D7sTi"
     ],
     "adults"  : 13,
     "hatch"   : 0,
-    "date"    : 20260718.0959,
+    "date"    : 20260722.2055,
     "finished": false
   },
   {
@@ -451,6 +443,14 @@
     "adults"  : 3,
     "hatch"   : 0,
     "date"    : 20260523,
+    "finished": true
+  },
+  {
+    "id"      : "stormherald",
+    "view"    : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
+    "adults"  : 5,
+    "hatch"   : 0,
+    "date"    : 20260716.2012,
     "finished": true
   },
   {

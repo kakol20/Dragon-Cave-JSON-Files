@@ -1,21 +1,5 @@
 [
   {
-    "id"      : "@new_1",
-    "view"    : ["iHJc8", "GVIVd", "XURgc"],
-    "adults"  : 0,
-    "hatch"   : 3,
-    "date"    : 20260723.0900,
-    "finished": false
-  },
-  {
-    "id"      : "@new_2",
-    "view"    : ["18dCB", "KJerS", "7VkJ3"],
-    "adults"  : 0,
-    "hatch"   : 3,
-    "date"    : 20260722.2230,
-    "finished": false
-  },
-  {
     "id"      : "aspect_form",
     "view"    : ["C2OUz", "U3DdM"],
     "adults"  : 2,
@@ -89,10 +73,10 @@
   },
   {
     "id"      : "gemshard",
-    "view"    : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb"],
+    "view"    : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ"],
     "adults"  : 5,
     "hatch"   : 0,
-    "date"    : 20260722.1618,
+    "date"    : 20260724.0647,
     "finished": false
   },
   {
@@ -104,11 +88,27 @@
     "finished": false
   },
   {
+    "id"      : "kintsugi",
+    "view"    : ["18dCB", "KJerS", "7VkJ3"],
+    "adults"  : 0,
+    "hatch"   : 3,
+    "date"    : 20260722.2230,
+    "finished": false
+  },
+  {
     "id"      : "lalopias",
     "view"    : ["jUj3x"],
     "adults"  : 0,
     "hatch"   : 1,
     "date"    : 20260723.0757,
+    "finished": false
+  },
+  {
+    "id"      : "ovidrake",
+    "view"    : ["iHJc8", "GVIVd", "XURgc"],
+    "adults"  : 0,
+    "hatch"   : 3,
+    "date"    : 20260723.0900,
     "finished": false
   },
   {

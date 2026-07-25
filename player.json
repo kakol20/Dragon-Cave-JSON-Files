@@ -90,8 +90,8 @@
   {
     "id"      : "kintsugi",
     "view"    : ["18dCB", "KJerS", "7VkJ3"],
-    "adults"  : 0,
-    "hatch"   : 3,
+    "adults"  : 2,
+    "hatch"   : 1,
     "date"    : 20260722.2230,
     "finished": false
   },
@@ -106,8 +106,8 @@
   {
     "id"      : "ovidrake",
     "view"    : ["iHJc8", "GVIVd", "XURgc"],
-    "adults"  : 0,
-    "hatch"   : 3,
+    "adults"  : 2,
+    "hatch"   : 1,
     "date"    : 20260723.0900,
     "finished": false
   },

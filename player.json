@@ -90,9 +90,9 @@
   {
     "id"      : "lalopias",
     "view"    : ["jUj3x"],
-    "adults"  : 0,
-    "hatch"   : 1,
-    "date"    : 20260723.0757,
+    "adults"  : 1,
+    "hatch"   : 0,
+    "date"    : 20260726.0757,
     "finished": false
   },
   {
@@ -115,8 +115,8 @@
     "id"      : "purple",
     "view"    : ["CSVMN", "1Duho"],
     "adults"  : 1,
-    "hatch"   : 0,
-    "date"    : 20260723.0821,
+    "hatch"   : 1,
+    "date"    : 20260726.0821,
     "finished": false
   },
   {
@@ -139,8 +139,8 @@
     "id"      : "sapo",
     "view"    : ["KkIye", "ls3dG", "KTIWd"],
     "adults"  : 2,
-    "hatch"   : 0,
-    "date"    : 20260723.0748,
+    "hatch"   : 1,
+    "date"    : 20260726.0748,
     "finished": false
   },
   {
@@ -171,19 +171,19 @@
     "id"      : "striped",
     "view"    : [
       "X3ssP", "ek3Po", "O9fBj", "oxWE1", "jGZu7", "DHAy4", "4AKMg", "Xyxgl",
-      "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP", "D7sTi"
+      "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP", "D7sTi", "e9MqN"
     ],
     "adults"  : 13,
     "hatch"   : 1,
-    "date"    : 20260725.2100,
+    "date"    : 20260724.1126,
     "finished": false
   },
   {
     "id"      : "vespine",
-    "view"    : ["3x6bb"],
+    "view"    : ["3x6bb", "xAmtO"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260725.2140,
+    "date"    : 20260724.0924,
     "finished": false
   },
   {

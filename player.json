@@ -160,6 +160,14 @@
     "finished": false
   },
   {
+    "id"      : "stellarum",
+    "view"    : ["aYiEA"],
+    "adults"  : 0,
+    "hatch"   : 0,
+    "date"    : 202607242337,
+    "finished": false
+  },
+  {
     "id"      : "storm_rider",
     "view"    : ["qYqyU"],
     "adults"  : 1,
@@ -174,8 +182,8 @@
       "VIrn3", "gO2fj", "j5Juq", "VYvWx", "7f7CP", "D7sTi", "e9MqN"
     ],
     "adults"  : 13,
-    "hatch"   : 1,
-    "date"    : 202607241126,
+    "hatch"   : 2,
+    "date"    : 202607271128,
     "finished": false
   },
   {

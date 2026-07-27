@@ -270,7 +270,7 @@
   "monarch"            : {
     "name"        : ["Monarch Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1f4a8vr.gif"],
-    "description" : "This breed is unknown",
+    "description" : "This egg is buried in leaf litter",
     "encyclopedia": "https://dragcave.net/dragonopedia/169"
   },
   "nebula"             : {
@@ -368,6 +368,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1xf9u5y.png"],
     "description" : "This egg has brightly colored markings on it",
     "encyclopedia": "https://dragcave.net/dragonopedia/100"
+  },
+  "stellarum"          : {
+    "name"        : ["Stellarum Wyrm"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1yd7m76.png"],
+    "description" : "A red stone is embedded in this egg's cold shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1737"
   },
   "storm"              : {
     "name"        : ["Storm Dragon"],

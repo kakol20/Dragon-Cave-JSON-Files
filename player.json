@@ -33,10 +33,10 @@
   },
   {
     "id"      : "black_tea",
-    "view"    : ["BuRyK", "V0YBG"],
+    "view"    : ["BuRyK", "V0YBG", "tSs3e"],
     "adults"  : 1,
-    "hatch"   : 0,
-    "date"    : 202607240853,
+    "hatch"   : 1,
+    "date"    : 202607242128,
     "finished": false
   },
   {

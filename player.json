@@ -4,7 +4,7 @@
     "view"    : ["C2OUz", "U3DdM"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 20260715.1221,
+    "date"    : 202607151221,
     "finished": false
   },
   {
@@ -12,7 +12,7 @@
     "view"    : ["b6sBq", "uLDEB"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 20260714.1418,
+    "date"    : 202607141418,
     "finished": false
   },
   {
@@ -20,7 +20,7 @@
     "view"    : ["VosiN", "pYZ4H"],
     "adults"  : 1,
     "hatch"   : 1,
-    "date"    : 20260726.1947,
+    "date"    : 202607261947,
     "finished": false
   },
   {
@@ -28,7 +28,7 @@
     "view"    : ["ddTDa", "r8dUA"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 20260715.0125,
+    "date"    : 202607150125,
     "finished": false
   },
   {
@@ -36,15 +36,15 @@
     "view"    : ["BuRyK", "V0YBG"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260724.0853,
+    "date"    : 202607240853,
     "finished": false
   },
   {
     "id"      : "common",
-    "view"    : ["cXNeC"],
+    "view"    : ["cXNeC", "TdHtn"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260722.0702,
+    "date"    : 202607242221,
     "finished": false
   },
   {
@@ -52,7 +52,7 @@
     "view"    : ["97vSI", "CGWe7", "nDHah", "ERhge"],
     "adults"  : 4,
     "hatch"   : 0,
-    "date"    : 20260721.0713,
+    "date"    : 202607210713,
     "finished": false
   },
   {
@@ -60,7 +60,7 @@
     "view"    : ["4Vnm0"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260713.0740,
+    "date"    : 202607130740,
     "finished": false
   },
   {
@@ -68,15 +68,15 @@
     "view"    : ["B2rS5", "B6WB4", "5ikSf"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260721.1004,
+    "date"    : 202607211004,
     "finished": false
   },
   {
     "id"      : "gemshard",
     "view"    : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ"],
     "adults"  : 5,
-    "hatch"   : 0,
-    "date"    : 20260724.0647,
+    "hatch"   : 1,
+    "date"    : 202607270649,
     "finished": false
   },
   {
@@ -84,7 +84,7 @@
     "view"    : ["sknbk", "eKMTm"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 20260722.2146,
+    "date"    : 202607222146,
     "finished": false
   },
   {
@@ -92,7 +92,7 @@
     "view"    : ["jUj3x"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260726.0757,
+    "date"    : 202607260757,
     "finished": false
   },
   {
@@ -100,7 +100,7 @@
     "view"    : ["hWUCJ"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260718.1153,
+    "date"    : 202607181153,
     "finished": false
   },
   {
@@ -108,7 +108,7 @@
     "view"    : ["CSVMN", "1Duho"],
     "adults"  : 1,
     "hatch"   : 1,
-    "date"    : 20260726.0821,
+    "date"    : 202607260821,
     "finished": false
   },
   {
@@ -116,7 +116,7 @@
     "view"    : ["4brVl", "AXVSX"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260724.1756,
+    "date"    : 202607241756,
     "finished": false
   },
   {
@@ -124,7 +124,7 @@
     "view"    : ["7CN9X", "F8s9w", "0fp1c"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260610,
+    "date"    : 202606100000,
     "finished": false
   },
   {
@@ -132,7 +132,7 @@
     "view"    : ["KkIye", "ls3dG", "KTIWd"],
     "adults"  : 2,
     "hatch"   : 1,
-    "date"    : 20260726.0748,
+    "date"    : 202607260748,
     "finished": false
   },
   {
@@ -140,7 +140,7 @@
     "view"    : ["tJq8z"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260626,
+    "date"    : 202606260000,
     "finished": false
   },
   {
@@ -148,7 +148,7 @@
     "view"    : ["4hpyj", "2grLO", "pjGE1"],
     "adults"  : 2,
     "hatch"   : 1,
-    "date"    : 20260725.2122,
+    "date"    : 202607252122,
     "finished": false
   },
   {
@@ -156,7 +156,7 @@
     "view"    : ["qYqyU"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260722.0716,
+    "date"    : 202607220716,
     "finished": false
   },
   {
@@ -167,7 +167,7 @@
     ],
     "adults"  : 13,
     "hatch"   : 1,
-    "date"    : 20260724.1126,
+    "date"    : 202607241126,
     "finished": false
   },
   {
@@ -175,7 +175,7 @@
     "view"    : ["3x6bb", "xAmtO"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260724.0924,
+    "date"    : 202607240924,
     "finished": false
   },
   {
@@ -183,7 +183,7 @@
     "view"    : ["nj7cU"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260623,
+    "date"    : 202606230000,
     "finished": false
   },
   {
@@ -191,7 +191,7 @@
     "view"    : ["r5HjG", "2SQzP", "P3sIf", "HEuw0", "e5D3n", "cKhD4"],
     "adults"  : 6,
     "hatch"   : 0,
-    "date"    : 20260618,
+    "date"    : 202606180000,
     "finished": true
   },
   {
@@ -199,7 +199,7 @@
     "view"    : ["dI3Hf", "mGH4u", "1WiWL"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260722.0712,
+    "date"    : 202607220712,
     "finished": true
   },
   {
@@ -207,7 +207,7 @@
     "view"    : ["qZzsu", "DPAkt", "IIfXU"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260601,
+    "date"    : 202606010000,
     "finished": true
   },
   {
@@ -215,7 +215,7 @@
     "view"    : ["8uNNc", "wUEuM", "Y596p"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260605,
+    "date"    : 202606050000,
     "finished": true
   },
   {
@@ -223,7 +223,7 @@
     "view"    : ["loRFf", "9haer", "3ZWgz"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260701,
+    "date"    : 202607010000,
     "finished": true
   },
   {
@@ -231,7 +231,7 @@
     "view"    : ["WUMhA", "3Kp8e", "3Ouyy"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260602,
+    "date"    : 202606020000,
     "finished": true
   },
   {
@@ -239,7 +239,7 @@
     "view"    : ["7NryX", "jaDcR", "0IAIg"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260524,
+    "date"    : 202605240000,
     "finished": true
   },
   {
@@ -247,7 +247,7 @@
     "view"    : ["5vtLW", "q3PiL", "VcDtm"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260712.0711,
+    "date"    : 202607120711,
     "finished": true
   },
   {
@@ -258,7 +258,7 @@
     ],
     "adults"  : 9,
     "hatch"   : 0,
-    "date"    : 20260719.2228,
+    "date"    : 202607192228,
     "finished": true
   },
   {
@@ -266,7 +266,7 @@
     "view"    : ["sYh9W", "2JDND", "9ovoC"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260526,
+    "date"    : 202605260000,
     "finished": true
   },
   {
@@ -274,7 +274,7 @@
     "view"    : ["QJ0vb"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 20260529,
+    "date"    : 202605290000,
     "finished": true
   },
   {
@@ -282,7 +282,7 @@
     "view"    : ["XovTd", "frhlu", "BRcg5"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260611,
+    "date"    : 202606110000,
     "finished": true
   },
   {
@@ -290,7 +290,7 @@
     "view"    : ["nqX4v", "Wfo8K", "wN0Io"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260712.0910,
+    "date"    : 202607120910,
     "finished": true
   },
   {
@@ -298,7 +298,7 @@
     "view"    : ["YfLxN", "aKbg6", "B4wzF"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260617,
+    "date"    : 202606170000,
     "finished": true
   },
   {
@@ -306,7 +306,7 @@
     "view"    : ["PduIk", "Mzr7p", "BCtYG"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260622,
+    "date"    : 202606220000,
     "finished": true
   },
   {
@@ -314,7 +314,7 @@
     "view"    : ["jlPOW", "6qpZB", "aWDRa"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260526,
+    "date"    : 202605260000,
     "finished": true
   },
   {
@@ -322,7 +322,7 @@
     "view"    : ["4yPVY", "cwZuw", "NQy3c"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260610,
+    "date"    : 202606100000,
     "finished": true
   },
   {
@@ -330,7 +330,7 @@
     "view"    : ["zcYmY", "Rqz6H", "b3d8o"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260523,
+    "date"    : 202605230000,
     "finished": true
   },
   {
@@ -338,7 +338,7 @@
     "view"    : ["MP0ky", "n42QN"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 20260625,
+    "date"    : 202606250000,
     "finished": true
   },
   {
@@ -346,7 +346,7 @@
     "view"    : ["Gbbwu", "IwEOZ", "hPQWU"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260531,
+    "date"    : 202605310000,
     "finished": true
   },
   {
@@ -354,7 +354,7 @@
     "view"    : ["QpDm7", "Jchlj", "zlenE"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260705,
+    "date"    : 202607050000,
     "finished": true
   },
   {
@@ -362,7 +362,7 @@
     "view"    : ["18dCB", "KJerS", "7VkJ3"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260725.2231,
+    "date"    : 202607252231,
     "finished": true
   },
   {
@@ -370,7 +370,7 @@
     "view"    : ["hkVjs", "E1xsz", "TizfI"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260623,
+    "date"    : 202606230000,
     "finished": true
   },
   {
@@ -378,7 +378,7 @@
     "view"    : ["qZdKE", "Hg2J4", "tBHOl"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260705,
+    "date"    : 202607050000,
     "finished": true
   },
   {
@@ -386,7 +386,7 @@
     "view"    : ["YDcCw", "0l7K5", "y45IJ", "nV0Fc", "7hBNo", "DmKwq"],
     "adults"  : 6,
     "hatch"   : 0,
-    "date"    : 20260720.0856,
+    "date"    : 202607200856,
     "finished": true
   },
   {
@@ -394,7 +394,7 @@
     "view"    : ["iHJc8", "GVIVd", "XURgc"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260726.0902,
+    "date"    : 202607260902,
     "finished": true
   },
   {
@@ -402,7 +402,7 @@
     "view"    : ["lOhDj", "SWkjF", "z6O7C", "C1S2H", "SjNrR", "SPc1l"],
     "adults"  : 6,
     "hatch"   : 0,
-    "date"    : 20260713.1611,
+    "date"    : 202607131611,
     "finished": true
   },
   {
@@ -410,7 +410,7 @@
     "view"    : ["qyTkv", "RrvnZ", "K8hR4"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260721.0714,
+    "date"    : 202607210714,
     "finished": true
   },
   {
@@ -418,7 +418,7 @@
     "view"    : ["cRHFA", "F0xRe", "07Mbo"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260611,
+    "date"    : 202606110000,
     "finished": true
   },
   {
@@ -426,7 +426,7 @@
     "view"    : ["9difb", "3s8EV", "I15st"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260628,
+    "date"    : 202606280000,
     "finished": true
   },
   {
@@ -434,7 +434,7 @@
     "view"    : ["0OZkS", "aP6OO", "fSBO7"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260621,
+    "date"    : 202606210000,
     "finished": true
   },
   {
@@ -442,7 +442,7 @@
     "view"    : ["AlWtg", "bemjs", "GEjct"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260523,
+    "date"    : 202605230000,
     "finished": true
   },
   {
@@ -450,7 +450,7 @@
     "view"    : ["avdaG", "X4zm4", "eHE7D", "AmUPB", "Y5lp8"],
     "adults"  : 5,
     "hatch"   : 0,
-    "date"    : 20260716.2012,
+    "date"    : 202607162012,
     "finished": true
   },
   {
@@ -458,7 +458,7 @@
     "view"    : ["IL62o", "2OmFz", "59Oqp"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260721.2055,
+    "date"    : 202607212055,
     "finished": true
   },
   {
@@ -466,7 +466,7 @@
     "view"    : ["scqGD", "6fJ3J", "C4y4m"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260602,
+    "date"    : 202606020000,
     "finished": true
   },
   {
@@ -474,7 +474,7 @@
     "view"    : ["hdlZG", "dmcM5", "igQZh"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260611,
+    "date"    : 202606110000,
     "finished": true
   },
   {
@@ -482,7 +482,7 @@
     "view"    : ["BsGfE", "Qb4mK", "2Odso"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260524,
+    "date"    : 202605240000,
     "finished": true
   },
   {
@@ -490,7 +490,7 @@
     "view"    : ["LeLaf", "x6HAC", "3Yw0w"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260721.1304,
+    "date"    : 202607211304,
     "finished": true
   },
   {
@@ -498,7 +498,7 @@
     "view"    : ["dwXyL", "hDWez", "FIKTC", "AyFZe"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260724.0646,
+    "date"    : 202607240646,
     "finished": true
   },
   {
@@ -506,7 +506,7 @@
     "view"    : ["RDi4W", "Oknvh", "3VJIk"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 20260716.1320,
+    "date"    : 202607161320,
     "finished": true
   }
 ]

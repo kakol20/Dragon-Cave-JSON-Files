@@ -267,6 +267,12 @@
     "description" : "This golden egg is shiny and warm",
     "encyclopedia": "https://dragcave.net/dragonopedia/1785"
   },
+  "monarch"            : {
+    "name"        : ["Monarch Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1f4a8vr.gif"],
+    "description" : "This breed is unknown",
+    "encyclopedia": "https://dragcave.net/dragonopedia/169"
+  },
   "nebula"             : {
     "name"        : ["Nebula Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/n/nkcfft.gif"],

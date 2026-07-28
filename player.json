@@ -123,8 +123,8 @@
     "id"      : "pyrovar",
     "view"    : ["4brVl", "AXVSX"],
     "adults"  : 1,
-    "hatch"   : 0,
-    "date"    : 202607241756,
+    "hatch"   : 1,
+    "date"    : 202607272049,
     "finished": false
   },
   {
@@ -169,10 +169,10 @@
   },
   {
     "id"      : "storm_rider",
-    "view"    : ["qYqyU"],
+    "view"    : ["qYqyU", "0hL90"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 202607220716,
+    "date"    : 202607251058,
     "finished": false
   },
   {

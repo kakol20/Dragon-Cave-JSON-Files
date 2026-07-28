@@ -171,8 +171,8 @@
     "id"      : "storm_rider",
     "view"    : ["qYqyU", "0hL90"],
     "adults"  : 1,
-    "hatch"   : 0,
-    "date"    : 202607251058,
+    "hatch"   : 1,
+    "date"    : 202607281147,
     "finished": false
   },
   {

@@ -35,16 +35,16 @@
     "id"      : "black_tea",
     "view"    : ["BuRyK", "V0YBG", "tSs3e"],
     "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 202607242128,
+    "hatch"   : 2,
+    "date"    : 202607272315,
     "finished": false
   },
   {
     "id"      : "common",
     "view"    : ["cXNeC", "TdHtn", "bTSYN"],
     "adults"  : 1,
-    "hatch"   : 0,
-    "date"    : 202607242221,
+    "hatch"   : 2,
+    "date"    : 202607272358,
     "finished": false
   },
   {
@@ -99,16 +99,16 @@
     "id"      : "monarch",
     "view"    : ["8DWSN"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 202607242245,
+    "hatch"   : 1,
+    "date"    : 202607272346,
     "finished": false
   },
   {
     "id"      : "pink",
-    "view"    : ["hWUCJ"],
+    "view"    : ["hWUCJ", "lAeoK"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 202607181153,
+    "date"    : 202607251404,
     "finished": false
   },
   {

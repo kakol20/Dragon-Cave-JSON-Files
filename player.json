@@ -152,14 +152,6 @@
     "finished": false
   },
   {
-    "id"      : "seraph",
-    "view"    : ["4hpyj", "2grLO", "pjGE1"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 202607252122,
-    "finished": false
-  },
-  {
     "id"      : "stellarum",
     "view"    : ["aYiEA"],
     "adults"  : 0,
@@ -430,6 +422,14 @@
     "finished": true
   },
   {
+    "id"      : "seraph",
+    "view"    : ["4hpyj", "2grLO", "pjGE1"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202607282123,
+    "finished": true
+  },
+  {
     "id"      : "skystrider",
     "view"    : ["cRHFA", "F0xRe", "07Mbo"],
     "adults"  : 3,
@@ -526,3 +526,4 @@
     "finished": true
   }
 ]
+

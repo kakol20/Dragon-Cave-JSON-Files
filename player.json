@@ -114,9 +114,9 @@
   {
     "id"      : "purple",
     "view"    : ["CSVMN", "1Duho"],
-    "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 202607260821,
+    "adults"  : 2,
+    "hatch"   : 0,
+    "date"    : 202607290822,
     "finished": false
   },
   {
@@ -133,14 +133,6 @@
     "adults"  : 3,
     "hatch"   : 0,
     "date"    : 202606100000,
-    "finished": false
-  },
-  {
-    "id"      : "sapo",
-    "view"    : ["KkIye", "ls3dG", "KTIWd"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 202607260748,
     "finished": false
   },
   {
@@ -414,6 +406,14 @@
     "finished": true
   },
   {
+    "id"      : "sapo",
+    "view"    : ["KkIye", "ls3dG", "KTIWd"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202607290749,
+    "finished": true
+  },
+  {
     "id"      : "seasonal_summer",
     "view"    : ["qyTkv", "RrvnZ", "K8hR4"],
     "adults"  : 3,
@@ -526,4 +526,3 @@
     "finished": true
   }
 ]
-

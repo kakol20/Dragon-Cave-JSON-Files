@@ -1,34 +1,34 @@
 [
   {
     "id"      : "aspect_form",
-    "view"    : ["C2OUz", "U3DdM"],
+    "view"    : ["C2OUz", "U3DdM", "wM9X2"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607151221,
+    "date"    : 202607300659,
     "finished": false
   },
   {
     "id"      : "aspect_mana",
-    "view"    : ["b6sBq", "uLDEB"],
+    "view"    : ["b6sBq", "uLDEB", "93dhK"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607141418,
+    "date"    : 202607300657,
     "finished": false
   },
   {
     "id"      : "aspect_soul",
     "view"    : ["VosiN", "pYZ4H"],
-    "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 202607261947,
+    "adults"  : 2,
+    "hatch"   : 0,
+    "date"    : 202607300047,
     "finished": false
   },
   {
     "id"      : "avin",
-    "view"    : ["ddTDa", "r8dUA"],
+    "view"    : ["ddTDa", "r8dUA", "0tiGu"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607150125,
+    "date"    : 202607300720,
     "finished": false
   },
   {
@@ -65,18 +65,18 @@
   },
   {
     "id"      : "floret_iris",
-    "view"    : ["B2rS5", "B6WB4", "5ikSf"],
+    "view"    : ["B2rS5", "B6WB4", "5ikSf", "J6SvN"],
     "adults"  : 3,
     "hatch"   : 0,
-    "date"    : 202607211004,
+    "date"    : 202607300655,
     "finished": false
   },
   {
     "id"      : "gemshard",
     "view"    : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ"],
-    "adults"  : 5,
-    "hatch"   : 1,
-    "date"    : 202607270649,
+    "adults"  : 6,
+    "hatch"   : 0,
+    "date"    : 202607300651,
     "finished": false
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "id"      : "monarch",
-    "view"    : ["8DWSN"],
+    "view"    : ["8DWSN", "PBWc7"],
     "adults"  : 0,
     "hatch"   : 1,
-    "date"    : 202607272346,
+    "date"    : 202607300717,
     "finished": false
   },
   {
@@ -113,10 +113,10 @@
   },
   {
     "id"      : "purple",
-    "view"    : ["CSVMN", "1Duho"],
+    "view"    : ["CSVMN", "1Duho", "iJkOB"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607290822,
+    "date"    : 202607300702,
     "finished": false
   },
   {
@@ -514,7 +514,7 @@
     "view"    : ["dwXyL", "hDWez", "FIKTC", "AyFZe"],
     "adults"  : 3,
     "hatch"   : 1,
-    "date"    : 202607270504,
+    "date"    : 202607270704,
     "finished": true
   },
   {

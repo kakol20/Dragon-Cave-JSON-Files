@@ -90,9 +90,9 @@
   {
     "id"      : "pink",
     "view"    : ["hWUCJ", "lAeoK"],
-    "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 202607281705,
+    "adults"  : 2,
+    "hatch"   : 0,
+    "date"    : 202607311706,
     "finished": false
   },
   {

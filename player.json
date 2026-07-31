@@ -32,22 +32,6 @@
     "finished": false
   },
   {
-    "id"      : "black_tea",
-    "view"    : ["BuRyK", "V0YBG", "tSs3e"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 202607272315,
-    "finished": false
-  },
-  {
-    "id"      : "common",
-    "view"    : ["cXNeC", "TdHtn", "bTSYN"],
-    "adults"  : 1,
-    "hatch"   : 2,
-    "date"    : 202607272358,
-    "finished": false
-  },
-  {
     "id"      : "delta_small",
     "view"    : ["97vSI", "CGWe7", "nDHah", "ERhge"],
     "adults"  : 4,
@@ -122,9 +106,9 @@
   {
     "id"      : "pyrovar",
     "view"    : ["4brVl", "AXVSX"],
-    "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 202607272049,
+    "adults"  : 2,
+    "hatch"   : 0,
+    "date"    : 202607302053,
     "finished": false
   },
   {
@@ -224,6 +208,14 @@
     "finished": true
   },
   {
+    "id"      : "black_tea",
+    "view"    : ["BuRyK", "V0YBG", "tSs3e"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202607302316,
+    "finished": true
+  },
+  {
     "id"      : "blazeback",
     "view"    : ["7NryX", "jaDcR", "0IAIg"],
     "adults"  : 3,
@@ -248,6 +240,14 @@
     "adults"  : 9,
     "hatch"   : 0,
     "date"    : 202607192228,
+    "finished": true
+  },
+  {
+    "id"      : "common",
+    "view"    : ["cXNeC", "TdHtn", "bTSYN"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202607310000,
     "finished": true
   },
   {

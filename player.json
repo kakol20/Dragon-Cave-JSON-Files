@@ -82,8 +82,8 @@
   {
     "id"      : "monarch",
     "view"    : ["8DWSN", "PBWc7"],
-    "adults"  : 0,
-    "hatch"   : 1,
+    "adults"  : 1,
+    "hatch"   : 0,
     "date"    : 202607300717,
     "finished": false
   },

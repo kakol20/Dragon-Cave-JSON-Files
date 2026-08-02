@@ -3,16 +3,16 @@
     "id"      : "aspect_form",
     "view"    : ["C2OUz", "U3DdM", "wM9X2"],
     "adults"  : 2,
-    "hatch"   : 0,
-    "date"    : 202607300659,
+    "hatch"   : 1,
+    "date"    : 202608020937,
     "finished": false
   },
   {
     "id"      : "aspect_mana",
     "view"    : ["b6sBq", "uLDEB", "93dhK"],
     "adults"  : 2,
-    "hatch"   : 0,
-    "date"    : 202607300657,
+    "hatch"   : 1,
+    "date"    : 202608020939,
     "finished": false
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "id"      : "pyrovar",
-    "view"    : ["4brVl", "AXVSX"],
+    "view"    : ["4brVl", "AXVSX", "F0wHo"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607302053,
+    "date"    : 202607311040,
     "finished": false
   },
   {
@@ -145,10 +145,10 @@
   },
   {
     "id"      : "vespine",
-    "view"    : ["3x6bb", "xAmtO"],
+    "view"    : ["3x6bb", "xAmtO", "m2g4U"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607300941,
+    "date"    : 202607310441,
     "finished": false
   },
   {

@@ -87,6 +87,12 @@
     "description" : "This egg has a faintly exotic scent",
     "encyclopedia": "https://dragcave.net/dragonopedia/7"
   },
+  "black_teimarr"      : {
+    "name"        : ["Black Capped Teimarr Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/126st3y.png"],
+    "description" : "This egg has a black cap",
+    "encyclopedia": "https://dragcave.net/dragonopedia/110"
+  },
   "blazeback"          : {
     "name": ["Blazeback Dragon"],
     "img": ["https://s.dcave.net/cache/images/a/ar4nek.gif"],

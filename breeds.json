@@ -15,6 +15,12 @@
     "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
+  "aeria_gloris"       : {
+    "name": ["Aeria Gloris Dragon"],
+    "img": ["https://s.dcave.net/cache/images/1/1ie21s5.gif"],
+    "description": "This crystalline egg almost looks like you could reach into its depths",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1652"
+  },
   "alcedine"           : {
     "name"        : ["Alcedine Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/7/7k67sd.png"],

@@ -1,5 +1,13 @@
 [
   {
+    "id"      : "aeria_gloris",
+    "view"    : ["4MrIp"],
+    "adults"  : 0,
+    "hatch"   : 0,
+    "date"    : 202607310617,
+    "finished": false
+  },
+  {
     "id"      : "aspect_form",
     "view"    : ["C2OUz", "U3DdM", "wM9X2"],
     "adults"  : 2,
@@ -105,10 +113,10 @@
   },
   {
     "id"      : "pyrovar",
-    "view"    : ["4brVl", "AXVSX", "F0wHo"],
+    "view"    : ["4brVl", "AXVSX"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607311040,
+    "date"    : 2026073102053,
     "finished": false
   },
   {

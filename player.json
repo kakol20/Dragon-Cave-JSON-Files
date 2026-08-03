@@ -27,8 +27,8 @@
     "id"      : "aspect_soul",
     "view"    : ["VosiN", "pYZ4H", "WqvZ3"],
     "adults"  : 2,
-    "hatch"   : 0,
-    "date"    : 202607310432,
+    "hatch"   : 1,
+    "date"    : 202608031332,
     "finished": false
   },
   {
@@ -129,10 +129,10 @@
   },
   {
     "id"      : "pyrovar",
-    "view"    : ["4brVl", "AXVSX"],
+    "view"    : ["4brVl", "AXVSX", "3yygP"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202607310253,
+    "date"    : 202608011532,
     "finished": false
   },
   {

@@ -43,8 +43,16 @@
     "id"      : "black_teimarr",
     "view"    : ["o1fxp"],
     "adults"  : 0,
+    "hatch"   : 1,
+    "date"    : 202608022230,
+    "finished": false
+  },
+  {
+    "id"      : "bolt",
+    "view"    : ["uVQ7y"],
+    "adults"  : 0,
     "hatch"   : 0,
-    "date"    : 202607302149,
+    "date"    : 202608011810,
     "finished": false
   },
   {
@@ -116,7 +124,7 @@
     "view"    : ["4brVl", "AXVSX"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 2026073102053,
+    "date"    : 202607310253,
     "finished": false
   },
   {

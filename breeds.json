@@ -111,6 +111,12 @@
     "description" : "This egg has a striking pattern",
     "encyclopedia": "https://dragcave.net/dragonopedia/1588"
   },
+  "bright_breast"      : {
+    "name"        : ["Bright-Breasted Wyvern"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1v3lubc.png"],
+    "description" : "This egg is covered in speckles",
+    "encyclopedia": "https://dragcave.net/dragonopedia/14"
+  },
   "carmine"            : {
     "name"        : ["Carmine Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/o/ogoc0e.png"],
@@ -336,6 +342,12 @@
     "description" : "This glassy egg is too hot to hold with your bare hands",
     "encyclopedia": "https://dragcave.net/dragonopedia/183"
   },
+  "pyrrhichios"        : {
+    "name": ["Pyrrhichios Dragon"],
+    "img": ["https://s.dcave.net/cache/images/v/vk927h.gif"],
+    "description": "When you tap on this shell, the hatchling inside taps back",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1718"
+  },
   "ridgewing"          : {
     "name"        : ["Ridgewing Dragon Purple", "Ridgewing Dragon Tan"],
     "img"         : [
@@ -380,6 +392,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1bj3alj.webp"],
     "description" : "This heavy egg is enveloped in thick, sturdy plates",
     "encyclopedia": "https://dragcave.net/dragonopedia/1804"
+  },
+  "speckle_throat"     : {
+    "name"        : ["Speckle-Throated Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/c/czhm4n.gif"],
+    "description" : "This egg has a rough—yet shiny—shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/99"
   },
   "spitfire"           : {
     "name"        : ["Spitfire Dragon"],
@@ -473,6 +491,12 @@
     "img"         : ["https://s.dcave.net/cache/images/a/aqbfpm.gif"],
     "description" : "This egg is sitting in a shallow puddle",
     "encyclopedia": "https://dragcave.net/dragonopedia/63"
+  },
+  "waterhorse"         : {
+    "name"        : ["Waterhorse Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/l/l0wsu0.gif"],
+    "description" : "This egg is slimy and blue",
+    "encyclopedia": "https://dragcave.net/dragonopedia/127"
   },
   "white"              : {
     "name": ["White Dragon"],

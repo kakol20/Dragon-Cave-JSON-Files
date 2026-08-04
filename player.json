@@ -131,8 +131,8 @@
     "id"      : "pyrovar",
     "view"    : ["4brVl", "AXVSX", "3yygP"],
     "adults"  : 2,
-    "hatch"   : 0,
-    "date"    : 202608011532,
+    "hatch"   : 1,
+    "date"    : 202608041517,
     "finished": false
   },
   {

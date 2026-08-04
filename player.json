@@ -51,16 +51,16 @@
     "id"      : "bolt",
     "view"    : ["uVQ7y"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 202608011810,
+    "hatch"   : 1,
+    "date"    : 202608041908,
     "finished": false
   },
   {
     "id"      : "bright_breast",
     "view"    : ["RsWOb"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 202608012116,
+    "hatch"   : 1,
+    "date"    : 202608042037,
     "finished": false
   },
   {
@@ -139,8 +139,8 @@
     "id"      : "pyrrhichios",
     "view"    : ["xQc6w"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 202608011933,
+    "hatch"   : 1,
+    "date"    : 202608041937,
     "finished": false
   },
   {
@@ -163,8 +163,8 @@
     "id"      : "speckle_throat",
     "view"    : ["c0Wfo"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 202608012012,
+    "hatch"   : 1,
+    "date"    : 202608041929,
     "finished": false
   },
   {
@@ -203,8 +203,8 @@
     "id"      : "waterhorse",
     "view"    : ["mLYOV"],
     "adults"  : 0,
-    "hatch"   : 0,
-    "date"    : 202608012120,
+    "hatch"   : 1,
+    "date"    : 202608042025,
     "finished": false
   },
   {

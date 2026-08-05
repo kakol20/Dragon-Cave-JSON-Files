@@ -32,14 +32,6 @@
     "finished": false
   },
   {
-    "id"      : "avin",
-    "view"    : ["ddTDa", "r8dUA", "0tiGu"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 202608020721,
-    "finished": false
-  },
-  {
     "id"      : "black_teimarr",
     "view"    : ["o1fxp"],
     "adults"  : 0,
@@ -74,9 +66,9 @@
   {
     "id"      : "floret_iris",
     "view"    : ["B2rS5", "B6WB4", "5ikSf", "J6SvN"],
-    "adults"  : 3,
-    "hatch"   : 1,
-    "date"    : 202608020657,
+    "adults"  : 4,
+    "hatch"   : 0,
+    "date"    : 202608050659,
     "finished": false
   },
   {
@@ -106,9 +98,9 @@
   {
     "id"      : "monarch",
     "view"    : ["8DWSN", "PBWc7"],
-    "adults"  : 1,
-    "hatch"   : 1,
-    "date"    : 202608020720,
+    "adults"  : 2,
+    "hatch"   : 0,
+    "date"    : 202608050726,
     "finished": false
   },
   {
@@ -117,14 +109,6 @@
     "adults"  : 2,
     "hatch"   : 1,
     "date"    : 202608030856,
-    "finished": false
-  },
-  {
-    "id"      : "purple",
-    "view"    : ["CSVMN", "1Duho", "iJkOB"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 202608020707,
     "finished": false
   },
   {
@@ -245,6 +229,14 @@
     "adults"  : 3,
     "hatch"   : 0,
     "date"    : 202607010000,
+    "finished": true
+  },
+  {
+    "id"      : "avin",
+    "view"    : ["ddTDa", "r8dUA", "0tiGu"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202608050725,
     "finished": true
   },
   {
@@ -448,6 +440,14 @@
     "adults"  : 6,
     "hatch"   : 0,
     "date"    : 202607131611,
+    "finished": true
+  },
+  {
+    "id"      : "purple",
+    "view"    : ["CSVMN", "1Duho", "iJkOB"],
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202608050708,
     "finished": true
   },
   {

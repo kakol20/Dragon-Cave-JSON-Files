@@ -87,17 +87,17 @@
     "description" : "This egg has a faint green glow around it",
     "encyclopedia": "https://dragcave.net/dragonopedia/6"
   },
+  "black_capped"       : {
+    "name"        : ["Black Capped Teimarr Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/126st3y.png"],
+    "description" : "This egg has a black cap",
+    "encyclopedia": "https://dragcave.net/dragonopedia/110"
+  },
   "black_tea"          : {
     "name"        : ["Black Tea Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/9/9qkqyr.png"],
     "description" : "This egg has a faintly exotic scent",
     "encyclopedia": "https://dragcave.net/dragonopedia/7"
-  },
-  "black_teimarr"      : {
-    "name"        : ["Black Capped Teimarr Dragon"],
-    "img"         : ["https://s.dcave.net/cache/images/1/126st3y.png"],
-    "description" : "This egg has a black cap",
-    "encyclopedia": "https://dragcave.net/dragonopedia/110"
   },
   "blazeback"          : {
     "name": ["Blazeback Dragon"],
@@ -254,6 +254,15 @@
     "img"         : ["https://s.dcave.net/cache/images/j/jno5sl.gif"],
     "description" : "This egg is sitting in a pile of small pebbles",
     "encyclopedia": "https://dragcave.net/dragonopedia/48"
+  },
+  "haimatos"           : {
+    "name"        : ["Haimatos Dragon (Erythro)", "Haimatos Dragon (Leuco)"],
+    "img"         : [
+      "https://s.dcave.net/cache/images/1/1s37xys.webp",
+      "https://s.dcave.net/cache/images/8/8itcaf.gif"
+    ],
+    "description" : "This blood-red egg has a jelly-like texture",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1796"
   },
   "hellfire"           : {
     "name"        : ["Hellfire Wyvern"],
@@ -453,11 +462,23 @@
     "description": "A small puddle of condensation has collected under this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/971"
   },
+  "sunrise"            : {
+    "name"        : ["Sunrise Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/b/b2389p.png"],
+    "description" : "This egg is glowing as brightly as the sun",
+    "encyclopedia": "https://dragcave.net/dragonopedia/104"
+  },
   "sunstone"           : {
     "name"        : ["Sunstone Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1fjh196.gif"],
     "description" : "This egg resembles a glowing stone",
     "encyclopedia": "https://dragcave.net/dragonopedia/107"
+  },
+  "swallowtail"        : {
+    "name"        : ["Swallowtail Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1o3eo1k.gif"],
+    "description" : "This egg has a very thin shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/108"
   },
   "thousand_wish"      : {
     "name": ["Thousand Wish Dragon"],

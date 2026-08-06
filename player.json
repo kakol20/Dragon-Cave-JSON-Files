@@ -16,11 +16,11 @@
     "finished": false
   },
   {
-    "id"      : "black_teimarr",
+    "id"      : "black_capped",
     "view"    : ["o1fxp"],
-    "adults"  : 0,
-    "hatch"   : 1,
-    "date"    : 202608022230,
+    "adults"  : 1,
+    "hatch"   : 0,
+    "date"    : 202608060025,
     "finished": false
   },
   {
@@ -72,19 +72,27 @@
     "finished": false
   },
   {
+    "id"      : "haimatos",
+    "view"    : ["9rK7N"],
+    "adults"  : 0,
+    "hatch"   : 0,
+    "date"    : 202608060101,
+    "finished": false
+  },
+  {
     "id"      : "lalopias",
-    "view"    : ["jUj3x"],
+    "view"    : ["jUj3x", "oBQEK"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 202607260757,
+    "date"    : 202608060123,
     "finished": false
   },
   {
     "id"      : "monarch",
-    "view"    : ["8DWSN", "PBWc7"],
+    "view"    : ["8DWSN", "PBWc7", "hoszu"],
     "adults"  : 2,
     "hatch"   : 0,
-    "date"    : 202608050726,
+    "date"    : 202608060051,
     "finished": false
   },
   {
@@ -137,10 +145,10 @@
   },
   {
     "id"      : "stellarum",
-    "view"    : ["aYiEA"],
+    "view"    : ["aYiEA", "LhYFD"],
     "adults"  : 1,
     "hatch"   : 0,
-    "date"    : 202607310839,
+    "date"    : 202608060121,
     "finished": false
   },
   {
@@ -149,6 +157,22 @@
     "adults"  : 2,
     "hatch"   : 0,
     "date"    : 202607311149,
+    "finished": false
+  },
+  {
+    "id"      : "sunrise",
+    "view"    : ["D8ITk"],
+    "adults"  : 0,
+    "hatch"   : 0,
+    "date"    : 202608060113,
+    "finished": false
+  },
+  {
+    "id"      : "swallowtail",
+    "view"    : ["ovTy2"],
+    "adults"  : 0,
+    "hatch"   : 0,
+    "date"    : 202608060056,
     "finished": false
   },
   {

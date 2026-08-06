@@ -178,9 +178,9 @@
   {
     "id"      : "vespine",
     "view"    : ["3x6bb", "xAmtO", "m2g4U"],
-    "adults"  : 2,
-    "hatch"   : 1,
-    "date"    : 202608030910,
+    "adults"  : 3,
+    "hatch"   : 0,
+    "date"    : 202608060910,
     "finished": false
   },
   {
@@ -592,9 +592,9 @@
   {
     "id"      : "white",
     "view"    : ["dwXyL", "hDWez", "FIKTC", "AyFZe", "wmWCZ"],
-    "adults"  : 4,
-    "hatch"   : 1,
-    "date"    : 202608030815,
+    "adults"  : 5,
+    "hatch"   : 0,
+    "date"    : 202608060815,
     "finished": true
   },
   {

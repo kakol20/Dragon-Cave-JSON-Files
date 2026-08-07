@@ -291,6 +291,14 @@
     "done"  : true
   },
   {
+    "id"    : "pyrovar",
+    "view"  : ["4brVl", "AXVSX", "3yygP"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202608071519,
+    "done"  : true
+  },
+  {
     "id"    : "sapo",
     "view"  : ["KkIye", "ls3dG", "KTIWd"],
     "adults": 3,

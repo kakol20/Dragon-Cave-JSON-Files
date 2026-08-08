@@ -26,9 +26,9 @@
   {
     "id"    : "bright_breast",
     "view"  : ["RsWOb"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202608042037,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202608072037,
     "done"  : false
   },
   {
@@ -170,9 +170,9 @@
   {
     "id"    : "waterhorse",
     "view"  : ["mLYOV"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202608042025,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202608072026,
     "done"  : false
   }
 ]

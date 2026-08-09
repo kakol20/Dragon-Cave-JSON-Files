@@ -307,7 +307,7 @@
     "done"  : true
   },
   {
-    "id"    : "seasonal_summer",
+    "id"    : "season_summer",
     "view"  : ["qyTkv", "RrvnZ", "K8hR4"],
     "adults": 3,
     "hatch" : 0,

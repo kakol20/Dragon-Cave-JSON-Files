@@ -64,7 +64,7 @@
     "done"  : false
   },
   {
-    "id"    : "floret_alstroemeria",
+    "id"    : "floret_alstro",
     "view"  : ["4Vnm0", "xj3Kw"],
     "adults": 1,
     "hatch" : 0,
@@ -75,8 +75,8 @@
     "id"    : "floret_iris",
     "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN"],
     "adults": 4,
-    "hatch" : 0,
-    "date"  : 202608050659,
+    "hatch" : 1,
+    "date"  : 202608091928,
     "done"  : false
   },
   {
@@ -115,8 +115,8 @@
     "id"    : "mistlet",
     "view"  : ["7kRmK"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608062359,
+    "hatch" : 1,
+    "date"  : 202608091935,
     "done"  : false
   },
   {
@@ -160,7 +160,7 @@
     "done"  : false
   },
   {
-    "id"    : "seasonal_spring",
+    "id"    : "season_spring",
     "view"  : ["tJq8z"],
     "adults": 1,
     "hatch" : 0,

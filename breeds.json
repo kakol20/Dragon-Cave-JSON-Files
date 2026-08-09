@@ -57,6 +57,12 @@
     "description" : "The vibrant scales on this egg glisten in the sunlight",
     "encyclopedia": "https://dragcave.net/dragonopedia/1662"
   },
+  "asio"               : {
+    "name"        : ["Asio Wyvern"],
+    "img"         : ["https://s.dcave.net/cache/images/1/19sjhhm.webp"],
+    "description" : "This creepy-looking egg looks distinctly like bone",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1793"
+  },
   "aspect_form"        : {
     "name"        : ["Aspect of Form"],
     "img"         : ["https://s.dcave.net/cache/images/n/n7q4fc.webp"],
@@ -122,6 +128,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1v3lubc.png"],
     "description" : "This egg is covered in speckles",
     "encyclopedia": "https://dragcave.net/dragonopedia/14"
+  },
+  "brumous"            : {
+    "name"        : ["Brumous Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/192t0hy.gif"],
+    "description" : "This egg’s glittering shell sometimes gets lost in fog",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1767"
   },
   "carmine"            : {
     "name"        : ["Carmine Wyvern"],
@@ -299,6 +311,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/10l0egj.gif"],
     "description" : "This egg looks like cooled lava",
     "encyclopedia": "https://dragcave.net/dragonopedia/1752"
+  },
+  "mistlet"            : {
+    "name"        : ["Mistlet Pygmy"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1febem0.gif"],
+    "description" : "This tiny egg is mysterious and dark",
+    "encyclopedia": "https://dragcave.net/dragonopedia/84"
   },
   "miufu"              : {
     "name"        : ["Miufu Dragon"],

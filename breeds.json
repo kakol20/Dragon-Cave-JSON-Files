@@ -29,7 +29,7 @@
   },
   "algarre"            : {
     "name"        : ["Algarre Dragon"],
-    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "img"         : ["https://s.dcave.net/cache/images/r/rn0bo8.gif"],
     "description" : "This dull mottled egg blends into the surrounding algae",
     "encyclopedia": "https://dragcave.net/dragonopedia/1711"
   },
@@ -44,6 +44,12 @@
     "img"         : ["https://s.dcave.net/cache/images/q/q6r6p3.gif"],
     "description" : "This egg is surrounded by mysterious, reflective dust",
     "encyclopedia": "https://dragcave.net/dragonopedia/175"
+  },
+  "aqualis"            : {
+    "name"        : ["Aqualis Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1squtwi.gif"],
+    "description" : "This drab egg rests far from the water’s edge",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1643"
   },
   "aranoa"             : {
     "name"        : ["Aranoa Dragon"],
@@ -338,6 +344,12 @@
     "img"         : ["https://s.dcave.net/cache/images/m/mg0129.gif"],
     "description" : "It's bright. And pink",
     "encyclopedia": "https://dragcave.net/dragonopedia/79"
+  },
+  "prismanic"          : {
+    "name"        : ["Prismanic Amphiptere"],
+    "img"         : ["https://s.dcave.net/cache/images/v/vbwww.webp"],
+    "description" : "This prismatic egg smolders slightly",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1795"
   },
   "purple"             : {
     "name"        : ["Purple Dragon"],

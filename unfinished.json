@@ -8,6 +8,22 @@
     "done"  : false
   },
   {
+    "id"    : "algarre",
+    "view"  : ["s68Mr"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608052359,
+    "done"  : false
+  },
+  {
+    "id"    : "aqualis",
+    "view"  : ["92oEe"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608052359,
+    "done"  : false
+  },
+  {
     "id"    : "black_capped",
     "view"  : ["o1fxp"],
     "adults": 1,
@@ -17,10 +33,10 @@
   },
   {
     "id"    : "bolt",
-    "view"  : ["uVQ7y"],
+    "view"  : ["uVQ7y", "SRgl9"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608072000,
+    "date"  : 202608052359,
     "done"  : false
   },
   {
@@ -67,24 +83,40 @@
     "id"    : "haimatos",
     "view"  : ["9rK7N"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608060101,
+    "hatch" : 1,
+    "date"  : 202608090103,
     "done"  : false
   },
   {
     "id"    : "lalopias",
     "view"  : ["jUj3x", "oBQEK"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608060123,
+    "hatch" : 1,
+    "date"  : 202608090125,
     "done"  : false
   },
   {
     "id"    : "monarch",
     "view"  : ["8DWSN", "PBWc7", "hoszu"],
     "adults": 2,
+    "hatch" : 1,
+    "date"  : 202608090053,
+    "done"  : false
+  },
+  {
+    "id"    : "nebula",
+    "view"  : ["JRGlc"],
+    "adults": 0,
     "hatch" : 0,
-    "date"  : 202608060051,
+    "date"  : 202608052359,
+    "done"  : false
+  },
+  {
+    "id"    : "prismanic",
+    "view"  : ["HzbBv"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608052359,
     "done"  : false
   },
   {
@@ -113,18 +145,18 @@
   },
   {
     "id"    : "speckle_throat",
-    "view"  : ["c0Wfo"],
+    "view"  : ["c0Wfo", "L0xcJ"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608071930,
+    "date"  : 202608052359,
     "done"  : false
   },
   {
     "id"    : "stellarum",
     "view"  : ["aYiEA", "LhYFD"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608060121,
+    "hatch" : 1,
+    "date"  : 202608090124,
     "done"  : false
   },
   {
@@ -139,16 +171,16 @@
     "id"    : "sunrise",
     "view"  : ["D8ITk"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608060113,
+    "hatch" : 1,
+    "date"  : 202608090601,
     "done"  : false
   },
   {
     "id"    : "swallowtail",
     "view"  : ["ovTy2"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608060056,
+    "hatch" : 1,
+    "date"  : 202608090056,
     "done"  : false
   },
   {

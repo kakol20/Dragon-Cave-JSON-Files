@@ -27,8 +27,8 @@
     "id"    : "asio",
     "view"  : ["zNooJ"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608062359,
+    "hatch" : 1,
+    "date"  : 202608092024,
     "done"  : false
   },
   {
@@ -59,24 +59,24 @@
     "id"    : "brumous",
     "view"  : ["1J8Ez"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608062359,
+    "hatch" : 1,
+    "date"  : 202608092001,
     "done"  : false
   },
   {
     "id"    : "floret_alstro",
     "view"  : ["4Vnm0", "xj3Kw"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608062359,
+    "hatch" : 1,
+    "date"  : 202608091928,
     "done"  : false
   },
   {
     "id"    : "floret_iris",
     "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN"],
     "adults": 4,
-    "hatch" : 1,
-    "date"  : 202608091928,
+    "hatch" : 0,
+    "date"  : 202608050659,
     "done"  : false
   },
   {

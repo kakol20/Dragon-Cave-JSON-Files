@@ -33,10 +33,10 @@
   },
   {
     "id"    : "black_capped",
-    "view"  : ["o1fxp"],
+    "view"  : ["o1fxp", "TcIIb"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608060025,
+    "date"  : 202608130631,
     "done"  : false
   },
   {
@@ -105,10 +105,10 @@
   },
   {
     "id"    : "lalopias",
-    "view"  : ["jUj3x", "oBQEK"],
+    "view"  : ["jUj3x", "oBQEK", "yVErJ"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202608120127,
+    "date"  : 202608130609,
     "done"  : false
   },
   {
@@ -129,10 +129,10 @@
   },
   {
     "id"    : "prismanic",
-    "view"  : ["HzbBv"],
+    "view"  : ["HzbBv", "1NEeq"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608121312,
+    "date"  : 202608130622,
     "done"  : false
   },
   {
@@ -161,10 +161,10 @@
   },
   {
     "id"    : "speckle_throat",
-    "view"  : ["c0Wfo", "L0xcJ"],
+    "view"  : ["c0Wfo", "L0xcJ", "fLRSq"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202608121312,
+    "date"  : 202608130620,
     "done"  : false
   },
   {
@@ -177,10 +177,10 @@
   },
   {
     "id"    : "storm_rider",
-    "view"  : ["qYqyU", "0hL90"],
+    "view"  : ["qYqyU", "0hL90", "ioXxA"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202607311149,
+    "date"  : 202608130613,
     "done"  : false
   },
   {

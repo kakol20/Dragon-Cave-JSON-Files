@@ -424,9 +424,9 @@
   {
     "id"    : "white",
     "view"  : ["dwXyL", "hDWez", "FIKTC", "AyFZe", "wmWCZ", "PWTOn"],
-    "adults": 5,
-    "hatch" : 1,
-    "date"  : 202608092015,
+    "adults": 6,
+    "hatch" : 0,
+    "date"  : 202608122015,
     "done"  : true
   },
   {

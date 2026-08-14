@@ -83,8 +83,8 @@
     "id"    : "gemshard",
     "view"  : ["WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta"],
     "adults": 6,
-    "hatch" : 0,
-    "date"  : 202608110047,
+    "hatch" : 1,
+    "date"  : 202608140048,
     "done"  : false
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "id"    : "haimatos",
-    "view"  : ["9rK7N"],
+    "view"  : ["9rK7N", "AikUe"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608120107,
+    "date"  : 202608140656,
     "done"  : false
   },
   {

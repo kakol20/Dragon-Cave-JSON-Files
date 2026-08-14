@@ -152,6 +152,14 @@
     "done"  : false
   },
   {
+    "id"    : "scourgekeeper",
+    "view"  : ["s9pON"],
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202608141153,
+    "done"  : false
+  },
+  {
     "id"    : "season_spring",
     "view"  : ["tJq8z"],
     "adults": 1,

@@ -402,6 +402,12 @@
     "description" : "This egg's shell is slippery and clean",
     "encyclopedia": "https://dragcave.net/dragonopedia/1682"
   },
+  "scourgekeeper" : {
+    "name"        : ["Scourgekeeper Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "description" : "You feel a clawing dread the closer you get to this egg",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1719"
+  },
   "season_spring" : {
     "name"        : ["Seasonal Dragon (Spring)"],
     "img"         : ["https://s.dcave.net/cache/images/t/t814qi.gif"],

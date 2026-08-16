@@ -35,8 +35,8 @@
     "id"    : "black_capped",
     "view"  : ["o1fxp", "TcIIb"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608130631,
+    "hatch" : 1,
+    "date"  : 202608160633,
     "done"  : false
   },
   {
@@ -107,8 +107,8 @@
     "id"    : "lalopias",
     "view"  : ["jUj3x", "oBQEK", "yVErJ"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202608130609,
+    "hatch" : 1,
+    "date"  : 202608160612,
     "done"  : false
   },
   {
@@ -131,8 +131,8 @@
     "id"    : "prismanic",
     "view"  : ["HzbBv", "1NEeq"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608130622,
+    "hatch" : 1,
+    "date"  : 202608160623,
     "done"  : false
   },
   {
@@ -149,6 +149,22 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202606100000,
+    "done"  : false
+  },
+  {
+    "id"    : "royal_blue",
+    "view"  : ["eJlwl"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608131703,
+    "done"  : false
+  },
+  {
+    "id"    : "royal_crimson",
+    "view"  : ["ss6G3"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608131704,
     "done"  : false
   },
   {
@@ -171,8 +187,8 @@
     "id"    : "speckle_throat",
     "view"  : ["c0Wfo", "L0xcJ", "fLRSq"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202608130620,
+    "hatch" : 1,
+    "date"  : 202608160622,
     "done"  : false
   },
   {
@@ -187,8 +203,8 @@
     "id"    : "storm_rider",
     "view"  : ["qYqyU", "0hL90", "ioXxA"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202608130613,
+    "hatch" : 1,
+    "date"  : 202608160615,
     "done"  : false
   },
   {
@@ -200,11 +216,19 @@
     "done"  : false
   },
   {
+    "id"    : "sunsong",
+    "view"  : ["dHiFq"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608131458,
+    "done"  : false
+  },
+  {
     "id"    : "swallowtail",
-    "view"  : ["ovTy2"],
+    "view"  : ["ovTy2", "LxxsZ"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608120057,
+    "date"  : 202608131653,
     "done"  : false
   },
   {
@@ -225,10 +249,10 @@
   },
   {
     "id"    : "waterhorse",
-    "view"  : ["mLYOV"],
+    "view"  : ["mLYOV", "WYCti"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608072026,
+    "date"  : 202608131452,
     "done"  : false
   }
 ]

@@ -387,6 +387,12 @@
     "description": "When you tap on this shell, the hatchling inside taps back",
     "encyclopedia": "https://dragcave.net/dragonopedia/1718"
   },
+  "red"           : {
+    "name"        : ["Red Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1y92kny.gif"],
+    "description" : "This egg is rather warm",
+    "encyclopedia": "https://dragcave.net/dragonopedia/89"
+  },
   "ridgewing"     : {
     "name"        : ["Ridgewing Dragon Purple", "Ridgewing Dragon Tan"],
     "img"         : [

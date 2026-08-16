@@ -1,4 +1,10 @@
 {
+  "@hatch"        : {
+    "name"        : ["Unknown Breed"],
+    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "description" : "This egg's breed is dependent on its hatchling",
+    "encyclopedia": "https://dragcave.net/dragonopedia/0"
+  },
   "@new_1"        : {
     "name": ["2026-07-19 - July Dragon Release - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
@@ -80,6 +86,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1g1t1py.webp"],
     "description" : "This warm egg emanates an otherworldly aura",
     "encyclopedia": "https://dragcave.net/dragonopedia/1803"
+  },
+  "astaarus"      : {
+    "name"        : ["Astaarus Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/3/3slup5.png"],
+    "description" : "This egg reminds you of the night sky",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1666"
   },
   "avarice"       : {
     "name"        : ["Avarice Dragon"],
@@ -260,6 +272,12 @@
     "img"         : ["https://s.dcave.net/cache/images/z/zb0ha3.png"],
     "description" : "This egg is encrusted with colorful gemstones",
     "encyclopedia": "https://dragcave.net/dragonopedia/972"
+  },
+  "gloomstalker"  : {
+    "name"        : ["Gloomstalker Pygmy"],
+    "img"         : ["https://s.dcave.net/cache/images/1/17n3d0v.gif"],
+    "description" : "This tiny egg is cold and clammy",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1776"
   },
   "golden"        : {
     "name"        : ["Golden Wyvern"],

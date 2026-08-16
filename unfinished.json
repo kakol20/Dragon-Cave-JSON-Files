@@ -1,5 +1,13 @@
 [
   {
+    "id"    : "@hatch",
+    "view"  : ["PIAde"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608141453,
+    "done"  : false
+  },
+  {
     "id"    : "aeria_gloris",
     "view"  : ["4MrIp", "itBUl"],
     "adults": 1,
@@ -29,6 +37,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608122024,
+    "done"  : false
+  },
+  {
+    "id"    : "astaarus",
+    "view"  : ["DuVh0"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608141428,
     "done"  : false
   },
   {
@@ -85,6 +101,14 @@
     "adults": 6,
     "hatch" : 1,
     "date"  : 202608140048,
+    "done"  : false
+  },
+  {
+    "id"    : "gloomstalker",
+    "view"  : ["VTp4n"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202608141223,
     "done"  : false
   },
   {
@@ -163,16 +187,16 @@
     "id"    : "royal_blue",
     "view"  : ["eJlwl"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608131703,
+    "hatch" : 1,
+    "date"  : 202608161847,
     "done"  : false
   },
   {
     "id"    : "royal_crimson",
     "view"  : ["ss6G3"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608131704,
+    "hatch" : 1,
+    "date"  : 202608161814,
     "done"  : false
   },
   {
@@ -235,8 +259,8 @@
     "id"    : "swallowtail",
     "view"  : ["ovTy2", "LxxsZ"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608131653,
+    "hatch" : 1,
+    "date"  : 202608161802,
     "done"  : false
   },
   {

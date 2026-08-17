@@ -171,8 +171,8 @@
     "id"    : "red",
     "view"  : ["ZRhXo"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608141004,
+    "hatch" : 1,
+    "date"  : 202608171122,
     "done"  : false
   },
   {

@@ -43,8 +43,8 @@
     "id"    : "astaarus",
     "view"  : ["DuVh0"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608141428,
+    "hatch" : 1,
+    "date"  : 202608171448,
     "done"  : false
   },
   {
@@ -107,8 +107,8 @@
     "id"    : "gloomstalker",
     "view"  : ["VTp4n"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608141223,
+    "hatch" : 1,
+    "date"  : 202608171411,
     "done"  : false
   },
   {

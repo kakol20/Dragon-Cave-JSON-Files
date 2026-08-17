@@ -540,6 +540,12 @@
     "description" : "This egg is glowing as brightly as the sun",
     "encyclopedia": "https://dragcave.net/dragonopedia/104"
   },
+  "sunset"        : {
+    "name"        : ["Sunset Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/b/b2389p.png"],
+    "description" : "This egg is glowing as brightly as the sun",
+    "encyclopedia": "https://dragcave.net/dragonopedia/105"
+  },
   "sunsong"       : {
     "name"        : ["Sunsong Amphiptere"],
     "img"         : ["https://s.dcave.net/cache/images/l/l3s2h0.png"],

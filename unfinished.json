@@ -51,8 +51,8 @@
     "id"    : "bolt",
     "view"  : ["uVQ7y", "SRgl9", "ULOfu"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202608150608,
+    "hatch" : 1,
+    "date"  : 202608180652,
     "done"  : false
   },
   {

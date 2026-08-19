@@ -446,6 +446,14 @@
     "done"  : true
   },
   {
+    "id"    : "waterhorse",
+    "view"  : ["mLYOV", "WYCti"],
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202608191700,
+    "done"  : true
+  },
+  {
     "id"    : "white",
     "view"  : ["dwXyL", "hDWez", "FIKTC", "AyFZe", "wmWCZ", "PWTOn"],
     "adults": 6,

@@ -254,13 +254,5 @@
     "hatch" : 0,
     "date"  : 202606230000,
     "done"  : false
-  },
-  {
-    "id"    : "waterhorse",
-    "view"  : ["mLYOV", "WYCti"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202608161658,
-    "done"  : false
   }
 ]

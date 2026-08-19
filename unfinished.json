@@ -170,17 +170,17 @@
   {
     "id"    : "royal_blue",
     "view"  : ["eJlwl"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202608161847,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202608191848,
     "done"  : false
   },
   {
     "id"    : "royal_crimson",
     "view"  : ["ss6G3"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202608161814,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202608191815,
     "done"  : false
   },
   {
@@ -234,9 +234,9 @@
   {
     "id"    : "swallowtail",
     "view"  : ["ovTy2", "LxxsZ"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202608161802,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202608191804,
     "done"  : false
   },
   {

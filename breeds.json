@@ -147,6 +147,12 @@
     "description" : "This egg’s glittering shell sometimes gets lost in fog",
     "encyclopedia": "https://dragcave.net/dragonopedia/1767"
   },
+  "carina"        : {
+    "name"        : ["Carina Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/e/ed0ab2.gif"],
+    "description" : "This egg shimmers with dazzling constellations",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1618"
+  },
   "carmine"       : {
     "name"        : ["Carmine Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/o/ogoc0e.png"],
@@ -330,6 +336,12 @@
     "description" : "This egg looks like cooled lava",
     "encyclopedia": "https://dragcave.net/dragonopedia/1752"
   },
+  "magi"          : {
+    "name"        : ["Magi Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/o/oq9bcw.gif"],
+    "description" : "This egg has an orange aura radiating from it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/66"
+  },
   "mistlet"       : {
     "name"        : ["Mistlet Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/1/1febem0.gif"],
@@ -415,7 +427,7 @@
     "name"        : ["Ridgewing Dragon Purple", "Ridgewing Dragon Tan"],
     "img"         : [
       "https://s.dcave.net/cache/images/1/18zixzn.gif",
-      "https://s.dcave.net/cache/images/8/8itcaf.gif"
+      "https://s.dcave.net/cache/images/1/1x4yjyt.gif"
     ],
     "description" : "A cool mountain breeze blows around this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/90"
@@ -575,6 +587,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1xqv2oz.png"],
     "description" : "This egg smells strongly of turpentine",
     "encyclopedia": "https://dragcave.net/dragonopedia/116"
+  },
+  "ultraviolet"   : {
+    "name": ["Ultraviolet Dragon"],
+    "img": ["https://s.dcave.net/cache/images/1/1cm76ii.gif"],
+    "description": "This egg is very warm, as if it has been sitting out in strong sunlight",
+    "encyclopedia": "https://dragcave.net/dragonopedia/118"
   },
   "vespine"       : {
     "name"        : ["Vespine Drake (Yellow)", "Vespine Drake (White)"],

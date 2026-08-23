@@ -17,10 +17,10 @@
   },
   {
     "id"    : "aqualis",
-    "view"  : ["92oEe"],
+    "view"  : ["92oEe", "W2OWg"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608121308,
+    "date"  : 202608201955,
     "done"  : false
   },
   {
@@ -43,8 +43,8 @@
     "id"    : "black_capped",
     "view"  : ["o1fxp", "TcIIb", "KIvnY"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202608200703,
+    "hatch" : 1,
+    "date"  : 202608230703,
     "done"  : false
   },
   {
@@ -67,8 +67,8 @@
     "id"    : "carina",
     "view"  : ["fwhn4"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608200637,
+    "hatch" : 1,
+    "date"  : 202608230639,
     "done"  : false
   },
   {
@@ -81,10 +81,10 @@
   },
   {
     "id"    : "floret_iris",
-    "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN"],
+    "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN", "wpA3t"],
     "adults": 4,
     "hatch" : 0,
-    "date"  : 202608050659,
+    "date"  : 202608202201,
     "done"  : false
   },
   {
@@ -115,18 +115,18 @@
   },
   {
     "id"    : "haimatos",
-    "view"  : ["9rK7N", "AikUe"],
+    "view"  : ["9rK7N", "AikUe", "9Icdv"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202608200657,
+    "date"  : 202608202205,
     "done"  : false
   },
   {
     "id"    : "magi",
     "view"  : ["td3Ay"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608200646,
+    "hatch" : 1,
+    "date"  : 202608230647,
     "done"  : false
   },
   {
@@ -173,8 +173,8 @@
     "id"    : "ridgewing",
     "view"  : ["7CN9X", "F8s9w", "0fp1c", "Fkm3m"],
     "adults": 3,
-    "hatch" : 0,
-    "date"  : 202608100632,
+    "hatch" : 1,
+    "date"  : 202608230632,
     "done"  : false
   },
   {
@@ -187,10 +187,10 @@
   },
   {
     "id"    : "royal_crimson",
-    "view"  : ["ss6G3"],
+    "view"  : ["ss6G3", "dxba7"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608191815,
+    "date"  : 202608201654,
     "done"  : false
   },
   {
@@ -235,10 +235,10 @@
   },
   {
     "id"    : "sunsong",
-    "view"  : ["dHiFq"],
+    "view"  : ["dHiFq", "IiMp2"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608191746,
+    "date"  : 202608201752,
     "done"  : false
   },
   {
@@ -253,8 +253,8 @@
     "id"    : "ultraviolet",
     "view"  : ["NiyGc"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202608200656,
+    "hatch" : 1,
+    "date"  : 202608230658,
     "done"  : false
   },
   {

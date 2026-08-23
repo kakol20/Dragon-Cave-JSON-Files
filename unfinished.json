@@ -1,10 +1,10 @@
 [
   {
     "id"    : "aeria_gloris",
-    "view"  : ["4MrIp", "itBUl"],
+    "view"  : ["4MrIp", "itBUl", "hne0H"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202608201313,
+    "date"  : 202608211321,
     "done"  : false
   },
   {
@@ -189,8 +189,8 @@
     "id"    : "royal_crimson",
     "view"  : ["ss6G3", "dxba7"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608201654,
+    "hatch" : 1,
+    "date"  : 202608231745,
     "done"  : false
   },
   {

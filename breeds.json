@@ -165,6 +165,12 @@
     "description": "This egg's slick shell is covered in lustrous, vibrant scales",
     "encyclopedia": "https://dragcave.net/dragonopedia/973"
   },
+  "coastal"       : {
+    "name"        : ["Coastal Waverunner"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1lpo475.gif"],
+    "description" : "This egg reminds you of the sea",
+    "encyclopedia": "https://dragcave.net/dragonopedia/28"
+  },
   "common"        : {
     "name"        : ["Common Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/l/l3zjvc.gif"],

@@ -195,6 +195,15 @@
     "description" : "This egg shines like a diamond",
     "encyclopedia": "https://dragcave.net/dragonopedia/173"
   },
+  "dorsal"        : {
+    "name"        : ["Dorsal Dragon (Purple)", "Dorsal Dragon (Red)"],
+    "img"         : [
+      "https://s.dcave.net/cache/images/8/8fl0uq.png",
+      "https://s.dcave.net/cache/images/f/fvtk91.png"
+    ],
+    "description" : "This egg has multiple bands of color on it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/34"
+  },
   "duotone"       : {
     "name"        : ["Duotone Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1gupqg2.png"],

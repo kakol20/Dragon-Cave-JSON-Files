@@ -3,16 +3,16 @@
     "id"    : "aeria_gloris",
     "view"  : ["4MrIp", "itBUl", "hne0H"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202608211321,
+    "hatch" : 1,
+    "date"  : 202608241254,
     "done"  : false
   },
   {
     "id"    : "algarre",
     "view"  : ["s68Mr", "VzTXu"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608211230,
+    "hatch" : 1,
+    "date"  : 202608241209,
     "done"  : false
   },
   {
@@ -203,10 +203,10 @@
   },
   {
     "id"    : "royal_blue",
-    "view"  : ["eJlwl"],
+    "view"  : ["eJlwl", "RfBfr"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608191848,
+    "date"  : 202608220210,
     "done"  : false
   },
   {

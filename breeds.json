@@ -318,6 +318,12 @@
     "description" : "This egg sits atop a pile of smoldering ash",
     "encyclopedia": "https://dragcave.net/dragonopedia/1797"
   },
+  "jester"        : {
+    "name"        : ["Jester Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1huk2po.png"],
+    "description" : "This egg has a checkered shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1679"
+  },
   "kintsugi"      : {
     "name": ["Kintsugi Dragon"],
     "img": ["https://s.dcave.net/cache/images/1/1shircg.webp"],

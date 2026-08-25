@@ -109,8 +109,8 @@
       "WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta", "fsJwO"
     ],
     "adults": 7,
-    "hatch" : 0,
-    "date"  : 202608220436,
+    "hatch" : 1,
+    "date"  : 202608250440,
     "done"  : false
   },
   {
@@ -205,8 +205,8 @@
     "id"    : "royal_blue",
     "view"  : ["eJlwl", "RfBfr"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202608220210,
+    "hatch" : 1,
+    "date"  : 202608250754,
     "done"  : false
   },
   {

@@ -66,9 +66,9 @@
   {
     "id"    : "coastal",
     "view"  : ["oBmJT"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202608240915,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202608270916,
     "done"  : false
   },
   {

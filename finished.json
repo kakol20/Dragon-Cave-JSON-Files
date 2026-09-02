@@ -323,6 +323,14 @@
     "done"  : true
   },
   {
+    "id"    : "prismanic",
+    "view"  : ["HzbBv", "1NEeq", "cV70A"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609020628,
+    "done"  : true
+  },
+  {
     "id"    : "purple",
     "view"  : ["CSVMN", "1Duho", "iJkOB"],
     "adults": 3,
@@ -395,6 +403,14 @@
     "done"  : true
   },
   {
+    "id"    : "stellarum",
+    "view"  : ["aYiEA", "LhYFD", "kGHfU"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609020622,
+    "done"  : true
+  },
+  {
     "id"    : "storm",
     "view"  : ["AlWtg", "bemjs", "GEjct"],
     "adults": 3,
@@ -443,6 +459,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202606020000,
+    "done"  : true
+  },
+  {
+    "id"    : "swallowtail",
+    "view"  : ["ovTy2", "LxxsZ", "9dq83"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609020633,
     "done"  : true
   },
   {

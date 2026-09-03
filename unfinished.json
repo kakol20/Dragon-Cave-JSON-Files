@@ -1,5 +1,13 @@
 [
   {
+    "id"    : "@hatch",
+    "view"  : ["AHsE3"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609030620,
+    "done"  : false
+  },
+  {
     "id"    : "@new_1",
     "view"  : ["RfqWq", "bbBUK", "IGZNW"],
     "adults": 0,
@@ -106,11 +114,20 @@
   {
     "id"    : "gemshard",
     "view"  : [
-      "WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta", "fsJwO"
+      "WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta", "fsJwO",
+      "mlmt3"
     ],
     "adults": 8,
     "hatch" : 0,
-    "date"  : 202608280441,
+    "date"  : 202609030559,
+    "done"  : false
+  },
+  {
+    "id"    : "geode",
+    "view"  : ["5njlM"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609030606,
     "done"  : false
   },
   {
@@ -131,10 +148,10 @@
   },
   {
     "id"    : "haimatos",
-    "view"  : ["9rK7N", "AikUe", "9Icdv"],
+    "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1"],
     "adults": 3,
     "hatch" : 0,
-    "date"  : 202608262336,
+    "date"  : 202609030602,
     "done"  : false
   },
   {
@@ -179,10 +196,10 @@
   },
   {
     "id"    : "red",
-    "view"  : ["ZRhXo"],
+    "view"  : ["ZRhXo", "RLE8E"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608201129,
+    "date"  : 202609030603,
     "done"  : false
   },
   {
@@ -223,6 +240,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202606260000,
+    "done"  : false
+  },
+  {
+    "id"    : "shallow_water",
+    "view"  : ["KLnBk"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609030610,
     "done"  : false
   },
   {

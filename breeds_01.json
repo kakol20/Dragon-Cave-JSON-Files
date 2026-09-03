@@ -1,14 +1,4 @@
 {
-  "#notes"        : [
-    "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
-    "JSON Editor: https://jsoneditoronline.org/"
-  ],
-  "@hatch"        : {
-    "name"        : ["Unknown Breed"],
-    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description" : "This egg's breed is dependent on its hatchling",
-    "encyclopedia": "https://dragcave.net/dragonopedia/0"
-  },
   "@new_1"        : {
     "name": ["2026-08-29 - August Dragon Release - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
@@ -20,12 +10,6 @@
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description": "This odorous egg is sitting in a pile of seaweed",
     "encyclopedia": "https://forums.dragcave.net/topic/195740-2026-08-29-august-dragon-release/"
-  },
-  "_template"     : {
-    "name"        : ["Unknown Breed"],
-    "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description" : "This breed is unknown",
-    "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
   "aeria_gloris"  : {
     "name": ["Aeria Gloris Dragon"],
@@ -299,6 +283,12 @@
     "img"         : ["https://s.dcave.net/cache/images/z/zb0ha3.png"],
     "description" : "This egg is encrusted with colorful gemstones",
     "encyclopedia": "https://dragcave.net/dragonopedia/972"
+  },
+  "geode"         : {
+    "name": ["Geode Dragon"],
+    "img": ["https://s.dcave.net/cache/images/1/1uyx6ez.gif"],
+    "description": "This egg is heavy and rough, as if it were made out of rock",
+    "encyclopedia": "https://dragcave.net/dragonopedia/43"
   },
   "gloomstalker"  : {
     "name"        : ["Gloomstalker Pygmy"],

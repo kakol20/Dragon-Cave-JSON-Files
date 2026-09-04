@@ -8,22 +8,6 @@
     "done"  : false
   },
   {
-    "id"    : "@new_1",
-    "view"  : ["RfqWq", "bbBUK", "IGZNW"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202609020730,
-    "done"  : false
-  },
-  {
-    "id"    : "@new_2",
-    "view"  : ["TrwTj", "RzKrh", "KnjpS"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202609020736,
-    "done"  : false
-  },
-  {
     "id"    : "algarre",
     "view"  : ["s68Mr", "VzTXu", "ank9l"],
     "adults": 2,
@@ -77,6 +61,14 @@
     "adults": 2,
     "hatch" : 0,
     "date"  : 202609020633,
+    "done"  : false
+  },
+  {
+    "id"    : "coal",
+    "view"  : ["RfqWq", "bbBUK", "IGZNW"],
+    "adults": 0,
+    "hatch" : 3,
+    "date"  : 202609020730,
     "done"  : false
   },
   {
@@ -240,6 +232,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202606260000,
+    "done"  : false
+  },
+  {
+    "id"    : "seaweed",
+    "view"  : ["TrwTj", "RzKrh", "KnjpS"],
+    "adults": 0,
+    "hatch" : 3,
+    "date"  : 202609020736,
     "done"  : false
   },
   {

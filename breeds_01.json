@@ -1,16 +1,4 @@
 {
-  "@new_1"        : {
-    "name": ["2026-08-29 - August Dragon Release - Breed #1"],
-    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description": "It’s...a pile of coal? When you move a piece, the rest follow",
-    "encyclopedia": "https://forums.dragcave.net/topic/195740-2026-08-29-august-dragon-release/"
-  },
-  "@new_2"        : {
-    "name": ["2026-08-29 - August Dragon Release - Breed #2"],
-    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description": "This odorous egg is sitting in a pile of seaweed",
-    "encyclopedia": "https://forums.dragcave.net/topic/195740-2026-08-29-august-dragon-release/"
-  },
   "aeria_gloris"  : {
     "name": ["Aeria Gloris Dragon"],
     "img": ["https://s.dcave.net/cache/images/1/1ie21s5.gif"],
@@ -154,6 +142,12 @@
     "img": ["https://s.dcave.net/cache/images/n/niaryz.png"],
     "description": "This egg's slick shell is covered in lustrous, vibrant scales",
     "encyclopedia": "https://dragcave.net/dragonopedia/973"
+  },
+  "coal"          : {
+    "name": ["Coal Wyrm"],
+    "img": ["https://s.dcave.net/cache/images/1/1jbzgjp.webp"],
+    "description": "It’s...a pile of coal? When you move a piece, the rest follow",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1808"
   },
   "coastal"       : {
     "name"        : ["Coastal Waverunner"],
@@ -484,6 +478,12 @@
     "img"         : ["https://s.dcave.net/cache/images/z/zwj4e6.png"],
     "description" : "The markings on this egg match the weather outside",
     "encyclopedia": "https://dragcave.net/dragonopedia/1078"
+  },
+  "seaweed"       : {
+    "name"        : ["Seaweed Drake"],
+    "img"         : ["https://s.dcave.net/cache/images/z/zmvu0f.gif"],
+    "description" : "This odorous egg is sitting in a pile of seaweed",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1809"
   },
   "seraph"        : {
     "name"        : ["Seraph Dragon"],

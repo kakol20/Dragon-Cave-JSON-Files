@@ -20,19 +20,24 @@
     "sort": 2
   },
   {
+    "text": "Garden Of Eden",
+    "src" : "https://chazza.me/dc/hatchery/",
+    "sort": 3
+  },
+  {
     "text": "Egg Identification Guide",
     "src" : "https://dragcave.fandom.com/wiki/Egg/Identification_guide",
-    "sort": 3
+    "sort": 4
   },
   {
     "text": "Shuffle Clock",
     "src" : "https://dc-shuffle-clock.vercel.app/",
-    "sort": 4
+    "sort": 5
   },
   {
     "text": "Dragon Cave Records",
     "src" : "https://dcrecords.tj09.net/",
-    "sort": 4
+    "sort": 5
   },
   {
     "text": "Dragon Encyclopedia Sheet",

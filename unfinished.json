@@ -64,14 +64,6 @@
     "done"  : false
   },
   {
-    "id"    : "coal",
-    "view"  : ["RfqWq", "bbBUK", "IGZNW"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202609020730,
-    "done"  : false
-  },
-  {
     "id"    : "coastal",
     "view"  : ["oBmJT"],
     "adults": 1,
@@ -232,14 +224,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202606260000,
-    "done"  : false
-  },
-  {
-    "id"    : "seaweed",
-    "view"  : ["TrwTj", "RzKrh", "KnjpS"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202609020736,
     "done"  : false
   },
   {

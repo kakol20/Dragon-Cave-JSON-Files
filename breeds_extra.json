@@ -20,5 +20,17 @@
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
+  },
+  "cassare"  : {
+    "name"        : ["Cassare Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1uwygva.gif"],
+    "description" : "This egg makes you feel a bit uneasy",
+    "encyclopedia": "https://dragcave.net/dragonopedia/141"
+  },
+  "script"   : {
+    "name"        : ["Script Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/19vqfx5.gif"],
+    "description" : "This egg is covered in mysterious patterns",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1616"
   }
 }

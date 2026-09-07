@@ -9,10 +9,10 @@
   },
   {
     "id"    : "asio",
-    "view"  : ["zNooJ", "dcLPk"],
+    "view"  : ["zNooJ", "dcLPk", "rla8c"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609020619,
+    "date"  : 202609050846,
     "done"  : false
   },
   {
@@ -48,6 +48,14 @@
     "done"  : false
   },
   {
+    "id"    : "cassare",
+    "view"  : ["R8Xg0"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609051336,
+    "done"  : false
+  },
+  {
     "id"    : "coastal",
     "view"  : ["oBmJT", "oL91v"],
     "adults": 1,
@@ -76,7 +84,7 @@
     "view"  : ["4Vnm0", "xj3Kw", "q1lzU"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609040007,
+    "date"  : 202609042307,
     "done"  : false
   },
   {
@@ -164,18 +172,18 @@
   },
   {
     "id"    : "nebula",
-    "view"  : ["JRGlc"],
+    "view"  : ["JRGlc", "yx8xo"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608121353,
+    "date"  : 202609051619,
     "done"  : false
   },
   {
     "id"    : "pyrrhichios",
     "view"  : ["xQc6w", "TqXIu"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202609040724,
+    "hatch" : 1,
+    "date"  : 202609070612,
     "done"  : false
   },
   {
@@ -198,8 +206,8 @@
     "id"    : "royal_crimson",
     "view"  : ["ss6G3", "dxba7", "FbtwN"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609032314,
+    "hatch" : 1,
+    "date"  : 202609062209,
     "done"  : false
   },
   {
@@ -208,6 +216,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608141153,
+    "done"  : false
+  },
+  {
+    "id"    : "script",
+    "view"  : ["X0qz5"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609051545,
     "done"  : false
   },
   {
@@ -246,8 +262,8 @@
     "id"    : "sunsong",
     "view"  : ["dHiFq", "IiMp2", "pOUdH"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609032359,
+    "hatch" : 1,
+    "date"  : 202609062245,
     "done"  : false
   },
   {
@@ -278,8 +294,8 @@
     "id"    : "waterhorse",
     "view"  : ["mLYOV", "WYCti", "l54nX"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609032312,
+    "hatch" : 1,
+    "date"  : 202609062206,
     "done"  : false
   }
 ]

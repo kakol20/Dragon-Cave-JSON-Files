@@ -212,20 +212,6 @@
     "description" : "This egg is really hot",
     "encyclopedia": "https://dragcave.net/dragonopedia/37"
   },
-  "fire_gem"      : {
-    "name": [
-      "Fire Gem Dragon Red",
-      "Fire Gem Dragon Green",
-      "Fire Gem Dragon Blue"
-    ],
-    "img": [
-      "https://s.dcave.net/cache/images/8/8itcaf.gif",
-      "https://s.dcave.net/cache/images/8/8itcaf.gif",
-      "https://s.dcave.net/cache/images/8/8itcaf.gif"
-    ],
-    "description": "This rough egg has shimmering veins of crystal running across its surface",
-    "encyclopedia": "https://dragcave.net/dragonopedia/1606"
-  },
   "flamingo"      : {
     "name"        : ["Flamingo Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/z/zlrspw.gif"],
@@ -490,6 +476,12 @@
     "img"         : ["https://s.dcave.net/cache/images/6/6fo32p.png"],
     "description" : "This egg is covered in soft, downy feathers",
     "encyclopedia": "https://dragcave.net/dragonopedia/1763"
+  },
+  "shallow_water" : {
+    "name"        : ["Shallow Water Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/f/fz7jii.gif"],
+    "description" : "This egg appears to be covered in scales",
+    "encyclopedia": "https://dragcave.net/dragonopedia/46"
   },
   "skystrider"    : {
     "name"        : ["Skystrider Dragon"],

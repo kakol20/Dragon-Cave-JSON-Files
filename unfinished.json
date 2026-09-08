@@ -11,8 +11,8 @@
     "id"    : "asio",
     "view"  : ["zNooJ", "dcLPk", "rla8c"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609050846,
+    "hatch" : 1,
+    "date"  : 202609080700,
     "done"  : false
   },
   {
@@ -83,8 +83,8 @@
     "id"    : "floret_alstro",
     "view"  : ["4Vnm0", "xj3Kw", "q1lzU"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609042307,
+    "hatch" : 1,
+    "date"  : 202609072248,
     "done"  : false
   },
   {

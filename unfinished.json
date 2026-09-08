@@ -174,8 +174,8 @@
     "id"    : "nebula",
     "view"  : ["JRGlc", "yx8xo"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202609051619,
+    "hatch" : 1,
+    "date"  : 202609081420,
     "done"  : false
   },
   {
@@ -222,8 +222,8 @@
     "id"    : "script",
     "view"  : ["X0qz5"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202609051545,
+    "hatch" : 1,
+    "date"  : 202609081410,
     "done"  : false
   },
   {

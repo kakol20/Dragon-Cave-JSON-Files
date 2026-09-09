@@ -1,13 +1,5 @@
 [
   {
-    "id"    : "aqualis",
-    "view"  : ["92oEe", "W2OWg", "RVLRN"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609061649,
-    "done"  : false
-  },
-  {
     "id"    : "asio",
     "view"  : ["zNooJ", "dcLPk", "rla8c"],
     "adults": 2,
@@ -58,9 +50,9 @@
   {
     "id"    : "coastal",
     "view"  : ["oBmJT", "oL91v"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609061650,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609091651,
     "done"  : false
   },
   {

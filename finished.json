@@ -40,6 +40,14 @@
     "done"  : true
   },
   {
+    "id"    : "aqualis",
+    "view"  : ["92oEe", "W2OWg", "RVLRN"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609091649,
+    "done"  : true
+  },
+  {
     "id"    : "aranoa",
     "view"  : ["8uNNc", "wUEuM", "Y596p"],
     "adults": 3,

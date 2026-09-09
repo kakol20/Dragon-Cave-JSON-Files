@@ -99,19 +99,19 @@
     "id"    : "gemshard",
     "view"  : [
       "WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta", "fsJwO",
-      "mlmt3"
+      "mlmt3", "XtyUB"
     ],
-    "adults": 8,
-    "hatch" : 1,
-    "date"  : 202609060600,
+    "adults": 9,
+    "hatch" : 0,
+    "date"  : 202609090619,
     "done"  : false
   },
   {
     "id"    : "geode",
     "view"  : ["5njlM"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609060606,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609090607,
     "done"  : false
   },
   {
@@ -141,9 +141,9 @@
   {
     "id"    : "haimatos",
     "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1"],
-    "adults": 3,
-    "hatch" : 1,
-    "date"  : 202609060602,
+    "adults": 4,
+    "hatch" : 0,
+    "date"  : 202609090603,
     "done"  : false
   },
   {
@@ -189,9 +189,9 @@
   {
     "id"    : "red",
     "view"  : ["ZRhXo", "RLE8E"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609060604,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609090604,
     "done"  : false
   },
   {
@@ -237,17 +237,17 @@
   {
     "id"    : "shallow_water",
     "view"  : ["KLnBk"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609060611,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609090612,
     "done"  : false
   },
   {
     "id"    : "sunrise",
     "view"  : ["D8ITk", "AHsE3"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609060620,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609090620,
     "done"  : false
   },
   {

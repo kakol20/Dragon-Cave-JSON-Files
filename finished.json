@@ -363,6 +363,14 @@
     "done"  : true
   },
   {
+    "id"    : "royal_crimson",
+    "view"  : ["ss6G3", "dxba7", "FbtwN"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609092310,
+    "done"  : true
+  },
+  {
     "id"    : "sapo",
     "view"  : ["KkIye", "ls3dG", "KTIWd"],
     "adults": 3,
@@ -478,6 +486,14 @@
     "done"  : true
   },
   {
+    "id"    : "sunsong",
+    "view"  : ["dHiFq", "IiMp2", "pOUdH"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609092346,
+    "done"  : true
+  },
+  {
     "id"    : "sunstone",
     "view"  : ["scqGD", "6fJ3J", "C4y4m"],
     "adults": 3,
@@ -515,6 +531,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607211304,
+    "done"  : true
+  },
+  {
+    "id"    : "waterhorse",
+    "view"  : ["mLYOV", "WYCti", "l54nX"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609092306,
     "done"  : true
   },
   {

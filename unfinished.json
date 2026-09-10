@@ -65,10 +65,10 @@
   },
   {
     "id"    : "dorsal",
-    "view"  : ["Li91g", "xwWyN"],
+    "view"  : ["Li91g", "xwWyN", "IgMHW"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609051056,
+    "date"  : 202609100659,
     "done"  : false
   },
   {
@@ -116,10 +116,10 @@
   },
   {
     "id"    : "golden",
-    "view"  : ["sknbk", "eKMTm"],
+    "view"  : ["sknbk", "eKMTm", "k2Vgb"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202607222146,
+    "date"  : 202609100656,
     "done"  : false
   },
   {
@@ -173,17 +173,17 @@
   {
     "id"    : "pyrrhichios",
     "view"  : ["xQc6w", "TqXIu"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609070612,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609100613,
     "done"  : false
   },
   {
     "id"    : "red",
-    "view"  : ["ZRhXo", "RLE8E"],
+    "view"  : ["ZRhXo", "RLE8E", "DmI42"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609090604,
+    "date"  : 202609100701,
     "done"  : false
   },
   {
@@ -192,14 +192,6 @@
     "adults": 5,
     "hatch" : 0,
     "date"  : 202609051106,
-    "done"  : false
-  },
-  {
-    "id"    : "royal_crimson",
-    "view"  : ["ss6G3", "dxba7", "FbtwN"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609062209,
     "done"  : false
   },
   {
@@ -251,19 +243,11 @@
     "done"  : false
   },
   {
-    "id"    : "sunsong",
-    "view"  : ["dHiFq", "IiMp2", "pOUdH"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609062245,
-    "done"  : false
-  },
-  {
     "id"    : "ultraviolet",
-    "view"  : ["NiyGc", "Vk3LO"],
+    "view"  : ["NiyGc", "Vk3LO", "BsYFw"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609020621,
+    "date"  : 202609100657,
     "done"  : false
   },
   {
@@ -276,18 +260,10 @@
   },
   {
     "id"    : "warden",
-    "view"  : ["nj7cU"],
+    "view"  : ["nj7cU", "GAn6d"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202606230000,
-    "done"  : false
-  },
-  {
-    "id"    : "waterhorse",
-    "view"  : ["mLYOV", "WYCti", "l54nX"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609062206,
+    "date"  : 202609100652,
     "done"  : false
   }
 ]

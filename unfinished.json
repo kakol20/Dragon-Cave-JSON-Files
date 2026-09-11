@@ -1,13 +1,5 @@
 [
   {
-    "id"    : "asio",
-    "view"  : ["zNooJ", "dcLPk", "rla8c"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609080700,
-    "done"  : false
-  },
-  {
     "id"    : "astaarus",
     "view"  : ["DuVh0"],
     "adults": 1,

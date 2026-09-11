@@ -34,9 +34,9 @@
   {
     "id"    : "cassare",
     "view"  : ["R8Xg0"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609081230,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609111231,
     "done"  : false
   },
   {
@@ -157,9 +157,9 @@
   {
     "id"    : "nebula",
     "view"  : ["JRGlc", "yx8xo"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609081420,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609111422,
     "done"  : false
   },
   {
@@ -197,9 +197,9 @@
   {
     "id"    : "script",
     "view"  : ["X0qz5"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609081410,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609111411,
     "done"  : false
   },
   {

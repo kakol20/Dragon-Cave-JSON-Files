@@ -39,6 +39,12 @@
     "description" : "This tiny, dark egg fills you with existential dread",
     "encyclopedia": "https://dragcave.net/dragonopedia/1655"
   },
+  "moonstone"  : {
+    "name"        : ["Moonstone Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/176zxdw.gif"],
+    "description" : "This egg resembles a glowing stone",
+    "encyclopedia": "https://dragcave.net/dragonopedia/69"
+  },
   "script"     : {
     "name"        : ["Script Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/19vqfx5.gif"],
@@ -51,10 +57,28 @@
     "description": "This dark egg has bright flecks that almost seem to move as they catch the light",
     "encyclopedia": "https://dragcave.net/dragonopedia/1738"
   },
+  "tetra"      : {
+    "name"        : ["Tetra Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/2/2m22tz.gif"],
+    "description" : "This egg has faint markings",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1605"
+  },
+  "tideweaver" : {
+    "name": ["Tideweaver Lindwyrm"],
+    "img": ["https://s.dcave.net/cache/images/t/tzebeg.gif"],
+    "description": "This egg has vivid red stripes, reminiscent of waves and flames at once",
+    "encyclopedia": "https://dragcave.net/dragonopedia/113"
+  },
   "tri_horn"   : {
     "name"        : ["Tri-Horn Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/9/9md81r.png"],
     "description" : "This brown egg is covered in intricate designs",
     "encyclopedia": "https://dragcave.net/dragonopedia/114"
+  },
+  "vremya"     : {
+    "name"        : ["Vremya Drake"],
+    "img"         : ["https://s.dcave.net/cache/images/b/bkmcme.gif"],
+    "description" : "This smooth green egg looks vaguely familiar",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1653"
   }
 }

@@ -1,36 +1,60 @@
 {
-  "#notes"   : [
+  "#notes"     : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
     "JSON Editor: https://jsoneditoronline.org/"
   ],
-  "@hatch"   : {
+  "@hatch"     : {
     "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This egg's breed is dependent on its hatchling",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "@new_#"   : {
+  "@new_#"     : {
     "name": ["2026-08-29 - August Dragon Release - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description": "It’s...a pile of coal? When you move a piece, the rest follow",
     "encyclopedia": "https://forums.dragcave.net/topic/195740-2026-08-29-august-dragon-release/"
   },
-  "_template": {
+  "_template"  : {
     "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "cassare"  : {
+  "cassare"    : {
     "name"        : ["Cassare Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1uwygva.gif"],
     "description" : "This egg makes you feel a bit uneasy",
     "encyclopedia": "https://dragcave.net/dragonopedia/141"
   },
-  "script"   : {
+  "horse"      : {
+    "name"        : ["Horse Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/g/g884ay.png"],
+    "description" : "This egg has strange markings on it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/60"
+  },
+  "kovos"      : {
+    "name"        : ["Kovos Pygmy"],
+    "img"         : ["https://s.dcave.net/cache/images/l/lgvlm2.png"],
+    "description" : "This tiny, dark egg fills you with existential dread",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1655"
+  },
+  "script"     : {
     "name"        : ["Script Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/19vqfx5.gif"],
     "description" : "This egg is covered in mysterious patterns",
     "encyclopedia": "https://dragcave.net/dragonopedia/1616"
+  },
+  "silvershade": {
+    "name": ["Silvershade Wyvern"],
+    "img": ["https://s.dcave.net/cache/images/1/1aln1t6.gif"],
+    "description": "This dark egg has bright flecks that almost seem to move as they catch the light",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1738"
+  },
+  "tri_horn"   : {
+    "name"        : ["Tri-Horn Wyvern"],
+    "img"         : ["https://s.dcave.net/cache/images/9/9md81r.png"],
+    "description" : "This brown egg is covered in intricate designs",
+    "encyclopedia": "https://dragcave.net/dragonopedia/114"
   }
 }

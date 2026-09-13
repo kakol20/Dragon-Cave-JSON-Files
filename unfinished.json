@@ -33,10 +33,10 @@
   },
   {
     "id"    : "cassare",
-    "view"  : ["R8Xg0"],
+    "view"  : ["R8Xg0", "TLrqZ"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609111231,
+    "date"  : 202609101559,
     "done"  : false
   },
   {
@@ -59,8 +59,8 @@
     "id"    : "dorsal",
     "view"  : ["Li91g", "xwWyN", "IgMHW"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609100659,
+    "hatch" : 1,
+    "date"  : 202609130659,
     "done"  : false
   },
   {
@@ -110,8 +110,8 @@
     "id"    : "golden",
     "view"  : ["sknbk", "eKMTm", "k2Vgb"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609100656,
+    "hatch" : 1,
+    "date"  : 202609130657,
     "done"  : false
   },
   {
@@ -131,11 +131,27 @@
     "done"  : false
   },
   {
+    "id"    : "horse",
+    "view"  : ["O5I5G"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609101559,
+    "done"  : false
+  },
+  {
     "id"    : "jester",
     "view"  : ["WjaA4"],
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608271908,
+    "done"  : false
+  },
+  {
+    "id"    : "kovos",
+    "view"  : ["KiIBb"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609101559,
     "done"  : false
   },
   {
@@ -174,8 +190,8 @@
     "id"    : "red",
     "view"  : ["ZRhXo", "RLE8E", "DmI42"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609100701,
+    "hatch" : 1,
+    "date"  : 202609130701,
     "done"  : false
   },
   {
@@ -196,10 +212,10 @@
   },
   {
     "id"    : "script",
-    "view"  : ["X0qz5"],
+    "view"  : ["X0qz5", "sr0v9"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609111411,
+    "date"  : 202609101559,
     "done"  : false
   },
   {
@@ -219,6 +235,14 @@
     "done"  : false
   },
   {
+    "id"    : "silvershade",
+    "view"  : ["4TO6b"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609101259,
+    "done"  : false
+  },
+  {
     "id"    : "sunrise",
     "view"  : ["D8ITk", "AHsE3"],
     "adults": 2,
@@ -235,11 +259,19 @@
     "done"  : false
   },
   {
+    "id"    : "tri_horn",
+    "view"  : ["UF1FL"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609101559,
+    "done"  : false
+  },
+  {
     "id"    : "ultraviolet",
     "view"  : ["NiyGc", "Vk3LO", "BsYFw"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609100657,
+    "hatch" : 1,
+    "date"  : 202609130658,
     "done"  : false
   },
   {
@@ -254,8 +286,8 @@
     "id"    : "warden",
     "view"  : ["nj7cU", "GAn6d"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202609100652,
+    "hatch" : 1,
+    "date"  : 202609130652,
     "done"  : false
   }
 ]

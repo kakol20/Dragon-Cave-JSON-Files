@@ -58,9 +58,9 @@
   {
     "id"    : "cassare",
     "view"  : ["R8Xg0", "TLrqZ"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609131557,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609161557,
     "done"  : false
   },
   {
@@ -149,9 +149,9 @@
   {
     "id"    : "horse",
     "view"  : ["O5I5G"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609131552,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609161552,
     "done"  : false
   },
   {
@@ -165,9 +165,9 @@
   {
     "id"    : "kovos",
     "view"  : ["KiIBb"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609131554,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609161554,
     "done"  : false
   },
   {
@@ -229,9 +229,9 @@
   {
     "id"    : "script",
     "view"  : ["X0qz5", "sr0v9"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609131550,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609161551,
     "done"  : false
   },
   {
@@ -253,9 +253,9 @@
   {
     "id"    : "silvershade",
     "view"  : ["4TO6b"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609131554,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609161554,
     "done"  : false
   },
   {
@@ -293,9 +293,9 @@
   {
     "id"    : "tri_horn",
     "view"  : ["UF1FL"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609131552,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609161553,
     "done"  : false
   },
   {

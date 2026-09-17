@@ -251,6 +251,14 @@
     "done"  : true
   },
   {
+    "id"    : "golden",
+    "view"  : ["sknbk", "eKMTm", "k2Vgb"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609160657,
+    "done"  : true
+  },
+  {
     "id"    : "hellfire",
     "view"  : ["Gbbwu", "IwEOZ", "hPQWU"],
     "adults": 3,
@@ -360,6 +368,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202608071519,
+    "done"  : true
+  },
+  {
+    "id"    : "red",
+    "view"  : ["ZRhXo", "RLE8E", "DmI42"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609160701,
     "done"  : true
   },
   {
@@ -494,6 +510,14 @@
     "done"  : true
   },
   {
+    "id"    : "sunset",
+    "view"  : ["PIAde", "XOGEZ", "yQ3og"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609171800,
+    "done"  : true
+  },
+  {
     "id"    : "sunsong",
     "view"  : ["dHiFq", "IiMp2", "pOUdH"],
     "adults": 3,
@@ -531,6 +555,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202605240000,
+    "done"  : true
+  },
+  {
+    "id"    : "ultraviolet",
+    "view"  : ["NiyGc", "Vk3LO", "BsYFw"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609160700,
     "done"  : true
   },
   {

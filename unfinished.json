@@ -181,9 +181,9 @@
   {
     "id"    : "magi",
     "view"  : ["td3Ay", "wZIB4"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609140630,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609170630,
     "done"  : false
   },
   {
@@ -197,9 +197,9 @@
   {
     "id"    : "moonstone",
     "view"  : ["HGlhV"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609140443,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609170443,
     "done"  : false
   },
   {
@@ -285,17 +285,17 @@
   {
     "id"    : "tetra",
     "view"  : ["MvnCD"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609140648,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609170649,
     "done"  : false
   },
   {
     "id"    : "tideweaver",
     "view"  : ["aPXLM"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609140626,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609160626,
     "done"  : false
   },
   {
@@ -317,9 +317,9 @@
   {
     "id"    : "vremya",
     "view"  : ["WHdir"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609140627,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609170631,
     "done"  : false
   },
   {

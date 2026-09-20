@@ -1,13 +1,5 @@
 [
   {
-    "id"    : "@hatch",
-    "view"  : ["JED7g"],
-    "adults": 0,
-    "hatch" : 0,
-    "date"  : 202609170344,
-    "done"  : false
-  },
-  {
     "id"    : "astaarus",
     "view"  : ["DuVh0"],
     "adults": 1,
@@ -19,8 +11,8 @@
     "id"    : "bright_breast",
     "view"  : ["RsWOb", "QxD9a", "QDAml"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609170346,
+    "hatch" : 1,
+    "date"  : 202609200346,
     "done"  : false
   },
   {
@@ -51,8 +43,8 @@
     "id"    : "coastal",
     "view"  : ["oBmJT", "oL91v", "n5KAf"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609170349,
+    "hatch" : 1,
+    "date"  : 202609200350,
     "done"  : false
   },
   {
@@ -126,16 +118,16 @@
     "id"    : "haimatos",
     "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1", "JXjZ2"],
     "adults": 4,
-    "hatch" : 0,
-    "date"  : 202609170339,
+    "hatch" : 1,
+    "date"  : 202609200339,
     "done"  : false
   },
   {
     "id"    : "horse",
-    "view"  : ["O5I5G"],
+    "view"  : ["O5I5G", "pyU7i"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609161552,
+    "date"  : 202609180059,
     "done"  : false
   },
   {
@@ -190,8 +182,8 @@
     "id"    : "pyrrhichios",
     "view"  : ["xQc6w", "TqXIu", "z4JVQ"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609170351,
+    "hatch" : 1,
+    "date"  : 202609200351,
     "done"  : false
   },
   {
@@ -212,10 +204,10 @@
   },
   {
     "id"    : "script",
-    "view"  : ["X0qz5", "sr0v9"],
+    "view"  : ["X0qz5", "sr0v9", "64zFp"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609161551,
+    "date"  : 202609180059,
     "done"  : false
   },
   {
@@ -236,34 +228,34 @@
   },
   {
     "id"    : "silvershade",
-    "view"  : ["4TO6b"],
+    "view"  : ["4TO6b", "sZn3L"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609161554,
+    "date"  : 202609180059,
     "done"  : false
   },
   {
     "id"    : "sunrise",
-    "view"  : ["D8ITk", "AHsE3"],
+    "view"  : ["D8ITk", "AHsE3", "JED7g"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609090620,
+    "hatch" : 1,
+    "date"  : 202609200600,
     "done"  : false
   },
   {
     "id"    : "tetra",
-    "view"  : ["MvnCD"],
+    "view"  : ["MvnCD", "RSsOd"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609170649,
+    "date"  : 202609180059,
     "done"  : false
   },
   {
     "id"    : "tideweaver",
-    "view"  : ["aPXLM"],
+    "view"  : ["aPXLM", "aDcNt"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609160626,
+    "date"  : 202609180059,
     "done"  : false
   },
   {

@@ -1,81 +1,99 @@
 {
-  "#notes"     : [
+  "#notes"      : [
     "Egg Identification: https://dragcave.fandom.com/wiki/Egg/Identification_guide",
     "JSON Editor: https://jsoneditoronline.org/"
   ],
-  "@hatch"     : {
+  "@hatch"      : {
     "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This egg's breed is dependent on its hatchling",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "@new_#"     : {
+  "@new_#"      : {
     "name": ["2026-08-29 - August Dragon Release - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description": "It’s...a pile of coal? When you move a piece, the rest follow",
     "encyclopedia": "https://forums.dragcave.net/topic/195740-2026-08-29-august-dragon-release/"
   },
-  "_template"  : {
+  "_template"   : {
     "name"        : ["Unknown Breed"],
     "img"         : ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "cassare"    : {
+  "aria"        : {
+    "name"        : ["Aria Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1174ix7.png"],
+    "description" : "This bright egg has a warm shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1586"
+  },
+  "bleeding"    : {
+    "name": ["Bleeding Moon Dragon"],
+    "img": ["https://s.dcave.net/cache/images/8/83rnas.gif"],
+    "description": "This egg shines brilliantly in moonlight, and is covered in red spots",
+    "encyclopedia": "https://dragcave.net/dragonopedia/9"
+  },
+  "cassare"     : {
     "name"        : ["Cassare Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1uwygva.gif"],
     "description" : "This egg makes you feel a bit uneasy",
     "encyclopedia": "https://dragcave.net/dragonopedia/141"
   },
-  "horse"      : {
+  "horse"       : {
     "name"        : ["Horse Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/g/g884ay.png"],
     "description" : "This egg has strange markings on it",
     "encyclopedia": "https://dragcave.net/dragonopedia/60"
   },
-  "kovos"      : {
+  "kovos"       : {
     "name"        : ["Kovos Pygmy"],
     "img"         : ["https://s.dcave.net/cache/images/l/lgvlm2.png"],
     "description" : "This tiny, dark egg fills you with existential dread",
     "encyclopedia": "https://dragcave.net/dragonopedia/1655"
   },
-  "moonstone"  : {
+  "marocephalic": {
+    "name"        : ["Marocephalic Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/j/j3l3d2.png"],
+    "description" : "This egg has washed up on the beach",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1735"
+  },
+  "moonstone"   : {
     "name"        : ["Moonstone Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/176zxdw.gif"],
     "description" : "This egg resembles a glowing stone",
     "encyclopedia": "https://dragcave.net/dragonopedia/69"
   },
-  "script"     : {
+  "script"      : {
     "name"        : ["Script Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/19vqfx5.gif"],
     "description" : "This egg is covered in mysterious patterns",
     "encyclopedia": "https://dragcave.net/dragonopedia/1616"
   },
-  "silvershade": {
+  "silvershade" : {
     "name": ["Silvershade Wyvern"],
     "img": ["https://s.dcave.net/cache/images/1/1aln1t6.gif"],
     "description": "This dark egg has bright flecks that almost seem to move as they catch the light",
     "encyclopedia": "https://dragcave.net/dragonopedia/1738"
   },
-  "tetra"      : {
+  "tetra"       : {
     "name"        : ["Tetra Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/2/2m22tz.gif"],
     "description" : "This egg has faint markings",
     "encyclopedia": "https://dragcave.net/dragonopedia/1605"
   },
-  "tideweaver" : {
+  "tideweaver"  : {
     "name": ["Tideweaver Lindwyrm"],
     "img": ["https://s.dcave.net/cache/images/t/tzebeg.gif"],
     "description": "This egg has vivid red stripes, reminiscent of waves and flames at once",
     "encyclopedia": "https://dragcave.net/dragonopedia/113"
   },
-  "tri_horn"   : {
+  "tri_horn"    : {
     "name"        : ["Tri-Horn Wyvern"],
     "img"         : ["https://s.dcave.net/cache/images/9/9md81r.png"],
     "description" : "This brown egg is covered in intricate designs",
     "encyclopedia": "https://dragcave.net/dragonopedia/114"
   },
-  "vremya"     : {
+  "vremya"      : {
     "name"        : ["Vremya Drake"],
     "img"         : ["https://s.dcave.net/cache/images/b/bkmcme.gif"],
     "description" : "This smooth green egg looks vaguely familiar",

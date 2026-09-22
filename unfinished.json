@@ -3,8 +3,8 @@
     "id"    : "aria",
     "view"  : ["CIyJk"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202609181859,
+    "hatch" : 1,
+    "date"  : 202609212026,
     "done"  : false
   },
   {
@@ -19,8 +19,8 @@
     "id"    : "bleeding",
     "view"  : ["KN6Tm"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202609181759,
+    "hatch" : 1,
+    "date"  : 202609212028,
     "done"  : false
   },
   {
@@ -51,8 +51,8 @@
     "id"    : "cassare",
     "view"  : ["R8Xg0", "TLrqZ", "nRVxM"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609181759,
+    "hatch" : 1,
+    "date"  : 202609212025,
     "done"  : false
   },
   {
@@ -124,10 +124,10 @@
   },
   {
     "id"    : "green",
-    "view"  : ["MP0ky", "n42QN"],
+    "view"  : ["MP0ky", "n42QN", "KmBlW"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202606250000,
+    "date"  : 202609192359,
     "done"  : false
   },
   {
@@ -174,8 +174,8 @@
     "id"    : "marocephalic",
     "view"  : ["SsEIa"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202609182059,
+    "hatch" : 1,
+    "date"  : 202609211935,
     "done"  : false
   },
   {
@@ -196,10 +196,10 @@
   },
   {
     "id"    : "nebula",
-    "view"  : ["JRGlc", "yx8xo"],
+    "view"  : ["JRGlc", "yx8xo", "F9epk"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609111422,
+    "date"  : 202609192359,
     "done"  : false
   },
   {

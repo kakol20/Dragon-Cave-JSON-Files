@@ -126,8 +126,8 @@
     "id"    : "green",
     "view"  : ["MP0ky", "n42QN", "KmBlW"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609192359,
+    "hatch" : 1,
+    "date"  : 202609221124,
     "done"  : false
   },
   {
@@ -198,8 +198,8 @@
     "id"    : "nebula",
     "view"  : ["JRGlc", "yx8xo", "F9epk"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609192359,
+    "hatch" : 1,
+    "date"  : 202609221124,
     "done"  : false
   },
   {

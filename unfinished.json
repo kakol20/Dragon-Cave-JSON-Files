@@ -24,14 +24,6 @@
     "done"  : false
   },
   {
-    "id"    : "bright_breast",
-    "view"  : ["RsWOb", "QxD9a", "QDAml"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609200346,
-    "done"  : false
-  },
-  {
     "id"    : "brumous",
     "view"  : ["1J8Ez"],
     "adults": 1,
@@ -53,14 +45,6 @@
     "adults": 2,
     "hatch" : 1,
     "date"  : 202609212025,
-    "done"  : false
-  },
-  {
-    "id"    : "coastal",
-    "view"  : ["oBmJT", "oL91v", "n5KAf"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609200350,
     "done"  : false
   },
   {
@@ -133,9 +117,9 @@
   {
     "id"    : "haimatos",
     "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1", "JXjZ2"],
-    "adults": 4,
-    "hatch" : 1,
-    "date"  : 202609200339,
+    "adults": 5,
+    "hatch" : 0,
+    "date"  : 202609230339,
     "done"  : false
   },
   {
@@ -203,14 +187,6 @@
     "done"  : false
   },
   {
-    "id"    : "pyrrhichios",
-    "view"  : ["xQc6w", "TqXIu", "z4JVQ"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609200351,
-    "done"  : false
-  },
-  {
     "id"    : "ridgewing",
     "view"  : ["7CN9X", "F8s9w", "0fp1c", "Fkm3m", "2qe2g"],
     "adults": 5,
@@ -256,14 +232,6 @@
     "adults": 1,
     "hatch" : 1,
     "date"  : 202609210057,
-    "done"  : false
-  },
-  {
-    "id"    : "sunrise",
-    "view"  : ["D8ITk", "AHsE3", "JED7g"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609200600,
     "done"  : false
   },
   {

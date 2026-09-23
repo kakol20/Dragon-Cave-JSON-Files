@@ -144,6 +144,14 @@
     "done"  : true
   },
   {
+    "id"    : "bright_breast",
+    "view"  : ["RsWOb", "QxD9a", "QDAml"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609230347,
+    "done"  : true
+  },
+  {
     "id"    : "carmine",
     "view"  : ["5vtLW", "q3PiL", "VcDtm"],
     "adults": 3,
@@ -168,6 +176,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202609050730,
+    "done"  : true
+  },
+  {
+    "id"    : "coastal",
+    "view"  : ["oBmJT", "oL91v", "n5KAf"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609230351,
     "done"  : true
   },
   {
@@ -371,6 +387,14 @@
     "done"  : true
   },
   {
+    "id"    : "pyrrhichios",
+    "view"  : ["xQc6w", "TqXIu", "z4JVQ"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609230351,
+    "done"  : true
+  },
+  {
     "id"    : "red",
     "view"  : ["ZRhXo", "RLE8E", "DmI42", "cTgRU"],
     "adults": 3,
@@ -507,6 +531,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607212055,
+    "done"  : true
+  },
+  {
+    "id"    : "sunrise",
+    "view"  : ["D8ITk", "AHsE3", "JED7g"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609230600,
     "done"  : true
   },
   {

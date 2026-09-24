@@ -33,10 +33,10 @@
   },
   {
     "id"    : "carina",
-    "view"  : ["fwhn4", "fPWKA"],
+    "view"  : ["fwhn4", "fPWKA", "IBmis"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609020633,
+    "date"  : 202609240549,
     "done"  : false
   },
   {
@@ -125,9 +125,9 @@
   {
     "id"    : "horse",
     "view"  : ["O5I5G", "pyU7i"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609210051,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609240052,
     "done"  : false
   },
   {
@@ -148,10 +148,10 @@
   },
   {
     "id"    : "magi",
-    "view"  : ["td3Ay", "wZIB4"],
+    "view"  : ["td3Ay", "wZIB4", "OgS0z"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609170630,
+    "date"  : 202609240551,
     "done"  : false
   },
   {
@@ -203,11 +203,11 @@
     "done"  : false
   },
   {
-    "id"    : "script",
-    "view"  : ["X0qz5", "sr0v9", "64zFp"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609210002,
+    "id"    : "season_autumn",
+    "view"  : ["UEjr1"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609240543,
     "done"  : false
   },
   {
@@ -220,34 +220,34 @@
   },
   {
     "id"    : "shallow_water",
-    "view"  : ["KLnBk"],
+    "view"  : ["KLnBk", "83ww8"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609090612,
+    "date"  : 202609240555,
     "done"  : false
   },
   {
     "id"    : "silvershade",
-    "view"  : ["4TO6b", "sZn3L"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609210057,
+    "view"  : ["4TO6b", "sZn3L", "vX0zL"],
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609240554,
     "done"  : false
   },
   {
     "id"    : "tetra",
     "view"  : ["MvnCD", "RSsOd"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609210401,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609240404,
     "done"  : false
   },
   {
     "id"    : "tideweaver",
     "view"  : ["aPXLM", "aDcNt"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609210056,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609240057,
     "done"  : false
   },
   {

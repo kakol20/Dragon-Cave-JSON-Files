@@ -2,9 +2,9 @@
   {
     "id"    : "aria",
     "view"  : ["CIyJk"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609212026,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609242027,
     "done"  : false
   },
   {
@@ -18,9 +18,9 @@
   {
     "id"    : "bleeding",
     "view"  : ["KN6Tm"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609212028,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609242029,
     "done"  : false
   },
   {
@@ -37,14 +37,6 @@
     "adults": 2,
     "hatch" : 0,
     "date"  : 202609240549,
-    "done"  : false
-  },
-  {
-    "id"    : "cassare",
-    "view"  : ["R8Xg0", "TLrqZ", "nRVxM"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609212025,
     "done"  : false
   },
   {
@@ -157,9 +149,9 @@
   {
     "id"    : "marocephalic",
     "view"  : ["SsEIa"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609211935,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609241937,
     "done"  : false
   },
   {

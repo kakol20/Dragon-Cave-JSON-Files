@@ -1,5 +1,13 @@
 [
   {
+    "id"    : "@new_#",
+    "view"  : ["5lYN6", "YSGlG", "qgDxj"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202609270600,
+    "done"  : false
+  },
+  {
     "id"    : "aria",
     "view"  : ["CIyJk"],
     "adults": 1,
@@ -17,10 +25,10 @@
   },
   {
     "id"    : "bleeding",
-    "view"  : ["KN6Tm"],
+    "view"  : ["KN6Tm", "6LX1Q"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609242029,
+    "date"  : 202609242259,
     "done"  : false
   },
   {
@@ -35,8 +43,8 @@
     "id"    : "carina",
     "view"  : ["fwhn4", "fPWKA", "IBmis"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609240549,
+    "hatch" : 1,
+    "date"  : 202609270549,
     "done"  : false
   },
   {
@@ -134,8 +142,8 @@
     "id"    : "magi",
     "view"  : ["td3Ay", "wZIB4", "OgS0z"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609240551,
+    "hatch" : 1,
+    "date"  : 202609270552,
     "done"  : false
   },
   {
@@ -190,8 +198,8 @@
     "id"    : "season_autumn",
     "view"  : ["UEjr1"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202609240543,
+    "hatch" : 1,
+    "date"  : 202609270544,
     "done"  : false
   },
   {
@@ -206,24 +214,24 @@
     "id"    : "shallow_water",
     "view"  : ["KLnBk", "83ww8"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202609240555,
+    "hatch" : 1,
+    "date"  : 202609270555,
     "done"  : false
   },
   {
     "id"    : "silvershade",
     "view"  : ["4TO6b", "sZn3L", "vX0zL"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609240554,
+    "hatch" : 1,
+    "date"  : 202609270553,
     "done"  : false
   },
   {
     "id"    : "tetra",
-    "view"  : ["MvnCD", "RSsOd"],
+    "view"  : ["MvnCD", "RSsOd", "Q761U"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609240404,
+    "date"  : 202609242359,
     "done"  : false
   },
   {

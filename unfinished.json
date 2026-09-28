@@ -86,8 +86,8 @@
       "mlmt3", "XtyUB", "AYUeQ", "smVI5", "RBNnf"
     ],
     "adults": 12,
-    "hatch" : 0,
-    "date"  : 202609250037,
+    "hatch" : 1,
+    "date"  : 202609280037,
     "done"  : false
   },
   {
@@ -230,8 +230,8 @@
     "id"    : "tetra",
     "view"  : ["MvnCD", "RSsOd", "Q761U"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202609242359,
+    "hatch" : 1,
+    "date"  : 202609280422,
     "done"  : false
   },
   {
@@ -244,10 +244,10 @@
   },
   {
     "id"    : "tri_horn",
-    "view"  : ["UF1FL"],
+    "view"  : ["UF1FL", "g949R"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609161553,
+    "date"  : 202609251459,
     "done"  : false
   },
   {

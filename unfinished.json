@@ -148,10 +148,10 @@
   },
   {
     "id"    : "marocephalic",
-    "view"  : ["SsEIa"],
+    "view"  : ["SsEIa", "y8hKQ"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609241937,
+    "date"  : 202609260359,
     "done"  : false
   },
   {
@@ -246,8 +246,8 @@
     "id"    : "tri_horn",
     "view"  : ["UF1FL", "g949R"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202609251459,
+    "hatch" : 1,
+    "date"  : 202609281510,
     "done"  : false
   },
   {

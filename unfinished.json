@@ -27,8 +27,8 @@
     "id"    : "bleeding",
     "view"  : ["KN6Tm", "6LX1Q"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202609242259,
+    "hatch" : 1,
+    "date"  : 202609272218,
     "done"  : false
   },
   {

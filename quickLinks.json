@@ -1,8 +1,8 @@
 [
   {"text": "Cave", "src": "https://dragcave.net/", "sort": 0},
-  {"text": "Abandoned", "src": "https://dragcave.net/abandoned", "sort": 0},
-  {"text": "Dragons", "src": "https://dragcave.net/dragons", "sort": 0},
-  {"text": "Market", "src": "https://dragcave.net/market", "sort": 0},
+  {"text": "Abandoned", "src": "https://dragcave.net/abandoned", "sort": 0.1},
+  {"text": "Dragons", "src": "https://dragcave.net/dragons", "sort": 0.1},
+  {"text": "Market", "src": "https://dragcave.net/market", "sort": 0.1},
   {"text": "Forums", "src": "https://forums.dragcave.net/", "sort": 1},
   {
     "text": "News",
@@ -20,6 +20,11 @@
     "sort": 2
   },
   {
+    "text": "Inbred Checker",
+    "src" : "https://www.allureofnds.net/NDER/Inbred",
+    "sort": 2
+  },
+  {
     "text": "Garden Of Eden",
     "src" : "https://chazza.me/dc/hatchery/",
     "sort": 3
@@ -30,13 +35,13 @@
     "sort": 4
   },
   {
-    "text": "Shuffle Clock",
-    "src" : "https://dc-shuffle-clock.vercel.app/",
+    "text": "Dragon Cave Records",
+    "src" : "https://dcrecords.tj09.net/",
     "sort": 5
   },
   {
-    "text": "Dragon Cave Records",
-    "src" : "https://dcrecords.tj09.net/",
+    "text": "Shuffle Clock",
+    "src" : "https://dc-shuffle-clock.vercel.app/",
     "sort": 5
   },
   {

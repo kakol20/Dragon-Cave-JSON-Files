@@ -40,14 +40,6 @@
     "done"  : false
   },
   {
-    "id"    : "carina",
-    "view"  : ["fwhn4", "fPWKA", "IBmis"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609270549,
-    "done"  : false
-  },
-  {
     "id"    : "chaliuba",
     "view"  : ["234Y2"],
     "adults": 0,
@@ -147,14 +139,6 @@
     "done"  : false
   },
   {
-    "id"    : "magi",
-    "view"  : ["td3Ay", "wZIB4", "OgS0z"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609270552,
-    "done"  : false
-  },
-  {
     "id"    : "marocephalic",
     "view"  : ["SsEIa", "y8hKQ"],
     "adults": 1,
@@ -205,9 +189,9 @@
   {
     "id"    : "season_autumn",
     "view"  : ["UEjr1"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609270544,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202609300544,
     "done"  : false
   },
   {
@@ -221,17 +205,9 @@
   {
     "id"    : "shallow_water",
     "view"  : ["KLnBk", "83ww8"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609270555,
-    "done"  : false
-  },
-  {
-    "id"    : "silvershade",
-    "view"  : ["4TO6b", "sZn3L", "vX0zL"],
     "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609270553,
+    "hatch" : 0,
+    "date"  : 202609300555,
     "done"  : false
   },
   {

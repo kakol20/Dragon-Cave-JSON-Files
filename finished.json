@@ -152,6 +152,14 @@
     "done"  : true
   },
   {
+    "id"    : "carina",
+    "view"  : ["fwhn4", "fPWKA", "IBmis"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609300549,
+    "done"  : true
+  },
+  {
     "id"    : "carmine",
     "view"  : ["5vtLW", "q3PiL", "VcDtm"],
     "adults": 3,
@@ -331,6 +339,14 @@
     "done"  : true
   },
   {
+    "id"    : "magi",
+    "view"  : ["td3Ay", "wZIB4", "OgS0z"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609270552,
+    "done"  : true
+  },
+  {
     "id"    : "miufu",
     "view"  : ["qZdKE", "Hg2J4", "tBHOl"],
     "adults": 3,
@@ -472,6 +488,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607282123,
+    "done"  : true
+  },
+  {
+    "id"    : "silvershade",
+    "view"  : ["4TO6b", "sZn3L", "vX0zL"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202609300553,
     "done"  : true
   },
   {

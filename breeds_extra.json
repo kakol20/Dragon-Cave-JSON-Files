@@ -45,6 +45,12 @@
     "description" : "This egg is covered in black and white stripes",
     "encyclopedia": "https://dragcave.net/dragonopedia/1759"
   },
+  "fell"         : {
+    "name"        : ["Fell Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1vum3jg.png"],
+    "description" : "This mottled egg looks positively ancient",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1596"
+  },
   "horse"        : {
     "name"        : ["Horse Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/g/g884ay.png"],

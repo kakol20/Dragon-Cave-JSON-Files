@@ -26,17 +26,17 @@
   {
     "id"    : "bleeding",
     "view"  : ["KN6Tm", "6LX1Q"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609272218,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202609302218,
     "done"  : false
   },
   {
     "id"    : "brumous",
-    "view"  : ["1J8Ez"],
+    "view"  : ["1J8Ez", "BPx5P"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608122008,
+    "date"  : 202610010602,
     "done"  : false
   },
   {
@@ -64,6 +64,14 @@
     "done"  : false
   },
   {
+    "id"    : "fell",
+    "view"  : ["sALVj"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610010559,
+    "done"  : false
+  },
+  {
     "id"    : "floret_alstro",
     "view"  : ["4Vnm0", "xj3Kw", "q1lzU"],
     "adults": 3,
@@ -73,21 +81,21 @@
   },
   {
     "id"    : "floret_iris",
-    "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN", "wpA3t"],
+    "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN", "wpA3t", "xeaaA"],
     "adults": 5,
     "hatch" : 0,
-    "date"  : 202608262155,
+    "date"  : 202610010605,
     "done"  : false
   },
   {
     "id"    : "gemshard",
     "view"  : [
       "WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta", "fsJwO",
-      "mlmt3", "XtyUB", "AYUeQ", "smVI5", "RBNnf"
+      "mlmt3", "XtyUB", "AYUeQ", "smVI5", "RBNnf", "1KJSf"
     ],
-    "adults": 12,
-    "hatch" : 1,
-    "date"  : 202609280037,
+    "adults": 13,
+    "hatch" : 0,
+    "date"  : 202610010603,
     "done"  : false
   },
   {
@@ -108,10 +116,10 @@
   },
   {
     "id"    : "haimatos",
-    "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1", "JXjZ2"],
+    "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1", "JXjZ2", "MxO0O"],
     "adults": 5,
     "hatch" : 0,
-    "date"  : 202609230339,
+    "date"  : 202610010608,
     "done"  : false
   },
   {
@@ -124,10 +132,10 @@
   },
   {
     "id"    : "jester",
-    "view"  : ["WjaA4"],
+    "view"  : ["WjaA4", "taytX"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608271908,
+    "date"  : 202610010611,
     "done"  : false
   },
   {
@@ -208,14 +216,6 @@
     "adults": 2,
     "hatch" : 0,
     "date"  : 202609300555,
-    "done"  : false
-  },
-  {
-    "id"    : "tetra",
-    "view"  : ["MvnCD", "RSsOd", "Q761U"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202609280422,
     "done"  : false
   },
   {

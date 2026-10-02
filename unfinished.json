@@ -34,17 +34,17 @@
   {
     "id"    : "chaliuba",
     "view"  : ["234Y2"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202609290628,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610020628,
     "done"  : false
   },
   {
     "id"    : "delta",
     "view"  : ["QJ0vb", "68Z6v"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202609290629,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610020629,
     "done"  : false
   },
   {
@@ -96,14 +96,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202609090607,
-    "done"  : false
-  },
-  {
-    "id"    : "gilgrot",
-    "view"  : ["5lYN6", "YSGlG", "qgDxj"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202609290601,
     "done"  : false
   },
   {

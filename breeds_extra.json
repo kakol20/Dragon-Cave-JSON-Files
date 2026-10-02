@@ -51,6 +51,12 @@
     "description" : "This mottled egg looks positively ancient",
     "encyclopedia": "https://dragcave.net/dragonopedia/1596"
   },
+  "gilgrot"      : {
+    "name"        : ["Gilgrot Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/8/8cplc4.webp"],
+    "description" : "The shell of this rough egg is incredibly tough",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1810"
+  },
   "horse"        : {
     "name"        : ["Horse Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/g/g884ay.png"],

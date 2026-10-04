@@ -1,10 +1,10 @@
 [
   {
     "id"    : "aria",
-    "view"  : ["CIyJk", "DJyvl"],
+    "view"  : ["CIyJk", "DJyvl", "Z7oPM"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610021712,
+    "date"  : 202610020159,
     "done"  : false
   },
   {
@@ -13,6 +13,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608201449,
+    "done"  : false
+  },
+  {
+    "id"    : "avatar-destruct",
+    "view"  : ["Rbkcr"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610020159,
     "done"  : false
   },
   {
@@ -27,8 +35,8 @@
     "id"    : "brumous",
     "view"  : ["1J8Ez", "BPx5P"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610010602,
+    "hatch" : 1,
+    "date"  : 202610040602,
     "done"  : false
   },
   {
@@ -59,8 +67,8 @@
     "id"    : "fell",
     "view"  : ["sALVj"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202610010559,
+    "hatch" : 1,
+    "date"  : 202610040559,
     "done"  : false
   },
   {
@@ -75,8 +83,8 @@
     "id"    : "floret_iris",
     "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN", "wpA3t", "xeaaA"],
     "adults": 5,
-    "hatch" : 0,
-    "date"  : 202610010605,
+    "hatch" : 1,
+    "date"  : 202610040605,
     "done"  : false
   },
   {
@@ -86,8 +94,8 @@
       "mlmt3", "XtyUB", "AYUeQ", "smVI5", "RBNnf", "1KJSf"
     ],
     "adults": 13,
-    "hatch" : 0,
-    "date"  : 202610010603,
+    "hatch" : 1,
+    "date"  : 202610040603,
     "done"  : false
   },
   {
@@ -110,24 +118,32 @@
     "id"    : "haimatos",
     "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1", "JXjZ2", "MxO0O"],
     "adults": 5,
-    "hatch" : 0,
-    "date"  : 202610010608,
+    "hatch" : 1,
+    "date"  : 202610040609,
     "done"  : false
   },
   {
     "id"    : "horse",
-    "view"  : ["O5I5G", "pyU7i"],
+    "view"  : ["O5I5G", "pyU7i", "8Ir6n"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609240052,
+    "date"  : 202610020159,
+    "done"  : false
+  },
+  {
+    "id"    : "ice",
+    "view"  : ["WiaUw"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610020059,
     "done"  : false
   },
   {
     "id"    : "jester",
     "view"  : ["WjaA4", "taytX"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610010611,
+    "hatch" : 1,
+    "date"  : 202610040611,
     "done"  : false
   },
   {
@@ -220,10 +236,18 @@
   },
   {
     "id"    : "tri_horn",
-    "view"  : ["UF1FL", "g949R"],
+    "view"  : ["UF1FL", "g949R", "HFQ6R"],
     "adults": 2,
+    "hatch" : 1,
+    "date"  : 202610011659,
+    "done"  : false
+  },
+  {
+    "id"    : "two-finn",
+    "view"  : ["d4wTd"],
+    "adults": 0,
     "hatch" : 0,
-    "date"  : 202610011512,
+    "date"  : 202610020059,
     "done"  : false
   },
   {

@@ -25,10 +25,10 @@
   },
   {
     "id"    : "bleeding",
-    "view"  : ["KN6Tm", "6LX1Q"],
+    "view"  : ["KN6Tm", "6LX1Q", "PCfLB"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609302218,
+    "date"  : 202610031659,
     "done"  : false
   },
   {
@@ -156,10 +156,10 @@
   },
   {
     "id"    : "marocephalic",
-    "view"  : ["SsEIa", "y8hKQ"],
+    "view"  : ["SsEIa", "y8hKQ", "8xctR"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610020227,
+    "date"  : 202610031459,
     "done"  : false
   },
   {
@@ -184,6 +184,22 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202609251124,
+    "done"  : false
+  },
+  {
+    "id"    : "nexus",
+    "view"  : ["nJayc"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610031659,
+    "done"  : false
+  },
+  {
+    "id"    : "pastel",
+    "view"  : ["hQUez"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610031459,
     "done"  : false
   },
   {
@@ -220,10 +236,10 @@
   },
   {
     "id"    : "shallow_water",
-    "view"  : ["KLnBk", "83ww8"],
+    "view"  : ["KLnBk", "83ww8", "XkwwB"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202609300555,
+    "date"  : 202610031659,
     "done"  : false
   },
   {

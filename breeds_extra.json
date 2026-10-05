@@ -93,6 +93,18 @@
     "description" : "This egg resembles a glowing stone",
     "encyclopedia": "https://dragcave.net/dragonopedia/69"
   },
+  "nexus"          : {
+    "name"        : ["Nexus Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1iyo6bj.png"],
+    "description" : "This dense, crystalline egg seems dangerously unstable",
+    "encyclopedia": "https://dragcave.net/dragonopedia/172"
+  },
+  "pastel"         : {
+    "name"        : ["Pastel Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1psu9q9.gif"],
+    "description" : "This egg was left in an ornate nest of fur and grass",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1766"
+  },
   "script"         : {
     "name"        : ["Script Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/19vqfx5.gif"],

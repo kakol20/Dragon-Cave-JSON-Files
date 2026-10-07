@@ -243,14 +243,6 @@
     "done"  : false
   },
   {
-    "id"    : "tri_horn",
-    "view"  : ["UF1FL", "g949R", "HFQ6R"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610041721,
-    "done"  : false
-  },
-  {
     "id"    : "two-finn",
     "view"  : ["d4wTd"],
     "adults": 0,

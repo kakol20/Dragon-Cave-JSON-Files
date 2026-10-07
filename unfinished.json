@@ -34,9 +34,9 @@
   {
     "id"    : "brumous",
     "view"  : ["1J8Ez", "BPx5P"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610040602,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610070603,
     "done"  : false
   },
   {
@@ -66,9 +66,9 @@
   {
     "id"    : "fell",
     "view"  : ["sALVj"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610040559,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610070559,
     "done"  : false
   },
   {
@@ -82,20 +82,20 @@
   {
     "id"    : "floret_iris",
     "view"  : ["B2rS5", "B6WB4", "5ikSf", "J6SvN", "wpA3t", "xeaaA"],
-    "adults": 5,
-    "hatch" : 1,
-    "date"  : 202610040605,
+    "adults": 6,
+    "hatch" : 0,
+    "date"  : 202610070606,
     "done"  : false
   },
   {
     "id"    : "gemshard",
     "view"  : [
       "WCA6W", "FrA15", "WUbnQ", "NfxC7", "Rkiwb", "cN8OJ", "OGMta", "fsJwO",
-      "mlmt3", "XtyUB", "AYUeQ", "smVI5", "RBNnf", "1KJSf"
+      "mlmt3", "XtyUB", "AYUeQ", "smVI5", "RBNnf", "1KJSf", "KELds"
     ],
-    "adults": 13,
-    "hatch" : 1,
-    "date"  : 202610040603,
+    "adults": 14,
+    "hatch" : 0,
+    "date"  : 202610070624,
     "done"  : false
   },
   {
@@ -112,14 +112,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608201412,
-    "done"  : false
-  },
-  {
-    "id"    : "haimatos",
-    "view"  : ["9rK7N", "AikUe", "9Icdv", "j7ey1", "JXjZ2", "MxO0O"],
-    "adults": 5,
-    "hatch" : 1,
-    "date"  : 202610040609,
     "done"  : false
   },
   {
@@ -141,9 +133,9 @@
   {
     "id"    : "jester",
     "view"  : ["WjaA4", "taytX"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610040611,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610070611,
     "done"  : false
   },
   {

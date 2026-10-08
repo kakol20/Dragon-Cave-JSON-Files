@@ -421,9 +421,9 @@
   {
     "id"    : "pink",
     "view"  : ["hWUCJ", "lAeoK", "6cAOv", "NZWVX", "z102M", "PzhiX"],
-    "adults": 5,
-    "hatch" : 1,
-    "date"  : 202610051808,
+    "adults": 6,
+    "hatch" : 0,
+    "date"  : 202610081809,
     "done"  : true
   },
   {

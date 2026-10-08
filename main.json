@@ -1,12 +1,12 @@
 {
   "breeds": [
-    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/breeds_extra.json",
-    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/breeds_01.json"
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/breeds/breeds_extra.json",
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/breeds/breeds_01.json"
   ],
   "jsonRepo": "https://api.github.com/repos/kakol20/Dragon-Cave-JSON-Files/branches/main",
   "player": [
-    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/finished.json",
-    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/unfinished.json"
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/finished.json",
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/unfinished.json"
   ],
   "timezone": "EDT"
 }

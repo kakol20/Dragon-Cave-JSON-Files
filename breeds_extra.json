@@ -57,6 +57,12 @@
     "description" : "This mottled egg looks positively ancient",
     "encyclopedia": "https://dragcave.net/dragonopedia/1596"
   },
+  "fellwinter"     : {
+    "name"        : ["Fellwinter Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/m/ml5yo9.webp"],
+    "description" : "This dense egg is so cold it burns",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1811"
+  },
   "gilgrot"        : {
     "name"        : ["Gilgrot Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/8/8cplc4.webp"],

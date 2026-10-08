@@ -1,13 +1,5 @@
 [
   {
-    "id"    : "aria",
-    "view"  : ["CIyJk", "DJyvl", "Z7oPM"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610050042,
-    "done"  : false
-  },
-  {
     "id"    : "astaarus",
     "view"  : ["DuVh0"],
     "adults": 1,
@@ -49,10 +41,10 @@
   },
   {
     "id"    : "delta",
-    "view"  : ["QJ0vb", "68Z6v"],
+    "view"  : ["QJ0vb", "68Z6v", "slkgI"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610020629,
+    "date"  : 202610080109,
     "done"  : false
   },
   {
@@ -69,6 +61,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610070559,
+    "done"  : false
+  },
+  {
+    "id"    : "fellwinter",
+    "view"  : ["s8Kg8"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610080108,
     "done"  : false
   },
   {
@@ -115,19 +115,11 @@
     "done"  : false
   },
   {
-    "id"    : "horse",
-    "view"  : ["O5I5G", "pyU7i", "8Ir6n"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610050058,
-    "done"  : false
-  },
-  {
     "id"    : "ice",
     "view"  : ["WiaUw"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610050023,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610080023,
     "done"  : false
   },
   {
@@ -140,10 +132,10 @@
   },
   {
     "id"    : "kovos",
-    "view"  : ["KiIBb"],
+    "view"  : ["KiIBb", "WTzkt"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609161554,
+    "date"  : 202610080110,
     "done"  : false
   },
   {
@@ -212,10 +204,10 @@
   },
   {
     "id"    : "season_autumn",
-    "view"  : ["UEjr1"],
+    "view"  : ["UEjr1", "RA0KC"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609300544,
+    "date"  : 202610080107,
     "done"  : false
   },
   {
@@ -245,9 +237,9 @@
   {
     "id"    : "two-finn",
     "view"  : ["d4wTd"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610050044,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610080045,
     "done"  : false
   },
   {

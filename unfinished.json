@@ -10,9 +10,9 @@
   {
     "id"    : "avatar-destruct",
     "view"  : ["Rbkcr"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610050555,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610080555,
     "done"  : false
   },
   {

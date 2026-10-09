@@ -144,6 +144,14 @@
     "done"  : true
   },
   {
+    "id"    : "bleeding",
+    "view"  : ["KN6Tm", "6LX1Q", "PCfLB"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610091424,
+    "done"  : true
+  },
+  {
     "id"    : "bolt",
     "view"  : ["uVQ7y", "SRgl9", "ULOfu"],
     "adults": 3,
@@ -379,6 +387,14 @@
     "done"  : true
   },
   {
+    "id"    : "marocephalic",
+    "view"  : ["SsEIa", "y8hKQ", "8xctR"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610091401,
+    "done"  : true
+  },
+  {
     "id"    : "miufu",
     "view"  : ["qZdKE", "Hg2J4", "tBHOl"],
     "adults": 3,
@@ -520,6 +536,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607282123,
+    "done"  : true
+  },
+  {
+    "id"    : "shallow_water",
+    "view"  : ["KLnBk", "83ww8", "XkwwB"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610091553,
     "done"  : true
   },
   {

@@ -33,11 +33,23 @@
     "description" : "This smoldering egg radiates volatile energy",
     "encyclopedia": "https://dragcave.net/dragonopedia/136"
   },
+  "berry"          : {
+    "name"        : ["Berry Drake"],
+    "img"         : ["https://s.dcave.net/cache/images/w/w5qp0v.gif"],
+    "description" : "Two thin stripes crisscross the shell of this egg",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1726"
+  },
   "bleeding"       : {
     "name": ["Bleeding Moon Dragon"],
     "img": ["https://s.dcave.net/cache/images/8/83rnas.gif"],
     "description": "This egg shines brilliantly in moonlight, and is covered in red spots",
     "encyclopedia": "https://dragcave.net/dragonopedia/9"
+  },
+  "brute"          : {
+    "name"        : ["Brute Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1f4iqiy.png"],
+    "description" : "This egg is unusually large and heavy",
+    "encyclopedia": "https://dragcave.net/dragonopedia/16"
   },
   "cassare"        : {
     "name"        : ["Cassare Dragon"],
@@ -51,6 +63,12 @@
     "description" : "This egg is covered in black and white stripes",
     "encyclopedia": "https://dragcave.net/dragonopedia/1759"
   },
+  "elux"           : {
+    "name"        : ["Elux Lucis Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/17mosku.png"],
+    "description" : "Starlight shimmers across this egg's iridescent shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1671"
+  },
   "fell"           : {
     "name"        : ["Fell Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1vum3jg.png"],
@@ -62,6 +80,12 @@
     "img"         : ["https://s.dcave.net/cache/images/m/ml5yo9.webp"],
     "description" : "This dense egg is so cold it burns",
     "encyclopedia": "https://dragcave.net/dragonopedia/1811"
+  },
+  "geminae"        : {
+    "name"        : ["Geminae Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/7/7md3e5.gif"],
+    "description" : "This shiny egg gives you a headache when you get close",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1657"
   },
   "gilgrot"        : {
     "name"        : ["Gilgrot Dragon"],
@@ -75,6 +99,12 @@
     "description" : "This egg has strange markings on it",
     "encyclopedia": "https://dragcave.net/dragonopedia/60"
   },
+  "hunter"         : {
+    "name"        : ["Hunter Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1awtld8.png"],
+    "description" : "This smooth egg has a bright blue stripe on it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1740"
+  },
   "ice"            : {
     "name"        : ["Ice Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/n/n8l279.gif"],
@@ -87,11 +117,23 @@
     "description" : "This tiny, dark egg fills you with existential dread",
     "encyclopedia": "https://dragcave.net/dragonopedia/1655"
   },
+  "lightstreak"    : {
+    "name"        : ["Lightstreak Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/u/ukzx9n.png"],
+    "description" : "This egg glows vibrantly in the dark",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1793"
+  },
   "marocephalic"   : {
     "name"        : ["Marocephalic Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/j/j3l3d2.png"],
     "description" : "This egg has washed up on the beach",
     "encyclopedia": "https://dragcave.net/dragonopedia/1735"
+  },
+  "mirisia"        : {
+    "name"        : ["Mirisia Amphiptere"],
+    "img"         : ["https://s.dcave.net/cache/images/o/ox6b06.gif"],
+    "description" : "This egg emanates a peculiar smell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1706"
   },
   "moonstone"      : {
     "name"        : ["Moonstone Dragon"],
@@ -152,6 +194,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1fyzvgm.gif"],
     "description" : "This egg has colored speckles on it",
     "encyclopedia": "https://dragcave.net/dragonopedia/12"
+  },
+  "vampire"        : {
+    "name"        : ["Vampire Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/4/4levmo.png"],
+    "description" : "This egg is stone cold and smells rotten",
+    "encyclopedia": "https://dragcave.net/dragonopedia/126"
   },
   "vremya"         : {
     "name"        : ["Vremya Drake"],

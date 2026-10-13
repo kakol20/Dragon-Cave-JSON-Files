@@ -115,11 +115,11 @@
     "id"    : "gemshard",
     "view"  : [
       "OGMta", "AYUeQ", "fsJwO", "smVI5", "WUbnQ", "WCA6W", "FrA15", "cN8OJ",
-      "RBNnf", "NfxC7", "XtyUB", "Rkiwb", "mlmt3", "1KJSf", "KELds"
+      "RBNnf", "NfxC7", "XtyUB", "KELds", "Rkiwb", "mlmt3", "1KJSf", "50D8S"
     ],
-    "adults": 14,
-    "hatch" : 1,
-    "date"  : 202610100624,
+    "adults": 15,
+    "hatch" : 0,
+    "date"  : 202610131117,
     "done"  : false
   },
   {

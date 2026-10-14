@@ -48,14 +48,6 @@
     "done"  : false
   },
   {
-    "id"    : "delta",
-    "view"  : ["QJ0vb", "68Z6v", "slkgI"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610110109,
-    "done"  : false
-  },
-  {
     "id"    : "dorsal",
     "view"  : ["Li91g", "xwWyN", "IgMHW"],
     "adults": 3,
@@ -82,9 +74,9 @@
   {
     "id"    : "fellwinter",
     "view"  : ["s8Kg8"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610110108,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610140109,
     "done"  : false
   },
   {
@@ -165,9 +157,9 @@
   {
     "id"    : "kovos",
     "view"  : ["KiIBb", "WTzkt"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610110110,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610140110,
     "done"  : false
   },
   {
@@ -245,9 +237,9 @@
   {
     "id"    : "season_autumn",
     "view"  : ["UEjr1", "RA0KC"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610110108,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610140108,
     "done"  : false
   },
   {

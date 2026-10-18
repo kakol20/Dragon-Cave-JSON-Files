@@ -25,10 +25,10 @@
   },
   {
     "id"    : "brute",
-    "view"  : ["blHAx"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610112305,
+    "view"  : ["blHAx", "06rvy"],
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610152059,
     "done"  : false
   },
   {
@@ -50,17 +50,17 @@
   {
     "id"    : "elux",
     "view"  : ["Mjquz"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610112304,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610142306,
     "done"  : false
   },
   {
     "id"    : "fell",
-    "view"  : ["sALVj"],
+    "view"  : ["sALVj", "nX8qS"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610070559,
+    "date"  : 202610152259,
     "done"  : false
   },
   {
@@ -98,12 +98,13 @@
   {
     "id"    : "gemshard",
     "view"  : [
-      "OGMta", "AYUeQ", "fsJwO", "smVI5", "WUbnQ", "WCA6W", "FrA15", "cN8OJ",
-      "RBNnf", "NfxC7", "XtyUB", "KELds", "Rkiwb", "mlmt3", "1KJSf", "50D8S"
+      "FrA15", "WUbnQ", "WCA6W", "OGMta", "AYUeQ", "NfxC7", "XtyUB", "KELds",
+      "Rkiwb", "mlmt3", "1KJSf", "cN8OJ", "RBNnf", "fsJwO", "smVI5", "50D8S",
+      "ccga3"
     ],
     "adults": 15,
-    "hatch" : 0,
-    "date"  : 202610131117,
+    "hatch" : 1,
+    "date"  : 202610170041,
     "done"  : false
   },
   {
@@ -117,33 +118,33 @@
   {
     "id"    : "gloomstalker",
     "view"  : ["VTp4n", "LkJtS"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610112307,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610142308,
     "done"  : false
   },
   {
     "id"    : "hunter",
-    "view"  : ["xgtQD"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610112306,
+    "view"  : ["xgtQD", "9ifDR"],
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610152259,
     "done"  : false
   },
   {
     "id"    : "ice",
-    "view"  : ["WiaUw"],
+    "view"  : ["WiaUw", "rSaVO"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610080023,
+    "hatch" : 1,
+    "date"  : 202610180714,
     "done"  : false
   },
   {
     "id"    : "jester",
-    "view"  : ["WjaA4", "taytX"],
+    "view"  : ["WjaA4", "taytX", "sU0zv"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610070611,
+    "hatch" : 1,
+    "date"  : 202610180710,
     "done"  : false
   },
   {
@@ -157,17 +158,17 @@
   {
     "id"    : "lightstreak",
     "view"  : ["pGcGA"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610112303,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610142305,
     "done"  : false
   },
   {
     "id"    : "mirisia",
-    "view"  : ["Yp5nh"],
+    "view"  : ["Yp5nh", "yIeae"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610141504,
+    "date"  : 202610152259,
     "done"  : false
   },
   {
@@ -180,18 +181,18 @@
   },
   {
     "id"    : "moonstone",
-    "view"  : ["HGlhV", "3snNg"],
+    "view"  : ["HGlhV", "3snNg", "oSOpB"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610141503,
+    "date"  : 202610152259,
     "done"  : false
   },
   {
     "id"    : "nebula",
-    "view"  : ["JRGlc", "yx8xo", "F9epk"],
+    "view"  : ["JRGlc", "yx8xo", "F9epk", "Yt6Z3"],
     "adults": 3,
-    "hatch" : 0,
-    "date"  : 202609251124,
+    "hatch" : 1,
+    "date"  : 202610180708,
     "done"  : false
   },
   {
@@ -228,10 +229,10 @@
   },
   {
     "id"    : "season_autumn",
-    "view"  : ["UEjr1", "RA0KC"],
+    "view"  : ["UEjr1", "RA0KC", "SVSe6"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610140108,
+    "hatch" : 1,
+    "date"  : 202610180712,
     "done"  : false
   },
   {
@@ -253,9 +254,9 @@
   {
     "id"    : "vampire",
     "view"  : ["opHDZ"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610112131,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202610142131,
     "done"  : false
   },
   {

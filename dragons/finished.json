@@ -468,10 +468,10 @@
   },
   {
     "id"    : "purple",
-    "view"  : ["CSVMN", "1Duho", "iJkOB", "dYWZi"],
+    "view"  : ["CSVMN", "1Duho", "iJkOB", "dYWZi", "iHVKm"],
     "adults": 4,
     "hatch" : 0,
-    "date"  : 202610140106,
+    "date"  : 202610162359,
     "done"  : true
   },
   {
@@ -492,10 +492,10 @@
   },
   {
     "id"    : "red",
-    "view"  : ["ZRhXo", "RLE8E", "DmI42", "cTgRU"],
+    "view"  : ["ZRhXo", "RLE8E", "DmI42", "cTgRU", "Pm7l0"],
     "adults": 4,
     "hatch" : 0,
-    "date"  : 202609242025,
+    "date"  : 202610162359,
     "done"  : true
   },
   {

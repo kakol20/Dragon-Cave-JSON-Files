@@ -93,6 +93,12 @@
     "description" : "The shell of this rough egg is incredibly tough",
     "encyclopedia": "https://dragcave.net/dragonopedia/1810"
   },
+  "guardian"       : {
+    "name"        : ["Guardian Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/o/oy1k08.gif"],
+    "description" : "This egg is sitting in front of the others",
+    "encyclopedia": "https://dragcave.net/dragonopedia/50"
+  },
   "horse"          : {
     "name"        : ["Horse Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/g/g884ay.png"],
@@ -140,6 +146,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/176zxdw.gif"],
     "description" : "This egg resembles a glowing stone",
     "encyclopedia": "https://dragcave.net/dragonopedia/69"
+  },
+  "neotropical"    : {
+    "name"        : ["Neotropical Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1c4y5v4.gif"],
+    "description" : "This egg has strange yellow stripes",
+    "encyclopedia": "https://dragcave.net/dragonopedia/71"
   },
   "nexus"          : {
     "name"        : ["Nexus Dragon"],

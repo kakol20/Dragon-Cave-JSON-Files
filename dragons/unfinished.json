@@ -27,8 +27,8 @@
     "id"    : "brute",
     "view"  : ["blHAx", "06rvy"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610152059,
+    "hatch" : 1,
+    "date"  : 202610182224,
     "done"  : false
   },
   {
@@ -59,8 +59,8 @@
     "id"    : "fell",
     "view"  : ["sALVj", "nX8qS"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610152259,
+    "hatch" : 1,
+    "date"  : 202610182345,
     "done"  : false
   },
   {
@@ -109,10 +109,10 @@
   },
   {
     "id"    : "geode",
-    "view"  : ["5njlM"],
+    "view"  : ["5njlM", "Qcjws"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202609090607,
+    "date"  : 202610162259,
     "done"  : false
   },
   {
@@ -124,11 +124,19 @@
     "done"  : false
   },
   {
+    "id"    : "guardian",
+    "view"  : ["qP8P6"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610162159,
+    "done"  : false
+  },
+  {
     "id"    : "hunter",
     "view"  : ["xgtQD", "9ifDR"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610152259,
+    "hatch" : 1,
+    "date"  : 202610182343,
     "done"  : false
   },
   {
@@ -167,8 +175,8 @@
     "id"    : "mirisia",
     "view"  : ["Yp5nh", "yIeae"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610152259,
+    "hatch" : 1,
+    "date"  : 202610182153,
     "done"  : false
   },
   {
@@ -183,8 +191,8 @@
     "id"    : "moonstone",
     "view"  : ["HGlhV", "3snNg", "oSOpB"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610152259,
+    "hatch" : 1,
+    "date"  : 202610182212,
     "done"  : false
   },
   {
@@ -193,6 +201,14 @@
     "adults": 3,
     "hatch" : 1,
     "date"  : 202610180708,
+    "done"  : false
+  },
+  {
+    "id"    : "neotropical",
+    "view"  : ["K3aKc"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610162159,
     "done"  : false
   },
   {

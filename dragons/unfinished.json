@@ -103,16 +103,16 @@
       "ccga3"
     ],
     "adults": 16,
-    "hatch" : 0,
-    "date"  : 202610170041,
+    "hatch" : 1,
+    "date"  : 202610200041,
     "done"  : false
   },
   {
     "id"    : "geode",
     "view"  : ["5njlM", "Qcjws"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610162259,
+    "hatch" : 1,
+    "date"  : 202610192323,
     "done"  : false
   },
   {
@@ -127,8 +127,8 @@
     "id"    : "guardian",
     "view"  : ["qP8P6"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202610162159,
+    "hatch" : 1,
+    "date"  : 202610192108,
     "done"  : false
   },
   {
@@ -207,16 +207,16 @@
     "id"    : "neotropical",
     "view"  : ["K3aKc"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202610162159,
+    "hatch" : 1,
+    "date"  : 202610192109,
     "done"  : false
   },
   {
     "id"    : "nexus",
-    "view"  : ["nJayc"],
+    "view"  : ["nJayc", "lsYgz"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610091606,
+    "date"  : 202610180459,
     "done"  : false
   },
   {

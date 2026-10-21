@@ -142,17 +142,9 @@
   {
     "id"    : "ice",
     "view"  : ["WiaUw", "rSaVO"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610180714,
-    "done"  : false
-  },
-  {
-    "id"    : "jester",
-    "view"  : ["WjaA4", "taytX", "sU0zv"],
     "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610180710,
+    "hatch" : 0,
+    "date"  : 202610210714,
     "done"  : false
   },
   {
@@ -198,9 +190,9 @@
   {
     "id"    : "nebula",
     "view"  : ["JRGlc", "yx8xo", "F9epk", "Yt6Z3"],
-    "adults": 3,
-    "hatch" : 1,
-    "date"  : 202610180708,
+    "adults": 4,
+    "hatch" : 0,
+    "date"  : 202610210709,
     "done"  : false
   },
   {
@@ -215,8 +207,8 @@
     "id"    : "nexus",
     "view"  : ["nJayc", "lsYgz"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610180459,
+    "hatch" : 1,
+    "date"  : 202610210333,
     "done"  : false
   },
   {
@@ -241,14 +233,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608141153,
-    "done"  : false
-  },
-  {
-    "id"    : "season_autumn",
-    "view"  : ["UEjr1", "RA0KC", "SVSe6"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610180712,
     "done"  : false
   },
   {

@@ -26,9 +26,9 @@
   {
     "id"    : "brute",
     "view"  : ["blHAx", "06rvy"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610182224,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610212225,
     "done"  : false
   },
   {
@@ -58,9 +58,9 @@
   {
     "id"    : "fell",
     "view"  : ["sALVj", "nX8qS"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610182345,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610212345,
     "done"  : false
   },
   {
@@ -133,10 +133,10 @@
   },
   {
     "id"    : "hunter",
-    "view"  : ["xgtQD", "9ifDR"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610182343,
+    "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL"],
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610220745,
     "done"  : false
   },
   {
@@ -149,10 +149,10 @@
   },
   {
     "id"    : "kovos",
-    "view"  : ["KiIBb", "WTzkt"],
+    "view"  : ["KiIBb", "WTzkt", "h37O9"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610140110,
+    "hatch" : 1,
+    "date"  : 202610220720,
     "done"  : false
   },
   {
@@ -166,9 +166,9 @@
   {
     "id"    : "mirisia",
     "view"  : ["Yp5nh", "yIeae"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610182153,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610212153,
     "done"  : false
   },
   {
@@ -177,14 +177,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202608121937,
-    "done"  : false
-  },
-  {
-    "id"    : "moonstone",
-    "view"  : ["HGlhV", "3snNg", "oSOpB"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610182212,
     "done"  : false
   },
   {
@@ -253,10 +245,10 @@
   },
   {
     "id"    : "vampire",
-    "view"  : ["opHDZ"],
+    "view"  : ["opHDZ", "GMPO8"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610142131,
+    "date"  : 202610220741,
     "done"  : false
   },
   {

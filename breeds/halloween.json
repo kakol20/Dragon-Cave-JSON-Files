@@ -1,0 +1,110 @@
+[
+  {
+    "Dragon": "Abyss Watcher Dragon",
+    "Description": "Soft bioluminescence shifts over the surface of this dark egg.",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon": "Arcana Dragon",
+    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Crypt Dragon",
+    "Description": "This cool, weathered egg is a heavy burden to bear.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Grave Dragon",
+    "Description": "This egg appears to have an evil grin.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Gummy Wyrm",
+    "Description": "This egg’s shell is sweet and soft.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon": "Iridichi Dragon",
+    "Description": "Your eyes struggle to completely focus on the light coming through this cloudy egg.",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Kohraki Dragon",
+    "Description": "A fine mist rolls over this cool, scaly egg.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Omen Wyrm",
+    "Description": "This warm egg is tangled in the roots of a dead tree.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Pitfire Dragon",
+    "Description": "Dead leaves obscure this egg’s scratched shell.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Pumpkin Dragon",
+    "Description": "This egg smells like the autumn harvest",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon": "Quantari Dragon",
+    "Description": "You feel the weight of gravity grow heavier as you are pulled toward this molten egg.",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Witchlight Dragon",
+    "Description": "This downy egg is hidden in brambles.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Black Marrow",
+    "Description": "This egg is covered in a dark crust.",
+    "Complete"   : false,
+    "Amount"     : 1
+  },
+  {
+    "Dragon"     : "Caligene Dragon",
+    "Description": "The pattern on this egg’s shell is unsettling.",
+    "Complete"   : false,
+    "Amount"     : 1
+  },
+  {
+    "Dragon"     : "Cavern Lurker Dragon",
+    "Description": "This egg is wedged in a dark corner.",
+    "Complete"   : false,
+    "Amount"     : 1
+  },
+  {
+    "Dragon"     : "Desipis Dragon",
+    "Description": "Being near this egg makes it hard to think clearly.",
+    "Complete"   : false,
+    "Amount"     : 1
+  },
+  {
+    "Dragon"     : "Shadow Walker",
+    "Description": "This egg fades into the shadows.",
+    "Complete"   : false,
+    "Amount"     : 1
+  },
+  {
+    "Dragon"     : "Vampire Dragon",
+    "Description": "This egg is stone cold and smells rotten.",
+    "Complete"   : false,
+    "Amount"     : 2
+  }
+]

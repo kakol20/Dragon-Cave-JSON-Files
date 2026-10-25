@@ -24,6 +24,14 @@
     "done"  : false
   },
   {
+    "id"    : "black_marrow",
+    "view"  : ["uur7H"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610251455,
+    "done"  : false
+  },
+  {
     "id"    : "brute",
     "view"  : ["blHAx", "06rvy"],
     "adults": 2,
@@ -32,11 +40,35 @@
     "done"  : false
   },
   {
+    "id"    : "caligene",
+    "view"  : ["PW2XT"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610251458,
+    "done"  : false
+  },
+  {
+    "id"    : "cavern_lurker",
+    "view"  : ["w48y9"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610251457,
+    "done"  : false
+  },
+  {
     "id"    : "chaliuba",
     "view"  : ["234Y2"],
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610020628,
+    "done"  : false
+  },
+  {
+    "id"    : "desipis",
+    "view"  : ["KRHZh"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610251456,
     "done"  : false
   },
   {
@@ -135,8 +167,8 @@
     "id"    : "hunter",
     "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610220745,
+    "hatch" : 2,
+    "date"  : 202610250746,
     "done"  : false
   },
   {
@@ -151,8 +183,8 @@
     "id"    : "kovos",
     "view"  : ["KiIBb", "WTzkt", "h37O9"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610220720,
+    "hatch" : 1,
+    "date"  : 202610250722,
     "done"  : false
   },
   {
@@ -236,6 +268,14 @@
     "done"  : false
   },
   {
+    "id"    : "shadow",
+    "view"  : ["jdIeC"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202610251459,
+    "done"  : false
+  },
+  {
     "id"    : "two-finn",
     "view"  : ["d4wTd"],
     "adults": 1,
@@ -247,8 +287,8 @@
     "id"    : "vampire",
     "view"  : ["opHDZ", "GMPO8"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610220741,
+    "hatch" : 1,
+    "date"  : 202610250741,
     "done"  : false
   },
   {

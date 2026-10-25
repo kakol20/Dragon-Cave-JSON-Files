@@ -39,6 +39,12 @@
     "description" : "Two thin stripes crisscross the shell of this egg",
     "encyclopedia": "https://dragcave.net/dragonopedia/1726"
   },
+  "black_marrow"   : {
+    "name"        : ["Black Marrow Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/13a7ips.gif"],
+    "description" : "This egg is covered in a dark crust",
+    "encyclopedia": "https://dragcave.net/dragonopedia/53"
+  },
   "bleeding"       : {
     "name": ["Bleeding Moon Dragon"],
     "img": ["https://s.dcave.net/cache/images/8/83rnas.gif"],
@@ -51,17 +57,35 @@
     "description" : "This egg is unusually large and heavy",
     "encyclopedia": "https://dragcave.net/dragonopedia/16"
   },
+  "caligene"       : {
+    "name"        : ["Caligene Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/9/96y5jy.png"],
+    "description" : "The pattern on this egg's shell is unsettling",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1583"
+  },
   "cassare"        : {
     "name"        : ["Cassare Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1uwygva.gif"],
     "description" : "This egg makes you feel a bit uneasy",
     "encyclopedia": "https://dragcave.net/dragonopedia/141"
   },
+  "cavern_lurker"  : {
+    "name"        : ["Cavern Lurker Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/101krhl.gif"],
+    "description" : "This egg is wedged in a dark corner",
+    "encyclopedia": "https://dragcave.net/dragonopedia/55"
+  },
   "chaliuba"       : {
     "name"        : ["Chaliuba Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1pehaca.gif"],
     "description" : "This egg is covered in black and white stripes",
     "encyclopedia": "https://dragcave.net/dragonopedia/1759"
+  },
+  "desipis"        : {
+    "name"        : ["Desipis Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/15h4r8u.png"],
+    "description" : "Being near this egg makes it hard to think clearly",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1270"
   },
   "elux"           : {
     "name"        : ["Elux Lucis Dragon"],
@@ -176,6 +200,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1f7adfm.gif"],
     "description" : "The markings on this egg match the weather outside",
     "encyclopedia": "https://dragcave.net/dragonopedia/1079"
+  },
+  "shadow"         : {
+    "name"        : ["Shadow Walker"],
+    "img"         : ["https://s.dcave.net/cache/images/b/bzzlow.png"],
+    "description" : "This egg fades into the shadows",
+    "encyclopedia": "https://dragcave.net/dragonopedia/54"
   },
   "silvershade"    : {
     "name": ["Silvershade Wyvern"],

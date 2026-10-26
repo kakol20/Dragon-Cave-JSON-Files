@@ -6,12 +6,6 @@
     "Amount": 0
   },
   {
-    "Dragon": "Arcana Dragon",
-    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
-    "Complete": false,
-    "Amount": 0
-  },
-  {
     "Dragon"     : "Crypt Dragon",
     "Description": "This cool, weathered egg is a heavy burden to bear.",
     "Complete"   : false,
@@ -70,6 +64,12 @@
     "Description": "This downy egg is hidden in brambles.",
     "Complete"   : false,
     "Amount"     : 0
+  },
+  {
+    "Dragon": "Arcana Dragon",
+    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
+    "Complete": false,
+    "Amount": 1
   },
   {
     "Dragon"     : "Black Marrow",

@@ -21,6 +21,12 @@
     "description" : "This breed is unknown",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
+  "arcana"         : {
+    "name": ["Arcana Dragon"],
+    "img": ["https://s.dcave.net/cache/images/8/8ymxrb.png"],
+    "description": "This egg has reflective spots that remind you of gems, or eyes",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1631"
+  },
   "aria"           : {
     "name"        : ["Aria Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1174ix7.png"],

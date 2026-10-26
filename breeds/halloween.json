@@ -1,13 +1,13 @@
 [
   {
-    "Dragon": "Abyss Watcher Dragon",
-    "Description": "Soft bioluminescence shifts over the surface of this dark egg.",
+    "Dragon": "#notes",
+    "Description": "Do three of a breed as soon as possible",
     "Complete": false,
     "Amount": 0
   },
   {
-    "Dragon": "Arcana Dragon",
-    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
+    "Dragon": "Abyss Watcher Dragon",
+    "Description": "Soft bioluminescence shifts over the surface of this dark egg.",
     "Complete": false,
     "Amount": 0
   },
@@ -70,6 +70,12 @@
     "Description": "This downy egg is hidden in brambles.",
     "Complete"   : false,
     "Amount"     : 0
+  },
+  {
+    "Dragon": "Arcana Dragon",
+    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
+    "Complete": false,
+    "Amount": 1
   },
   {
     "Dragon"     : "Black Marrow",

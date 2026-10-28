@@ -1,10 +1,10 @@
 [
   {
     "id"    : "arcana",
-    "view"  : ["bWi3f"],
+    "view"  : ["bWi3f", "eJwUE"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202610250259,
+    "hatch" : 1,
+    "date"  : 202610251157,
     "done"  : false
   },
   {
@@ -35,8 +35,8 @@
     "id"    : "black_marrow",
     "view"  : ["uur7H", "uKBT6", "UsF0z"],
     "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610250559,
+    "hatch" : 3,
+    "date"  : 202610280514,
     "done"  : false
   },
   {
@@ -49,18 +49,18 @@
   },
   {
     "id"    : "caligene",
-    "view"  : ["PW2XT"],
+    "view"  : ["PW2XT", "Eyvab", "0KsyI"],
     "adults": 0,
     "hatch" : 1,
-    "date"  : 202610270055,
+    "date"  : 202610251158,
     "done"  : false
   },
   {
     "id"    : "cavern_lurker",
     "view"  : ["w48y9", "iEQlv", "CUinn"],
     "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610250659,
+    "hatch" : 3,
+    "date"  : 202610280624,
     "done"  : false
   },
   {
@@ -73,10 +73,10 @@
   },
   {
     "id"    : "desipis",
-    "view"  : ["KRHZh"],
+    "view"  : ["KRHZh", "nJeC2", "m9zqP"],
     "adults": 0,
     "hatch" : 1,
-    "date"  : 202610270035,
+    "date"  : 202610251159,
     "done"  : false
   },
   {
@@ -174,9 +174,9 @@
   {
     "id"    : "hunter",
     "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL"],
-    "adults": 2,
-    "hatch" : 2,
-    "date"  : 202610250746,
+    "adults": 4,
+    "hatch" : 0,
+    "date"  : 202610280746,
     "done"  : false
   },
   {
@@ -185,14 +185,6 @@
     "adults": 2,
     "hatch" : 0,
     "date"  : 202610210714,
-    "done"  : false
-  },
-  {
-    "id"    : "kovos",
-    "view"  : ["KiIBb", "WTzkt", "h37O9"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610250722,
     "done"  : false
   },
   {
@@ -277,10 +269,10 @@
   },
   {
     "id"    : "shadow",
-    "view"  : ["jdIeC", "If1p9"],
+    "view"  : ["jdIeC", "If1p9", "yvQyS"],
     "adults": 0,
-    "hatch" : 1,
-    "date"  : 202610250659,
+    "hatch" : 2,
+    "date"  : 202610251059,
     "done"  : false
   },
   {
@@ -294,9 +286,9 @@
   {
     "id"    : "vampire",
     "view"  : ["opHDZ", "GMPO8"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202610250741,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202610280742,
     "done"  : false
   },
   {

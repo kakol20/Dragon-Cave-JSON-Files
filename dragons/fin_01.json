@@ -253,9 +253,9 @@
   {
     "id"    : "delta_small",
     "view"  : ["CGWe7", "nDHah", "ERhge", "3pIr9"],
-    "adults": 3,
-    "hatch" : 1,
-    "date"  : 202610250723,
+    "adults": 4,
+    "hatch" : 0,
+    "date"  : 202610280724,
     "done"  : true
   },
   {
@@ -384,6 +384,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607252231,
+    "done"  : true
+  },
+  {
+    "id"    : "kovos",
+    "view"  : ["KiIBb", "WTzkt", "h37O9"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610280722,
     "done"  : true
   },
   {

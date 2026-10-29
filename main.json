@@ -5,8 +5,9 @@
   ],
   "jsonRepo": "https://api.github.com/repos/kakol20/Dragon-Cave-JSON-Files/branches/main",
   "player": [
-    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/unfinished.json",
-    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/fin_01.json"
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/fin_01.json",
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/fin_02.json",
+    "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/unfinished.json"
   ],
   "timezone": "EDT"
 }

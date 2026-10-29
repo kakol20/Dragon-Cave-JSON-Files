@@ -1,10 +1,10 @@
 [
   {
     "id"    : "arcana",
-    "view"  : ["bWi3f", "eJwUE"],
+    "view"  : ["bWi3f", "eJwUE", "mQ472"],
     "adults": 0,
-    "hatch" : 2,
-    "date"  : 202610281240,
+    "hatch" : 3,
+    "date"  : 202610291027,
     "done"  : false
   },
   {
@@ -133,18 +133,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610141504,
-    "done"  : false
-  },
-  {
-    "id"    : "gemshard",
-    "view"  : [
-      "FrA15", "WUbnQ", "WCA6W", "OGMta", "AYUeQ", "50D8S", "NfxC7", "XtyUB",
-      "KELds", "Rkiwb", "mlmt3", "1KJSf", "cN8OJ", "RBNnf", "fsJwO", "smVI5",
-      "ccga3", "1cCB0"
-    ],
-    "adults": 17,
-    "hatch" : 1,
-    "date"  : 202610260219,
     "done"  : false
   },
   {

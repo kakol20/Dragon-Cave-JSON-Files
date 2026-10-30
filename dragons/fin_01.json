@@ -315,6 +315,18 @@
     "done"  : true
   },
   {
+    "id"    : "gemshard",
+    "view"  : [
+      "FrA15", "WUbnQ", "WCA6W", "OGMta", "AYUeQ", "50D8S", "NfxC7", "XtyUB",
+      "KELds", "Rkiwb", "mlmt3", "1KJSf", "cN8OJ", "RBNnf", "1cCB0", "fsJwO",
+      "smVI5", "ccga3"
+    ],
+    "adults": 18,
+    "hatch" : 0,
+    "date"  : 202610290219,
+    "done"  : true
+  },
+  {
     "id"    : "gilgrot",
     "view"  : ["5lYN6", "YSGlG", "qgDxj"],
     "adults": 3,
@@ -363,14 +375,6 @@
     "done"  : true
   },
   {
-    "id"    : "ignimbri",
-    "view"  : ["QpDm7", "Jchlj", "zlenE", "Xys7V"],
-    "adults": 4,
-    "hatch" : 0,
-    "date"  : 202610210708,
-    "done"  : true
-  },
-  {
     "id"    : "jester",
     "view"  : ["WjaA4", "taytX", "sU0zv"],
     "adults": 3,
@@ -392,14 +396,6 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202610280722,
-    "done"  : true
-  },
-  {
-    "id"    : "kymatumi",
-    "view"  : ["hkVjs", "E1xsz", "TizfI"],
-    "adults": 3,
-    "hatch" : 0,
-    "date"  : 202606230000,
     "done"  : true
   },
   {
@@ -475,27 +471,11 @@
     "done"  : true
   },
   {
-    "id"    : "pink",
-    "view"  : ["hWUCJ", "lAeoK", "6cAOv", "NZWVX", "z102M", "PzhiX"],
-    "adults": 6,
-    "hatch" : 0,
-    "date"  : 202610081809,
-    "done"  : true
-  },
-  {
     "id"    : "prismanic",
     "view"  : ["HzbBv", "1NEeq", "cV70A"],
     "adults": 3,
     "hatch" : 0,
     "date"  : 202609020628,
-    "done"  : true
-  },
-  {
-    "id"    : "purple",
-    "view"  : ["CSVMN", "1Duho", "iJkOB", "dYWZi", "iHVKm"],
-    "adults": 5,
-    "hatch" : 0,
-    "date"  : 202610222240,
     "done"  : true
   },
   {
@@ -512,14 +492,6 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202609230351,
-    "done"  : true
-  },
-  {
-    "id"    : "red",
-    "view"  : ["ZRhXo", "RLE8E", "DmI42", "cTgRU", "Pm7l0"],
-    "adults": 5,
-    "hatch" : 0,
-    "date"  : 202610222238,
     "done"  : true
   },
   {
@@ -584,14 +556,6 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607282123,
-    "done"  : true
-  },
-  {
-    "id"    : "shallow_water",
-    "view"  : ["KLnBk", "83ww8", "XkwwB"],
-    "adults": 3,
-    "hatch" : 0,
-    "date"  : 202610091553,
     "done"  : true
   },
   {

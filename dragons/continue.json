@@ -1,0 +1,50 @@
+[
+  {
+    "id"    : "ignimbri",
+    "view"  : ["QpDm7", "Jchlj", "zlenE", "Xys7V"],
+    "adults": 4,
+    "hatch" : 0,
+    "date"  : 202610210708,
+    "done"  : true
+  },
+  {
+    "id"    : "kymatumi",
+    "view"  : ["hkVjs", "E1xsz", "TizfI"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202606230000,
+    "done"  : true
+  },
+  {
+    "id"    : "pink",
+    "view"  : ["hWUCJ", "lAeoK", "6cAOv", "NZWVX", "z102M", "PzhiX"],
+    "adults": 6,
+    "hatch" : 0,
+    "date"  : 202610081809,
+    "done"  : true
+  },
+  {
+    "id"    : "purple",
+    "view"  : ["CSVMN", "1Duho", "iJkOB", "dYWZi", "iHVKm"],
+    "adults": 5,
+    "hatch" : 0,
+    "date"  : 202610222240,
+    "done"  : true
+  },
+  {
+    "id"    : "red",
+    "view"  : ["ZRhXo", "RLE8E", "DmI42", "cTgRU", "Pm7l0"],
+    "adults": 5,
+    "hatch" : 0,
+    "date"  : 202610222238,
+    "done"  : true
+  },
+  {
+    "id"    : "shallow_water",
+    "view"  : ["KLnBk", "83ww8", "XkwwB"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610091553,
+    "done"  : true
+  }
+]

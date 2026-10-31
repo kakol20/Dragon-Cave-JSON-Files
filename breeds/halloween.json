@@ -96,32 +96,32 @@
     "Amount": 3
   },
   {
-    "Dragon"     : "Caligene Dragon",
-    "Description": "The pattern on this egg’s shell is unsettling.",
-    "Complete"   : false,
-    "Amount"     : 3
-  },
-  {
-    "Dragon"     : "Desipis Dragon",
-    "Description": "Being near this egg makes it hard to think clearly.",
-    "Complete"   : false,
-    "Amount"     : 3
-  },
-  {
-    "Dragon"     : "Shadow Walker",
-    "Description": "This egg fades into the shadows.",
-    "Complete"   : false,
-    "Amount"     : 3
-  },
-  {
     "Dragon"     : "Black Marrow",
     "Description": "This egg is covered in a dark crust.",
     "Complete"   : true,
     "Amount"     : 3
   },
   {
+    "Dragon"     : "Caligene Dragon",
+    "Description": "The pattern on this egg’s shell is unsettling.",
+    "Complete"   : true,
+    "Amount"     : 3
+  },
+  {
     "Dragon"     : "Cavern Lurker Dragon",
     "Description": "This egg is wedged in a dark corner.",
+    "Complete"   : true,
+    "Amount"     : 3
+  },
+  {
+    "Dragon"     : "Desipis Dragon",
+    "Description": "Being near this egg makes it hard to think clearly.",
+    "Complete"   : true,
+    "Amount"     : 3
+  },
+  {
+    "Dragon"     : "Shadow Walker",
+    "Description": "This egg fades into the shadows.",
     "Complete"   : true,
     "Amount"     : 3
   }

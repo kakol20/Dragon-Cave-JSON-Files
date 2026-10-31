@@ -184,6 +184,14 @@
     "done"  : true
   },
   {
+    "id"    : "caligene",
+    "view"  : ["PW2XT", "Eyvab", "0KsyI"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610311238,
+    "done"  : true
+  },
+  {
     "id"    : "carina",
     "view"  : ["fwhn4", "fPWKA", "IBmis"],
     "adults": 3,
@@ -272,6 +280,14 @@
     "adults": 4,
     "hatch" : 0,
     "date"  : 202610280724,
+    "done"  : true
+  },
+  {
+    "id"    : "desipis",
+    "view"  : ["KRHZh", "nJeC2", "m9zqP"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610311233,
     "done"  : true
   },
   {
@@ -572,6 +588,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202607282123,
+    "done"  : true
+  },
+  {
+    "id"    : "shadow",
+    "view"  : ["jdIeC", "If1p9", "yvQyS"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610311231,
     "done"  : true
   },
   {

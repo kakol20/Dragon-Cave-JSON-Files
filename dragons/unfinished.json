@@ -18,8 +18,8 @@
   {
     "id"    : "arcana",
     "view"  : ["bWi3f", "eJwUE", "mQ472"],
-    "adults": 1,
-    "hatch" : 2,
+    "adults": 2,
+    "hatch" : 1,
     "date"  : 202610291027,
     "done"  : false
   },
@@ -56,27 +56,11 @@
     "done"  : false
   },
   {
-    "id"    : "caligene",
-    "view"  : ["PW2XT", "Eyvab", "0KsyI"],
-    "adults": 1,
-    "hatch" : 2,
-    "date"  : 202610281237,
-    "done"  : false
-  },
-  {
     "id"    : "chaliuba",
     "view"  : ["234Y2"],
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610020628,
-    "done"  : false
-  },
-  {
-    "id"    : "desipis",
-    "view"  : ["KRHZh", "nJeC2", "m9zqP"],
-    "adults": 1,
-    "hatch" : 2,
-    "date"  : 202610281232,
     "done"  : false
   },
   {
@@ -253,14 +237,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202606260000,
-    "done"  : false
-  },
-  {
-    "id"    : "shadow",
-    "view"  : ["jdIeC", "If1p9", "yvQyS"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610281230,
     "done"  : false
   },
   {

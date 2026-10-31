@@ -72,32 +72,32 @@
     "Amount"     : 0
   },
   {
-    "Dragon"     : "Caligene Dragon",
-    "Description": "The pattern on this egg’s shell is unsettling.",
-    "Complete"   : false,
-    "Amount"     : 1
-  },
-  {
-    "Dragon": "Arcana Dragon",
-    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
-    "Complete": false,
-    "Amount": 2
-  },
-  {
     "Dragon"     : "Vampire Dragon",
     "Description": "This egg is stone cold and smells rotten.",
     "Complete"   : false,
     "Amount"     : 2
   },
   {
-    "Dragon"     : "Black Marrow",
-    "Description": "This egg is covered in a dark crust.",
+    "Dragon"     : "2026 Breed #1",
+    "Description": "Being near this egg makes it hard to think clearly.",
     "Complete"   : false,
     "Amount"     : 3
   },
   {
-    "Dragon"     : "Cavern Lurker Dragon",
-    "Description": "This egg is wedged in a dark corner.",
+    "Dragon": "2026 Breed #2",
+    "Description": "This half-buried egg radiates warmth from amongst the thick undergrowth.",
+    "Complete": false,
+    "Amount": 3
+  },
+  {
+    "Dragon": "Arcana Dragon",
+    "Description": "This egg has reflective spots that remind you of gems, or eyes.",
+    "Complete": false,
+    "Amount": 3
+  },
+  {
+    "Dragon"     : "Caligene Dragon",
+    "Description": "The pattern on this egg’s shell is unsettling.",
     "Complete"   : false,
     "Amount"     : 3
   },
@@ -111,6 +111,18 @@
     "Dragon"     : "Shadow Walker",
     "Description": "This egg fades into the shadows.",
     "Complete"   : false,
+    "Amount"     : 3
+  },
+  {
+    "Dragon"     : "Black Marrow",
+    "Description": "This egg is covered in a dark crust.",
+    "Complete"   : true,
+    "Amount"     : 3
+  },
+  {
+    "Dragon"     : "Cavern Lurker Dragon",
+    "Description": "This egg is wedged in a dark corner.",
+    "Complete"   : true,
     "Amount"     : 3
   }
 ]

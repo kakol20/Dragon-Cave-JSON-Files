@@ -128,6 +128,14 @@
     "done"  : true
   },
   {
+    "id"    : "black_marrow",
+    "view"  : ["uur7H", "uKBT6", "UsF0z"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610310514,
+    "done"  : true
+  },
+  {
     "id"    : "black_tea",
     "view"  : ["BuRyK", "V0YBG", "tSs3e"],
     "adults": 3,
@@ -197,6 +205,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202609242027,
+    "done"  : true
+  },
+  {
+    "id"    : "cavern_lurker",
+    "view"  : ["w48y9", "iEQlv", "CUinn"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202610310628,
     "done"  : true
   },
   {

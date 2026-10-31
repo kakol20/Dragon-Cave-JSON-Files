@@ -9,11 +9,17 @@
     "description" : "This egg's breed is dependent on its hatchling",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "@new_#"         : {
-    "name": ["2026-09-27 - September Dragon Release - Breed #1"],
+  "@new_1"         : {
+    "name": ["2026-10-31 - Happy Halloween! - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description": "The shell of this rough egg is incredibly tough",
-    "encyclopedia": "https://forums.dragcave.net/topic/195848-2026-09-27-september-dragon-release/"
+    "description": "This half-buried egg radiates warmth from amongst the thick undergrowth",
+    "encyclopedia": "https://forums.dragcave.net/topic/195955-2026-10-31-happy-halloween/"
+  },
+  "@new_2"         : {
+    "name": ["2026-10-31 - Happy Halloween! - Breed #2"],
+    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
+    "description": "This egg emits a haunting light that draws your attention",
+    "encyclopedia": "https://forums.dragcave.net/topic/195955-2026-10-31-happy-halloween/"
   },
   "_template"      : {
     "name"        : ["Unknown Breed"],

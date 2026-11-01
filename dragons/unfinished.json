@@ -16,14 +16,6 @@
     "done"  : false
   },
   {
-    "id"    : "arcana",
-    "view"  : ["bWi3f", "eJwUE", "mQ472"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202610291027,
-    "done"  : false
-  },
-  {
     "id"    : "astaarus",
     "view"  : ["DuVh0"],
     "adults": 1,

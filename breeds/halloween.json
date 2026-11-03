@@ -18,12 +18,6 @@
     "Amount"     : 0
   },
   {
-    "Dragon"     : "Grave Dragon",
-    "Description": "This egg appears to have an evil grin.",
-    "Complete"   : false,
-    "Amount"     : 0
-  },
-  {
     "Dragon"     : "Gummy Wyrm",
     "Description": "This egg’s shell is sweet and soft.",
     "Complete"   : false,
@@ -72,12 +66,6 @@
     "Amount"     : 0
   },
   {
-    "Dragon"     : "Vampire Dragon",
-    "Description": "This egg is stone cold and smells rotten.",
-    "Complete"   : false,
-    "Amount"     : 2
-  },
-  {
     "Dragon"     : "2026 Breed #1",
     "Description": "Being near this egg makes it hard to think clearly.",
     "Complete"   : false,
@@ -94,6 +82,18 @@
     "Description": "This egg has reflective spots that remind you of gems, or eyes.",
     "Complete": false,
     "Amount": 3
+  },
+  {
+    "Dragon"     : "Grave Dragon",
+    "Description": "This egg appears to have an evil grin.",
+    "Complete"   : false,
+    "Amount"     : 3
+  },
+  {
+    "Dragon"     : "Vampire Dragon",
+    "Description": "This egg is stone cold and smells rotten.",
+    "Complete"   : false,
+    "Amount"     : 3
   },
   {
     "Dragon"     : "Black Marrow",

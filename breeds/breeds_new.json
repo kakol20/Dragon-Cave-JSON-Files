@@ -129,6 +129,12 @@
     "description" : "The shell of this rough egg is incredibly tough",
     "encyclopedia": "https://dragcave.net/dragonopedia/1810"
   },
+  "grave"          : {
+    "name"        : ["Grave Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/5/5ufs7a.png"],
+    "description" : "This egg appears to have an evil grin",
+    "encyclopedia": "https://dragcave.net/dragonopedia/56"
+  },
   "guardian"       : {
     "name"        : ["Guardian Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/o/oy1k08.gif"],

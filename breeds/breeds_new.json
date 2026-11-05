@@ -9,16 +9,10 @@
     "description" : "This egg's breed is dependent on its hatchling",
     "encyclopedia": "https://dragcave.net/dragonopedia/0"
   },
-  "@new_1"         : {
+  "@new_#"         : {
     "name": ["2026-10-31 - Happy Halloween! - Breed #1"],
     "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
     "description": "This half-buried egg radiates warmth from amongst the thick undergrowth",
-    "encyclopedia": "https://forums.dragcave.net/topic/195955-2026-10-31-happy-halloween/"
-  },
-  "@new_2"         : {
-    "name": ["2026-10-31 - Happy Halloween! - Breed #2"],
-    "img": ["https://s.dcave.net/cache/images/8/8itcaf.gif"],
-    "description": "This egg emits a haunting light that draws your attention",
     "encyclopedia": "https://forums.dragcave.net/topic/195955-2026-10-31-happy-halloween/"
   },
   "_template"      : {
@@ -171,6 +165,12 @@
     "description" : "This egg glows vibrantly in the dark",
     "encyclopedia": "https://dragcave.net/dragonopedia/1739"
   },
+  "mandrake"       : {
+    "name": ["Mandrake"],
+    "img": ["https://s.dcave.net/cache/images/1/194xza7.webp"],
+    "description": "This half-buried egg radiates warmth from amongst the thick undergrowth",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1813"
+  },
   "marocephalic"   : {
     "name"        : ["Marocephalic Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/j/j3l3d2.png"],
@@ -230,6 +230,12 @@
     "img": ["https://s.dcave.net/cache/images/1/1aln1t6.gif"],
     "description": "This dark egg has bright flecks that almost seem to move as they catch the light",
     "encyclopedia": "https://dragcave.net/dragonopedia/1738"
+  },
+  "soulguide"      : {
+    "name": ["Soulguide Dragon"],
+    "img": ["https://s.dcave.net/cache/images/r/r3n442.webp"],
+    "description": "This egg emits a haunting light that draws your attention",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1812"
   },
   "tetra"          : {
     "name"        : ["Tetra Dragon"],

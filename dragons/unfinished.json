@@ -152,14 +152,6 @@
     "done"  : false
   },
   {
-    "id"    : "mandrake",
-    "view"  : ["HeFvt", "DRPgY", "OMcRh"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202611030305,
-    "done"  : false
-  },
-  {
     "id"    : "mirisia",
     "view"  : ["Yp5nh", "yIeae"],
     "adults": 2,
@@ -229,14 +221,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202606260000,
-    "done"  : false
-  },
-  {
-    "id"    : "soulguide",
-    "view"  : ["xAVft", "gAiFM", "fH6sm"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202611030435,
     "done"  : false
   },
   {

@@ -1,0 +1,122 @@
+[
+  {
+    "Dragon": "#notes",
+    "Description": "Do three of a breed as soon as possible. They can breed all year round",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon": "Aegis",
+    "Description": "A wintry chill swirls just beneath the surface of this egg",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Blizzard Wizard",
+    "Description": "This colorful egg is covered by a light layer of snow",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon": "Cardinal",
+    "Description": "The markings on this cloudy egg glint like gossamer in the sun",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Garland",
+    "Description": "This festive egg gives off comforting warmth",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Glystere",
+    "Description": "Colorful light twinkles within this frozen egg",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Harkfrost",
+    "Description": "Powdery snow swirls gently around this egg",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Holly",
+    "Description": "This egg has a holly leaf stuck to it",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Light Weaver",
+    "Description": "A warm, comforting light emanates from within this egg",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Mistletoe",
+    "Description": "This colorful egg gleams in the light",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon": "Noctivellus",
+    "Description": "A faint light glows from within this egg, as if it holds the essence of a winter night",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Pyranost",
+    "Description": "This warm brown egg smells faintly of spices",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Snow",
+    "Description": "This egg is surrounded by frost.",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Snow Angel",
+    "Description": "This egg fills you with holiday cheer",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Solstice",
+    "Description": "This egg emits a soft, heartwarming glow",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Starsinger",
+    "Description": "This egg glows with a soft, soothing light",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon": "Wintertide",
+    "Description": "This egg emanates a gentle chime when met with the winter breeze",
+    "Complete": false,
+    "Amount": 0
+  },
+  {
+    "Dragon"     : "Wrapping-Wing",
+    "Description": "This egg has a rich, shiny pattern on it",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Yulebuck",
+    "Description": "This egg is covered with bright, festive stripes",
+    "Complete"   : false,
+    "Amount"     : 0
+  },
+  {
+    "Dragon"     : "Ribbon Dancer",
+    "Description": "This egg shines like a holiday ribbon",
+    "Complete"   : false,
+    "Amount"     : 1
+  }
+]

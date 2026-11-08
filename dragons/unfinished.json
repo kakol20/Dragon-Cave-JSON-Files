@@ -9,10 +9,10 @@
   },
   {
     "id"    : "avatar-destruct",
-    "view"  : ["Rbkcr"],
+    "view"  : ["Rbkcr", "S0BJ7"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610080555,
+    "hatch" : 1,
+    "date"  : 202611081723,
     "done"  : false
   },
   {
@@ -25,34 +25,34 @@
   },
   {
     "id"    : "brute",
-    "view"  : ["blHAx", "06rvy"],
+    "view"  : ["blHAx", "06rvy", "O1fdq"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610212225,
+    "hatch" : 1,
+    "date"  : 202611081539,
     "done"  : false
   },
   {
     "id"    : "chaliuba",
-    "view"  : ["234Y2"],
+    "view"  : ["234Y2", "QTRFw"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610020628,
+    "hatch" : 1,
+    "date"  : 202611081530,
     "done"  : false
   },
   {
     "id"    : "dorsal",
     "view"  : ["Li91g", "xwWyN", "IgMHW", "XUC1p"],
     "adults": 3,
-    "hatch" : 0,
-    "date"  : 202611050852,
+    "hatch" : 1,
+    "date"  : 202611080852,
     "done"  : false
   },
   {
     "id"    : "elux",
-    "view"  : ["Mjquz"],
+    "view"  : ["Mjquz", "lOqqa"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202610142306,
+    "hatch" : 1,
+    "date"  : 202611081624,
     "done"  : false
   },
   {
@@ -67,8 +67,8 @@
     "id"    : "fellwinter",
     "view"  : ["s8Kg8", "7F528"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202611050855,
+    "hatch" : 1,
+    "date"  : 202611080855,
     "done"  : false
   },
   {
@@ -97,18 +97,18 @@
   },
   {
     "id"    : "geode",
-    "view"  : ["5njlM", "Qcjws"],
+    "view"  : ["5njlM", "Qcjws", "BPwK4"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202610222224,
+    "hatch" : 1,
+    "date"  : 202611081421,
     "done"  : false
   },
   {
     "id"    : "gloomstalker",
     "view"  : ["VTp4n", "LkJtS", "OWkRS"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611050852,
+    "hatch" : 1,
+    "date"  : 202611080857,
     "done"  : false
   },
   {
@@ -123,8 +123,8 @@
     "id"    : "hunter",
     "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE"],
     "adults": 4,
-    "hatch" : 0,
-    "date"  : 202611050853,
+    "hatch" : 1,
+    "date"  : 202611080854,
     "done"  : false
   },
   {
@@ -187,8 +187,8 @@
     "id"    : "ridgewing",
     "view"  : ["7CN9X", "F8s9w", "0fp1c", "Fkm3m", "2qe2g", "QPxHt"],
     "adults": 5,
-    "hatch" : 0,
-    "date"  : 202611050851,
+    "hatch" : 1,
+    "date"  : 202611080852,
     "done"  : false
   },
   {
@@ -235,8 +235,8 @@
     "id"    : "warden",
     "view"  : ["nj7cU", "GAn6d", "lY3E2"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611050850,
+    "hatch" : 1,
+    "date"  : 202611080851,
     "done"  : false
   }
 ]

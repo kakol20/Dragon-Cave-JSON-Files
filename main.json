@@ -4,7 +4,7 @@
     "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/breeds/breeds_new.json"
   ],
   "jsonRepo": "https://api.github.com/repos/kakol20/Dragon-Cave-JSON-Files/branches/main",
-  "player": [
+  "dragons": [
     "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/continue.json",
     "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/fin_01.json",
     "https://raw.githubusercontent.com/kakol20/Dragon-Cave-JSON-Files/main/dragons/fin_02.json",

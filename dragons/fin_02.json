@@ -8,6 +8,14 @@
     "done"  : true
   },
   {
+    "id"    : "gloomstalker",
+    "view"  : ["VTp4n", "LkJtS", "OWkRS"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611110858,
+    "done"  : true
+  },
+  {
     "id"    : "grave",
     "view"  : ["JNFGM", "QjMec", "F7xHc"],
     "adults": 3,
@@ -48,6 +56,14 @@
     "done"  : true
   },
   {
+    "id"    : "ridgewing",
+    "view"  : ["7CN9X", "F8s9w", "0fp1c", "Fkm3m", "2qe2g", "QPxHt"],
+    "adults": 6,
+    "hatch" : 0,
+    "date"  : 202611110852,
+    "done"  : true
+  },
+  {
     "id"    : "soulguide",
     "view"  : ["xAVft", "gAiFM", "fH6sm"],
     "adults": 3,
@@ -61,6 +77,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202611060728,
+    "done"  : true
+  },
+  {
+    "id"    : "warden",
+    "view"  : ["nj7cU", "GAn6d", "lY3E2"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611110851,
     "done"  : true
   }
 ]

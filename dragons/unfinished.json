@@ -1,10 +1,10 @@
 [
   {
     "id"    : "astaarus",
-    "view"  : ["DuVh0"],
+    "view"  : ["DuVh0", "aW7cx"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202608201449,
+    "date"  : 202611120656,
     "done"  : false
   },
   {
@@ -57,10 +57,10 @@
   },
   {
     "id"    : "fellwinter",
-    "view"  : ["s8Kg8", "7F528"],
+    "view"  : ["s8Kg8", "7F528", "MXI2Z"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202611110857,
+    "date"  : 202611120652,
     "done"  : false
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "id"    : "hunter",
-    "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE"],
+    "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB"],
     "adults": 5,
     "hatch" : 0,
-    "date"  : 20261110856,
+    "date"  : 202611120648,
     "done"  : false
   },
   {
@@ -121,10 +121,10 @@
   },
   {
     "id"    : "mirisia",
-    "view"  : ["Yp5nh", "yIeae"],
+    "view"  : ["Yp5nh", "yIeae", "SpGR4"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610212153,
+    "date"  : 202611120649,
     "done"  : false
   },
   {
@@ -145,10 +145,10 @@
   },
   {
     "id"    : "nexus",
-    "view"  : ["nJayc", "lsYgz"],
+    "view"  : ["nJayc", "lsYgz", "y27x4"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610240334,
+    "date"  : 202611120651,
     "done"  : false
   },
   {

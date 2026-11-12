@@ -1,10 +1,12 @@
 [
   {
     "id"    : "pink",
-    "view"  : ["hWUCJ", "lAeoK", "6cAOv", "NZWVX", "z102M", "PzhiX", "gjZ0Z"],
+    "view"  : [
+      "hWUCJ", "lAeoK", "6cAOv", "NZWVX", "z102M", "PzhiX", "gjZ0Z", "gNbmB"
+    ],
     "adults": 7,
     "hatch" : 0,
-    "date"  : 202611111422,
+    "date"  : 202611120653,
     "done"  : true
   },
   {
@@ -25,10 +27,10 @@
   },
   {
     "id"    : "shallow_water",
-    "view"  : ["KLnBk", "83ww8", "XkwwB"],
+    "view"  : ["KLnBk", "83ww8", "XkwwB", "GixwL"],
     "adults": 3,
     "hatch" : 0,
-    "date"  : 202610091553,
+    "date"  : 202611120652,
     "done"  : true
   }
 ]

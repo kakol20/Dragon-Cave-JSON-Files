@@ -10,9 +10,9 @@
   {
     "id"    : "avatar-destruct",
     "view"  : ["Rbkcr", "S0BJ7"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611081723,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611112029,
     "done"  : false
   },
   {
@@ -24,19 +24,11 @@
     "done"  : false
   },
   {
-    "id"    : "brute",
-    "view"  : ["blHAx", "06rvy", "O1fdq"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611081539,
-    "done"  : false
-  },
-  {
     "id"    : "chaliuba",
     "view"  : ["234Y2", "QTRFw"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611081530,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611111530,
     "done"  : false
   },
   {
@@ -50,9 +42,9 @@
   {
     "id"    : "elux",
     "view"  : ["Mjquz", "lOqqa"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611081624,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611111624,
     "done"  : false
   },
   {
@@ -93,14 +85,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610141504,
-    "done"  : false
-  },
-  {
-    "id"    : "geode",
-    "view"  : ["5njlM", "Qcjws", "BPwK4"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611081421,
     "done"  : false
   },
   {

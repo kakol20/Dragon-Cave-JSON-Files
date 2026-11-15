@@ -39,6 +39,12 @@
     "description" : "This smoldering egg radiates volatile energy",
     "encyclopedia": "https://dragcave.net/dragonopedia/136"
   },
+  "balloon"        : {
+    "name"        : ["Balloon Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/y/yzorpf.gif"],
+    "description" : "This light egg is floating in the air",
+    "encyclopedia": "https://dragcave.net/dragonopedia/5"
+  },
   "berry"          : {
     "name"        : ["Berry Drake"],
     "img"         : ["https://s.dcave.net/cache/images/w/w5qp0v.gif"],
@@ -177,6 +183,18 @@
     "description" : "This egg has washed up on the beach",
     "encyclopedia": "https://dragcave.net/dragonopedia/1735"
   },
+  "mimic"          : {
+    "name"        : ["Mimic Pygmy"],
+    "img"         : ["https://s.dcave.net/cache/images/e/en8rp2.gif"],
+    "description" : "This tiny glowing egg tempts you to follow its light",
+    "encyclopedia": "https://dragcave.net/dragonopedia/181"
+  },
+  "mint"           : {
+    "name"        : ["Mint Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/w/wio3o9.gif"],
+    "description" : "This egg is hidden behind the others, as if it is shy",
+    "encyclopedia": "https://dragcave.net/dragonopedia/68"
+  },
   "mirisia"        : {
     "name"        : ["Mirisia Amphiptere"],
     "img"         : ["https://s.dcave.net/cache/images/o/ox6b06.gif"],
@@ -206,6 +224,12 @@
     "img"         : ["https://s.dcave.net/cache/images/1/1psu9q9.gif"],
     "description" : "This egg was left in an ornate nest of fur and grass",
     "encyclopedia": "https://dragcave.net/dragonopedia/1766"
+  },
+  "red-tailed"     : {
+    "name"        : ["Red-Tailed Wyrm"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1g9t577.gif"],
+    "description" : "This tiny egg has a bold red streak on it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1615"
   },
   "script"         : {
     "name"        : ["Script Dragon"],

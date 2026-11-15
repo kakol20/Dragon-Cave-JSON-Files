@@ -3,8 +3,8 @@
     "id"    : "astaarus",
     "view"  : ["DuVh0", "aW7cx"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202611120656,
+    "hatch" : 1,
+    "date"  : 202611150656,
     "done"  : false
   },
   {
@@ -13,6 +13,14 @@
     "adults": 2,
     "hatch" : 0,
     "date"  : 202611112029,
+    "done"  : false
+  },
+  {
+    "id"    : "balloon",
+    "view"  : ["ursGN"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611130159,
     "done"  : false
   },
   {
@@ -49,18 +57,18 @@
   },
   {
     "id"    : "fell",
-    "view"  : ["sALVj", "nX8qS"],
+    "view"  : ["sALVj", "nX8qS", "gVtwM"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202610212345,
+    "date"  : 202611130159,
     "done"  : false
   },
   {
     "id"    : "fellwinter",
     "view"  : ["s8Kg8", "7F528", "MXI2Z"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611120652,
+    "hatch" : 1,
+    "date"  : 202611150654,
     "done"  : false
   },
   {
@@ -81,26 +89,26 @@
   },
   {
     "id"    : "geminae",
-    "view"  : ["NtG7z"],
+    "view"  : ["NtG7z", "0RQiS"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610141504,
+    "date"  : 202611130259,
     "done"  : false
   },
   {
     "id"    : "guardian",
-    "view"  : ["qP8P6"],
+    "view"  : ["qP8P6", "6T2qk"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610222108,
+    "date"  : 202611122359,
     "done"  : false
   },
   {
     "id"    : "hunter",
     "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB"],
     "adults": 5,
-    "hatch" : 0,
-    "date"  : 202611120648,
+    "hatch" : 1,
+    "date"  : 202611150648,
     "done"  : false
   },
   {
@@ -120,11 +128,27 @@
     "done"  : false
   },
   {
+    "id"    : "mimic",
+    "view"  : ["lO3p5"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611130259,
+    "done"  : false
+  },
+  {
+    "id"    : "mint",
+    "view"  : ["ev76K"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611130159,
+    "done"  : false
+  },
+  {
     "id"    : "mirisia",
     "view"  : ["Yp5nh", "yIeae", "SpGR4"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611120649,
+    "hatch" : 1,
+    "date"  : 202611150650,
     "done"  : false
   },
   {
@@ -147,8 +171,8 @@
     "id"    : "nexus",
     "view"  : ["nJayc", "lsYgz", "y27x4"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611120651,
+    "hatch" : 1,
+    "date"  : 202611150652,
     "done"  : false
   },
   {
@@ -157,6 +181,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610091424,
+    "done"  : false
+  },
+  {
+    "id"    : "red-tailed",
+    "view"  : ["tDoMJ"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611130059,
     "done"  : false
   },
   {

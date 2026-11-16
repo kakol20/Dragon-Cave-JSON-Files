@@ -9,18 +9,18 @@
   },
   {
     "id"    : "avatar-destruct",
-    "view"  : ["Rbkcr", "S0BJ7"],
+    "view"  : ["Rbkcr", "S0BJ7", "GiREg"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202611112029,
+    "date"  : 202611131659,
     "done"  : false
   },
   {
     "id"    : "balloon",
     "view"  : ["ursGN"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202611130159,
+    "hatch" : 1,
+    "date"  : 202611160626,
     "done"  : false
   },
   {
@@ -59,8 +59,8 @@
     "id"    : "fell",
     "view"  : ["sALVj", "nX8qS", "gVtwM"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611130159,
+    "hatch" : 1,
+    "date"  : 202611160629,
     "done"  : false
   },
   {
@@ -91,24 +91,27 @@
     "id"    : "geminae",
     "view"  : ["NtG7z", "0RQiS"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202611130259,
+    "hatch" : 1,
+    "date"  : 202611160641,
     "done"  : false
   },
   {
     "id"    : "guardian",
     "view"  : ["qP8P6", "6T2qk"],
     "adults": 1,
-    "hatch" : 0,
-    "date"  : 202611122359,
+    "hatch" : 1,
+    "date"  : 202611160639,
     "done"  : false
   },
   {
     "id"    : "hunter",
-    "view"  : ["xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB"],
+    "view"  : [
+      "xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB", "tY1M2", "jDHnr",
+      "2Ruyu"
+    ],
     "adults": 5,
     "hatch" : 1,
-    "date"  : 202611150648,
+    "date"  : 202611131659,
     "done"  : false
   },
   {
@@ -131,16 +134,16 @@
     "id"    : "mimic",
     "view"  : ["lO3p5"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202611130259,
+    "hatch" : 1,
+    "date"  : 202611160627,
     "done"  : false
   },
   {
     "id"    : "mint",
     "view"  : ["ev76K"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202611130159,
+    "hatch" : 1,
+    "date"  : 202611160638,
     "done"  : false
   },
   {
@@ -187,8 +190,8 @@
     "id"    : "red-tailed",
     "view"  : ["tDoMJ"],
     "adults": 0,
-    "hatch" : 0,
-    "date"  : 202611130059,
+    "hatch" : 1,
+    "date"  : 202611160636,
     "done"  : false
   },
   {

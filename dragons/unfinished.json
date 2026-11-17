@@ -11,8 +11,8 @@
     "id"    : "avatar-destruct",
     "view"  : ["Rbkcr", "S0BJ7", "GiREg"],
     "adults": 2,
-    "hatch" : 0,
-    "date"  : 202611131659,
+    "hatch" : 1,
+    "date"  : 202611162004,
     "done"  : false
   },
   {
@@ -110,8 +110,8 @@
       "2Ruyu"
     ],
     "adults": 5,
-    "hatch" : 1,
-    "date"  : 202611131659,
+    "hatch" : 4,
+    "date"  : 202611161841,
     "done"  : false
   },
   {

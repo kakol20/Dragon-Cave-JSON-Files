@@ -13,8 +13,8 @@
     "id"    : "purple",
     "view"  : ["CSVMN", "1Duho", "iJkOB", "dYWZi", "iHVKm", "Dyid7", "DP8pm"],
     "adults": 6,
-    "hatch" : 0,
-    "date"  : 202611131559,
+    "hatch" : 1,
+    "date"  : 202611161846,
     "done"  : true
   },
   {
@@ -24,8 +24,8 @@
       "jjFGE"
     ],
     "adults": 7,
-    "hatch" : 0,
-    "date"  : 202611131659,
+    "hatch" : 2,
+    "date"  : 202611161842,
     "done"  : true
   },
   {

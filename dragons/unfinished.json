@@ -2,9 +2,9 @@
   {
     "id"    : "astaarus",
     "view"  : ["DuVh0", "aW7cx"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611150656,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611180657,
     "done"  : false
   },
   {
@@ -64,14 +64,6 @@
     "done"  : false
   },
   {
-    "id"    : "fellwinter",
-    "view"  : ["s8Kg8", "7F528", "MXI2Z"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611150654,
-    "done"  : false
-  },
-  {
     "id"    : "floret_alstro",
     "view"  : ["4Vnm0", "xj3Kw", "q1lzU"],
     "adults": 3,
@@ -109,8 +101,8 @@
       "xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB", "tY1M2", "jDHnr",
       "2Ruyu"
     ],
-    "adults": 5,
-    "hatch" : 4,
+    "adults": 6,
+    "hatch" : 3,
     "date"  : 202611161841,
     "done"  : false
   },
@@ -147,14 +139,6 @@
     "done"  : false
   },
   {
-    "id"    : "mirisia",
-    "view"  : ["Yp5nh", "yIeae", "SpGR4"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611150650,
-    "done"  : false
-  },
-  {
     "id"    : "nebula",
     "view"  : ["JRGlc", "yx8xo", "F9epk", "Yt6Z3"],
     "adults": 4,
@@ -168,14 +152,6 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202610222107,
-    "done"  : false
-  },
-  {
-    "id"    : "nexus",
-    "view"  : ["nJayc", "lsYgz", "y27x4"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611150652,
     "done"  : false
   },
   {

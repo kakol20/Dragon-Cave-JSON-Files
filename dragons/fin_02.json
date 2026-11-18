@@ -16,6 +16,14 @@
     "done"  : true
   },
   {
+    "id"    : "fellwinter",
+    "view"  : ["s8Kg8", "7F528", "MXI2Z"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611180654,
+    "done"  : true
+  },
+  {
     "id"    : "geode",
     "view"  : ["5njlM", "Qcjws", "BPwK4"],
     "adults": 3,
@@ -64,11 +72,27 @@
     "done"  : true
   },
   {
+    "id"    : "mirisia",
+    "view"  : ["Yp5nh", "yIeae", "SpGR4"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611180651,
+    "done"  : true
+  },
+  {
     "id"    : "mistlet",
     "view"  : ["7kRmK", "02hng", "Odcqs"],
     "adults": 3,
     "hatch" : 0,
     "date"  : 202611060734,
+    "done"  : true
+  },
+  {
+    "id"    : "nexus",
+    "view"  : ["nJayc", "lsYgz", "y27x4"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611180654,
     "done"  : true
   },
   {

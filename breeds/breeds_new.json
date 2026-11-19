@@ -141,6 +141,12 @@
     "description" : "This egg is sitting in front of the others",
     "encyclopedia": "https://dragcave.net/dragonopedia/50"
   },
+  "hellhorse"      : {
+    "name"        : ["Hellhorse Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1nl9691.png"],
+    "description" : "This hot egg shakes violently when you touch it",
+    "encyclopedia": "https://dragcave.net/dragonopedia/59"
+  },
   "horse"          : {
     "name"        : ["Horse Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/g/g884ay.png"],
@@ -254,6 +260,12 @@
     "img": ["https://s.dcave.net/cache/images/1/1aln1t6.gif"],
     "description": "This dark egg has bright flecks that almost seem to move as they catch the light",
     "encyclopedia": "https://dragcave.net/dragonopedia/1738"
+  },
+  "sophrosyne"     : {
+    "name"        : ["Sophrosyne Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1oeoex3.gif"],
+    "description" : "This egg gives off a beautiful glow",
+    "encyclopedia": "https://dragcave.net/dragonopedia/98"
   },
   "soulguide"      : {
     "name": ["Soulguide Dragon"],

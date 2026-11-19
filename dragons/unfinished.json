@@ -18,9 +18,9 @@
   {
     "id"    : "balloon",
     "view"  : ["ursGN"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202611160626,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202611190626,
     "done"  : false
   },
   {
@@ -33,10 +33,10 @@
   },
   {
     "id"    : "chaliuba",
-    "view"  : ["234Y2", "QTRFw"],
+    "view"  : ["234Y2", "QTRFw", "8a9eA"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202611111530,
+    "date"  : 202611190421,
     "done"  : false
   },
   {
@@ -53,14 +53,6 @@
     "adults": 2,
     "hatch" : 0,
     "date"  : 202611111624,
-    "done"  : false
-  },
-  {
-    "id"    : "fell",
-    "view"  : ["sALVj", "nX8qS", "gVtwM"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611160629,
     "done"  : false
   },
   {
@@ -82,17 +74,25 @@
   {
     "id"    : "geminae",
     "view"  : ["NtG7z", "0RQiS"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611160641,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611190642,
     "done"  : false
   },
   {
     "id"    : "guardian",
     "view"  : ["qP8P6", "6T2qk"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611160639,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611190640,
+    "done"  : false
+  },
+  {
+    "id"    : "hellhorse",
+    "view"  : ["dcdHp"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611190438,
     "done"  : false
   },
   {
@@ -116,42 +116,42 @@
   },
   {
     "id"    : "lightstreak",
-    "view"  : ["pGcGA"],
+    "view"  : ["pGcGA", "tC15Q"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610142305,
+    "date"  : 202611190424,
     "done"  : false
   },
   {
     "id"    : "mimic",
     "view"  : ["lO3p5"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202611160627,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202611190627,
     "done"  : false
   },
   {
     "id"    : "mint",
     "view"  : ["ev76K"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202611160638,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202611190639,
     "done"  : false
   },
   {
     "id"    : "nebula",
-    "view"  : ["JRGlc", "yx8xo", "F9epk", "Yt6Z3"],
+    "view"  : ["JRGlc", "yx8xo", "F9epk", "Yt6Z3", "QGgNk"],
     "adults": 4,
     "hatch" : 0,
-    "date"  : 202610210709,
+    "date"  : 202611190419,
     "done"  : false
   },
   {
     "id"    : "neotropical",
-    "view"  : ["K3aKc"],
+    "view"  : ["K3aKc", "hroQx"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610222107,
+    "date"  : 202611190424,
     "done"  : false
   },
   {
@@ -165,9 +165,9 @@
   {
     "id"    : "red-tailed",
     "view"  : ["tDoMJ"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202611160636,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202611190636,
     "done"  : false
   },
   {
@@ -187,11 +187,19 @@
     "done"  : false
   },
   {
+    "id"    : "sophrosyne",
+    "view"  : ["tAx0H"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611190443,
+    "done"  : false
+  },
+  {
     "id"    : "two-finn",
-    "view"  : ["d4wTd"],
+    "view"  : ["d4wTd", "E9LfC"],
     "adults": 1,
     "hatch" : 0,
-    "date"  : 202610080045,
+    "date"  : 202611190423,
     "done"  : false
   },
   {

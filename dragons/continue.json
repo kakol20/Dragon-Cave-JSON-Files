@@ -12,9 +12,9 @@
   {
     "id"    : "purple",
     "view"  : ["CSVMN", "1Duho", "iJkOB", "dYWZi", "iHVKm", "Dyid7", "DP8pm"],
-    "adults": 6,
-    "hatch" : 1,
-    "date"  : 202611161846,
+    "adults": 7,
+    "hatch" : 0,
+    "date"  : 202611191847,
     "done"  : true
   },
   {
@@ -23,9 +23,9 @@
       "ZRhXo", "RLE8E", "DmI42", "cTgRU", "Pm7l0", "9BDJv", "UAzcP", "f5bSg",
       "jjFGE"
     ],
-    "adults": 7,
-    "hatch" : 2,
-    "date"  : 202611161842,
+    "adults": 9,
+    "hatch" : 0,
+    "date"  : 202611191844,
     "done"  : true
   },
   {

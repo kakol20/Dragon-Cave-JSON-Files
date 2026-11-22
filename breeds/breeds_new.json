@@ -213,6 +213,12 @@
     "description" : "This egg emanates a peculiar smell",
     "encyclopedia": "https://dragcave.net/dragonopedia/1706"
   },
+  "moonblight"     : {
+    "name"        : ["Moonblight Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1t5u25j.gif"],
+    "description" : "Moonlight ripples across this fragile egg's shell",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1786"
+  },
   "moonstone"      : {
     "name"        : ["Moonstone Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/176zxdw.gif"],

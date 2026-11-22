@@ -63,6 +63,12 @@
     "description": "This egg shines brilliantly in moonlight, and is covered in red spots",
     "encyclopedia": "https://dragcave.net/dragonopedia/9"
   },
+  "boreal"         : {
+    "name"        : ["Boreal Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1rduy9f.gif"],
+    "description" : "This egg is covered in pale blue spots",
+    "encyclopedia": "https://dragcave.net/dragonopedia/180"
+  },
   "brute"          : {
     "name"        : ["Brute Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/1/1f4iqiy.png"],

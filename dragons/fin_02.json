@@ -8,6 +8,14 @@
     "done"  : true
   },
   {
+    "id"    : "astaarus",
+    "view"  : ["DuVh0", "aW7cx", "D9PG4"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611251133,
+    "done"  : true
+  },
+  {
     "id"    : "avatar-destruct",
     "view"  : ["Rbkcr", "S0BJ7", "GiREg"],
     "adults": 3,
@@ -125,6 +133,14 @@
     "adults": 3,
     "hatch" : 0,
     "date"  : 202611060734,
+    "done"  : true
+  },
+  {
+    "id"    : "moonblight",
+    "view"  : ["OLwhj", "nsVAE", "0I48y"],
+    "adults": 3,
+    "hatch" : 0,
+    "date"  : 202611251129,
     "done"  : true
   },
   {

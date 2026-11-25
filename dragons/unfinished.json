@@ -24,22 +24,6 @@
     "done"  : false
   },
   {
-    "id"    : "boreal",
-    "view"  : ["rv0YS", "SRo8m", "CRNiJ"],
-    "adults": 0,
-    "hatch" : 3,
-    "date"  : 202611220801,
-    "done"  : false
-  },
-  {
-    "id"    : "chaliuba",
-    "view"  : ["234Y2", "QTRFw", "8a9eA"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611220422,
-    "done"  : false
-  },
-  {
     "id"    : "dorsal",
     "view"  : ["Li91g", "xwWyN", "IgMHW", "XUC1p"],
     "adults": 4,
@@ -80,19 +64,11 @@
     "done"  : false
   },
   {
-    "id"    : "guardian",
-    "view"  : ["qP8P6", "6T2qk", "ZHf1N"],
-    "adults": 2,
-    "hatch" : 1,
-    "date"  : 202611220808,
-    "done"  : false
-  },
-  {
     "id"    : "hellhorse",
     "view"  : ["dcdHp"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202611220438,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202611250439,
     "done"  : false
   },
   {
@@ -101,8 +77,8 @@
       "xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB", "tY1M2", "jDHnr",
       "2Ruyu", "ZPNat", "37wO1"
     ],
-    "adults": 9,
-    "hatch" : 2,
+    "adults": 10,
+    "hatch" : 1,
     "date"  : 202611221134,
     "done"  : false
   },
@@ -117,9 +93,9 @@
   {
     "id"    : "lightstreak",
     "view"  : ["pGcGA", "tC15Q"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611220425,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611250425,
     "done"  : false
   },
   {
@@ -147,19 +123,11 @@
     "done"  : false
   },
   {
-    "id"    : "nebula",
-    "view"  : ["JRGlc", "yx8xo", "F9epk", "Yt6Z3", "QGgNk"],
-    "adults": 4,
-    "hatch" : 1,
-    "date"  : 202611220420,
-    "done"  : false
-  },
-  {
     "id"    : "neotropical",
     "view"  : ["K3aKc", "hroQx"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611220424,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611250424,
     "done"  : false
   },
   {
@@ -197,17 +165,17 @@
   {
     "id"    : "sophrosyne",
     "view"  : ["tAx0H"],
-    "adults": 0,
-    "hatch" : 1,
-    "date"  : 202611220444,
+    "adults": 1,
+    "hatch" : 0,
+    "date"  : 202611250444,
     "done"  : false
   },
   {
     "id"    : "two-finn",
     "view"  : ["d4wTd", "E9LfC"],
-    "adults": 1,
-    "hatch" : 1,
-    "date"  : 202611220423,
+    "adults": 2,
+    "hatch" : 0,
+    "date"  : 202611250423,
     "done"  : false
   },
   {

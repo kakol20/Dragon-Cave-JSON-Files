@@ -285,6 +285,12 @@
     "description": "This egg emits a haunting light that draws your attention",
     "encyclopedia": "https://dragcave.net/dragonopedia/1812"
   },
+  "split"          : {
+    "name"        : ["Split Dragon"],
+    "img"         : ["https://s.dcave.net/cache/images/1/1xfu0rc.png"],
+    "description" : "This egg is split down the middle into two colors",
+    "encyclopedia": "https://dragcave.net/dragonopedia/1"
+  },
   "tetra"          : {
     "name"        : ["Tetra Dragon"],
     "img"         : ["https://s.dcave.net/cache/images/2/2m22tz.gif"],

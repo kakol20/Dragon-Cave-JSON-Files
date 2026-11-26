@@ -25,10 +25,10 @@
   },
   {
     "id"    : "elux",
-    "view"  : ["Mjquz", "lOqqa"],
+    "view"  : ["Mjquz", "lOqqa", "7xboX"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202611111624,
+    "date"  : 202611260034,
     "done"  : false
   },
   {
@@ -49,10 +49,10 @@
   },
   {
     "id"    : "geminae",
-    "view"  : ["NtG7z", "0RQiS"],
+    "view"  : ["NtG7z", "0RQiS", "WjwXB"],
     "adults": 2,
     "hatch" : 0,
-    "date"  : 202611190642,
+    "date"  : 202611260036,
     "done"  : false
   },
   {
@@ -67,11 +67,11 @@
     "id"    : "hunter",
     "view"  : [
       "xgtQD", "9ifDR", "xiPvL", "d35KL", "0FelE", "SjUlB", "tY1M2", "jDHnr",
-      "2Ruyu", "ZPNat", "37wO1"
+      "2Ruyu", "ZPNat", "37wO1", "fUkMV"
     ],
     "adults": 11,
     "hatch" : 0,
-    "date"  : 202611251134,
+    "date"  : 202611260033,
     "done"  : false
   },
   {
@@ -152,6 +152,14 @@
     "adults": 1,
     "hatch" : 0,
     "date"  : 202611250444,
+    "done"  : false
+  },
+  {
+    "id"    : "split",
+    "view"  : ["MgxTB"],
+    "adults": 0,
+    "hatch" : 0,
+    "date"  : 202611260035,
     "done"  : false
   },
   {
